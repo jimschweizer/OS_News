@@ -1,0 +1,12 @@
+[
+  { "id": "headlines", "label": "Headline News", "query": null },
+  { "id": "climate-change", "label": "Climate Change", "query": "climate change" },
+  { "id": "us-politics", "label": "US Politics", "query": "US politics" },
+  { "id": "iran-war", "label": "The Iran War", "query": "Iran war" },
+  { "id": "ukraine-war", "label": "The Ukraine War", "query": "Ukraine war" },
+  { "id": "us-midterms", "label": "US Midterm Elections", "query": "US midterm elections" },
+  { "id": "chicagoland-local", "label": "Chicagoland Local News", "query": "Chicagoland local news" },
+  { "id": "ai-tech", "label": "AI Tech Stories", "query": "artificial intelligence technology" },
+  { "id": "quantum-prairie", "label": "Quantum Prairie Events", "query": "quantum prairie" },
+  { "id": "fox-river-valley", "label": "IL / Fox River Valley Events", "query": "Fox River Valley Illinois events" }
+]

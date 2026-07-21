@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>OS News — Open Source Daily News Dashboard</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="app-header">
+    <h1>OS News</h1>
+    <p class="subtitle">Open source daily news dashboard — refreshed twice a day</p>
+    <form id="search-form" class="search-form">
+      <input
+        id="search-input"
+        type="text"
+        placeholder="Add a topic to track (e.g. 'electric vehicles')"
+        autocomplete="off"
+      />
+      <button type="submit">Add topic</button>
+    </form>
+    <p id="last-updated" class="last-updated"></p>
+  </header>
+
+  <main id="dashboard" class="dashboard">
+    <p id="status-message" class="status-message">Loading news…</p>
+  </main>
+
+  <footer class="app-footer">
+    <p>
+      Sources via public Google News RSS feeds. Custom topics you add are stored only in this browser
+      and fetched live; the twice-daily background refresh covers the built-in topic list.
+    </p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

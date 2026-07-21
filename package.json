@@ -1,0 +1,14 @@
+{
+  "name": "os-news",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Open Source Daily News Dashboard — browser-based, twice-daily RSS aggregation across topics of interest",
+  "type": "module",
+  "scripts": {
+    "fetch-news": "node scripts/fetch-news.mjs",
+    "serve": "node scripts/serve.mjs"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}

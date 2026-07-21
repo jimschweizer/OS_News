@@ -1,0 +1,805 @@
+{
+  "generatedAt": "2026-07-21T13:30:06.940Z",
+  "topics": [
+    {
+      "id": "headlines",
+      "label": "Headline News",
+      "query": null,
+      "items": [
+        {
+          "title": "Iran War Updates: U.S. carries out 10th night of strikes after 3 U.S. troops killed, nearly 100 injured in recent weeks - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTnl2blBxN3hkcHpRclhTUVh1aEtCSDRKcTBPQXV3UmZFTExfVnExVEcxTW5uZlVRcEQyZDg1MXJ4SXNVUTl6cEdjR2Fla1pRQ1dzSWhoa1dJSlVtell4TXZ2YXNGbFRYRXFsc3hReHJDS0d6V0Q4Yk9KdkRMTEJWVk1OTWR4QWJRVVEtTldRZjBkRGM?oc=5",
+          "source": "CBS News",
+          "pubDate": "Tue, 21 Jul 2026 11:23:00 GMT"
+        },
+        {
+          "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02OHN1VzcxSFpZNDVjTlBiZHhpWFY4VmNuN1E4R1FNUEtyVlBzRjhtRk1oQTFPaFdRZGVQZF9rNjEzZmVybjJBZkJyU3djNC1jVlpjTDVJZGpPZw?oc=5",
+          "source": "BBC",
+          "pubDate": "Tue, 21 Jul 2026 11:42:41 GMT"
+        },
+        {
+          "title": "Tropical Storm Bertha churns off Florida coast, prompting storm alerts - ABC News - Breaking News, Latest News and Videos",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYkZrbUs2VENDVGRWQVpaNmx5ZE1NbG5UbDNUU1FZTDFUQ2NZYkdpalJyWkw2blo3X084WWtLRHdYUTByenhwOHlRYkFsMFRTNGpMcDVRMURkaGZMbE1qS0drTTlWa0RoWVNWTWtKNUxoT3VhNWhkZnh4WE56dVhwN3huS1pxdHV5SzhDdmJnaGEtWU9GQmxEbtIBngFBVV95cUxOQ2dlNHE3SnR0YXBXV1NTcm8xOHI0YWhHajg5ODdLVnJiMnhsSmRXaUNFZHZHdmJoN2pXb3dEaTlfNE5lUWxhdTJRMlAweGw2dU1jUDg0WEp0a3paYV9oWm8tamtiV0lhRmE3SS1OdkMyQU1kbzNBVjZaR2p5V3I3WHp4ZVBsVGhkZ1pXNGpVcVZXQlJPZEdSUzZwOXJQUQ?oc=5",
+          "source": "Breaking News, Latest News and Videos",
+          "pubDate": "Tue, 21 Jul 2026 12:22:30 GMT"
+        },
+        {
+          "title": "Almost 100 troops injured in recent weeks, Pentagon admits, as Iran launches reprisals on US allies - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVGRld2lfUmNjeFhHQkU2dEphMDF5MUp2QnNHeUk1MDYzX2E1bVU2WkpOWlVXWXgwdjNsMHdIMEFkbDdPYl9BMFFDdEd0QThMdHM0SHpBVl8xbXVwMXZDeXFmUmZJRVVZblpVeTRMc2ZTcmZQX05fQWpxeW12V3JiX0xlNE54WHFIV2tkaUxkZmdpWnRDdmlYU1RlU0Q?oc=5",
+          "source": "The Guardian",
+          "pubDate": "Tue, 21 Jul 2026 09:37:00 GMT"
+        },
+        {
+          "title": "The primaries to watch today in Arizona - Politico",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcTVfd0JnckNfLVRCNE9vY0N5OVNFSDN4bk9NVlhtYUJUUnBSSEJZQ3Vva0ZzZkZHVGFYYkFsOWJkNUY4U2toNWlDV19kcmlLWHc5RDE2TjB4WnlzOGkwRl9LUFpHT0R1MlFFMm1od1REQmk1eW8zaUtySTBTeUVwaVJOb2pUYW55cGtzLXZsSnp0Y1k?oc=5",
+          "source": "Politico",
+          "pubDate": "Tue, 21 Jul 2026 10:03:00 GMT"
+        },
+        {
+          "title": "The Pentagon, sinking billions into Iran war, is quickly running short on cash - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ0liS1RON3lYeXZ3SFdEejJMQXEzYTVHb29mTnJHWXVhRmZTZkxzcnh3dElKRmdCUmxTR3RXYjhERm1IeklUYndfTWdnYVgyTXNYcjlMSjBtNUgxb3kyUDdoeXpwdzl1UkxRWm5PWEZfdkZ2UHlLd2NfVDd5aTY3QXRiTUZFV0U4aDB1RldrZXFJaG82eGtPaGZ4dENNM1lTQ2J5SmV0QlBCc1Ntb0Fmb0lGUFRmdzB0UzViUkVKRi1oaVJY?oc=5",
+          "source": "The Washington Post",
+          "pubDate": "Tue, 21 Jul 2026 11:32:46 GMT"
+        },
+        {
+          "title": "Trump vows revenge on Iran and what to watch in Arizona’s primaries: Morning Rundown - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWpSYXRLTThYa2x5cFZCck1vUFpwcEo2UDF4ZHcyMmxveXg5dXFySkxySWFoaFRVR25lM2tkSTdaVzFncjFKNWg3RTBEa3MwSk5VYWpPS1psNmlwZnEyMnZwcFlzWUlIVXAwNWdXZU5LS2pNTDc2cjhIbnBDOWtlUDFWd2lxQ2s5NkI4QXhYcFVqdmxKWHM2aEhUY2RqbVl2NkVCbkVEbGQtdw?oc=5",
+          "source": "NBC News",
+          "pubDate": "Tue, 21 Jul 2026 10:59:50 GMT"
+        },
+        {
+          "title": "'Anti-ICE' army veteran started fire outside Manhattan federal building, say officials - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0YVVSYi1xZ21pSXVFVUdIQXhkRFBrTDdUaE9rMXFlVzJnbFhxR2pHLS1WOVpBWnMtUkpfLVpZTmczYVBKSXBibTFsS1JQVUhrRHhtRUdJUEd4dw?oc=5",
+          "source": "BBC",
+          "pubDate": "Tue, 21 Jul 2026 02:16:05 GMT"
+        },
+        {
+          "title": "Supreme Court will review Alaska's bid to seize pilot's plane over 6-pack of beer: \"This case isn't just about me\" - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeXduREM1NTFfcXBPODRwRjBzT2VuLWVraGdNdk5QNUJjWVNsd2E0ZEQwSlFTTVMzT0toX3FGVHBHeEZGSGV0QTR6d3pPcnNXWXdIUjVsdndoX29qeG16YU1hR3h5ZjB4cmM4d2xVamJOYWwxRS00SkV2dFJYZzZEaUZEVENVbG8?oc=5",
+          "source": "CBS News",
+          "pubDate": "Tue, 21 Jul 2026 10:27:00 GMT"
+        },
+        {
+          "title": "Capitol agenda: Johnson leans in on GOP holdouts - Politico",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUTUtd1pDV2V6Ymc2UkQxcVpqTmhnLTJPRHRDSTlod1VtTkpsYjBIeXZhQmdpQnYybGZ2bDJ3MjM2MUZ6RTQyZ24zN3o1eXJUYXA0V3lEdE4tRVA2RGJPX2FKNmhBanJ6TXJ3SnlSRTlSVUZFVGxBejRFenNreWtuRlZwUnNwR2dvX0RxNmxNZGlRbEJOd0ZLQS1HQkg?oc=5",
+          "source": "Politico",
+          "pubDate": "Tue, 21 Jul 2026 12:00:00 GMT"
+        },
+        {
+          "title": "Burnham Promises Hope and Change. The Hurdles Are High. - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS21CU0U3eEJab0RHWWZNejVqWnpGaGdCcEN3eF9NYVFudFhkRnRjTDBxY2NXMVZ5d1lMcG9UcFdobnNkYTFvRFQxaGxsY2ZvdENia0pEY0RaVFlNLTVEekc3LWVxa1BiWkx5VF90ZjR0SkU0dGpRM0haak8xN1MwaUJPWXIxY2tEVG9rdGFxUjJoWmlUSGdvMGVadXA?oc=5",
+          "source": "The New York Times",
+          "pubDate": "Tue, 21 Jul 2026 09:50:13 GMT"
+        },
+        {
+          "title": "Amid U.S.-Iran war, Houthi rebels threaten to blockade another key strait - NPR",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rdGFHaTIzbU5aV0JvNTAzWkVTbVpsVlZZZzFjalpVSmtuUmd1UHFvYVl3clVkQnR6bVAxV2tHNXhQNG5DN3JHdmpsbjQ0RnFTb1hub0I1TjlzUS1RY3gtNlpkMGtYc0lsR055UA?oc=5",
+          "source": "NPR",
+          "pubDate": "Tue, 21 Jul 2026 10:21:43 GMT"
+        }
+      ],
+      "error": null
+    },
+    {
+      "id": "climate-change",
+      "label": "Climate Change",
+      "query": "climate change",
+      "items": [
+        {
+          "title": "Majority of US voters link extreme weather to climate crisis, study finds - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWTZMTzdJMkg2Zzc4S2ZnYkhsQUJVNzQycy1hTkhHdWlMRUFXNHl4TEY1d1dXRWtwN0ZYTHRfNXhHcWtPLTZfeGx1VjlBZlMxTm16dkR0ZzZ0RFVUbGxhMlBPMDY2Q3FPUHpzTEVPeGdMdmNYRTVuSXNBM2hEYVhXalROb3FwMFdxc0E?oc=5",
+          "source": "The Guardian",
+          "pubDate": "Mon, 20 Jul 2026 14:43:00 GMT"
+        },
+        {
+          "title": "What a man in a bear suit reveals about climate change in Japan - CNN",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTVE5M2tDTmJONng0eHNSa3VfRzJJa1JVdk9fdV9rUDZYYUJGTk5Xa1dTc3pPTHJwRVBYZHFZblRDTnVTMFZWZ3VaS2NlUFozSGlJVm54cjh5UnJVY2NpYjcycTdzTlJoNnZMU0NSQzc2Q2Y3T1ctVXZvV245TnBfOHItbk95ci03cXFCV1MyckZEa09zMFF2MU9WNHlsWFkybkFTRmctSzN1VVZzTS1iMzRoU0JRYXltWlRPRjln?oc=5",
+          "source": "CNN",
+          "pubDate": "Mon, 20 Jul 2026 17:09:00 GMT"
+        },
+        {
+          "title": "Trump Attacks National Academies Over Climate Chapter in Judges’ Manual - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYjMtalhmek54WVF4UkRPM3AtVzhHUzhsV1pQTjBVdTB1eE5kbE5Ja3NDbHoyM0g5QUNDbVBIbVJvTkw4aFRDaFNzVVFOdndGRW1HVWZEUW1TQ3BPTmhmZGYwakEtX2ladXYyVGY2NkRHa0lxSkpoZDBZZTlSa0NiVnk2V2ozZjlnNW5nTGZxQk84Y0htZ01oVFpn?oc=5",
+          "source": "The New York Times",
+          "pubDate": "Mon, 20 Jul 2026 20:55:46 GMT"
+        },
+        {
+          "title": "As climate change impacts forests, tribes see nature under attack - Milwaukee Journal Sentinel",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQVBGa3lsZDlrX09oQzNjdVBFV19ONDcyU0g1bWo5OGRMR3RIa1FUS3llZmxjT1pIOFprUUVCWGhqS0ExdFVkTWVFcElFMmxRTm40NEJVQ3NrTERrZ2ZEdUNpb0N2RkZZUDhqdnJSOUpjbkx2TDdsMU43VkEyNnVrTFlKeS1GVzFBYTVkWUhhZHVSM3FRcWZwRkljQmw3QW1zVzJUbkQxVU50X2NkWEJjWm9TaS1DRVZ2VWhSamo3YzhOLV81WUpGcEZ6TWh3OUY1MXZUUGhsMA?oc=5",
+          "source": "Milwaukee Journal Sentinel",
+          "pubDate": "Tue, 21 Jul 2026 10:02:00 GMT"
+        },
+        {
+          "title": "I’m the chairman of Aquarium of the Bay. The climate crisis is reaching S.F.’s waters - San Francisco Chronicle",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbXNvWmd2MUtsaDBaLWRwWU9YeXhRd0c1eGlwcERUbWlIS3BGbzNzaUFCbnRZRmdhWktWWVV1bHdTbE5QUW12OHQ4MkhldmxRMHpTWXYwS1lLeTRjRzh5NEQ3R0VyaFp5eGRKbUR6b0VhUDJzVGE1T0xXSGN5ZEVidVZ4VWNXYXIwQWJJcWxVMjEwcHdmQ1BNd1VtR201UWs1RjRvQWNONzFUZ3IzblRfVUtCc1g?oc=5",
+          "source": "San Francisco Chronicle",
+          "pubDate": "Mon, 20 Jul 2026 11:48:06 GMT"
+        },
+        {
+          "title": "How to Unlock Republican Support for Climate Action - Heatmap News",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96ejhwT2w5TGo2Q3RHWHprNjloTl9UOGFBSUNlZHZod2w2ano4U05qTDVLZWlWTC1SQy1kR1gyVmVfS2ttTzJwRGp2U0hfUG5maDhHYU1Ja1gzTVFvamZia3hB?oc=5",
+          "source": "Heatmap News",
+          "pubDate": "Mon, 20 Jul 2026 16:06:55 GMT"
+        },
+        {
+          "title": "Trump calls for investigation into manual used in climate change cases - LiveNOW from FOX",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9oaThxSUh2c0hDdGJUWWFTUUxlSG9CNTdVUE5KVTZfQ3gxVjdzOFJsRFRsQi1taDVNemV6UmdKRkJqd1V3aWd1QzU2V0VVeUdIX0ZBZXM3anNNb3lkWDFQZXBtc3oxVHdaRW5NS1BseURXRE0?oc=5",
+          "source": "LiveNOW from FOX",
+          "pubDate": "Mon, 20 Jul 2026 21:13:52 GMT"
+        },
+        {
+          "title": "Climate change: Why the ECB refuses to create a lower interest rate for green investments - Le Monde.fr",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVUIzZkhsZTFWV0NBcWhKcVBjQUN2aWk5Qll1WVo0UnA4Q2tBVE82LVBGSXg2eDBfTGI1YzFZdlhOWGdqZmwyUkxJb3h3Sk5jNTRmc1NINlNURkdOTGFjWmktRW9mUkt0THdSMXZyVEcyTDJha1p0ZVhDYTdyV09RMDFqZnpKSVcyRk5hOVA2NXNFMFc2VERNbTZjU1Z0bWR2VlhaNDMyT2d4dE44WE04Q2JJN0hMOVZSV2RoQkJjUEdCV2FldkQ1dHNzamZTQzhDTTV3a2QxUUdsQnVHcTIydTdNbWNTTE1qaHhkWFlB?oc=5",
+          "source": "Le Monde.fr",
+          "pubDate": "Tue, 21 Jul 2026 06:27:52 GMT"
+        },
+        {
+          "title": "Why is NATO ignoring the threat of climate change? - dw.com",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVGNKN1JVVWJMQlpTbnNHZmkxN2dEOERJZk1DZzBxYWRYY3h3ZTlVNkdiLWpSX0VORDlYT3FVX2FCRUlEYWIwcGRyUzBuZUwweUt1R09iTzNlOWRoaXNOaTNKNU9fSjJSdmQtUnlZc2Z4aFdRTmREWHlaVWdwcTloMk5KbWh6X1c4M3RkMmg3NA?oc=5",
+          "source": "dw.com",
+          "pubDate": "Tue, 21 Jul 2026 11:19:01 GMT"
+        },
+        {
+          "title": "Opinion: Why small island states are driving the fight against climate change - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNczQ2eWlaeFVNaG9MOHpKMENBS21YVlh3YUFzMnF1LXhCRWx5ajNTUmJtNVFwdl9OWXQ1WUhXSG1Ia2ZvWmZ3QUhKODFINTJrT2JMQzF6cHUycFNRWUpuUkN0UERzQ0cwcWlJOWZQYXBqNEJBTzhiTFdWa3lxYk5fRUFPZXp4VVFfME5MYk8tQzRBNkR2d0xpRklSYmJTYXpqcm5HaGdEYXNCZkRiMHFUbnBMOF9LX0g4?oc=5",
+          "source": "The Globe and Mail",
+          "pubDate": "Tue, 21 Jul 2026 10:00:00 GMT"
+        },
+        {
+          "title": "As climate change threatens their lands, Indigenous nations demand more power at the UN - grist.org",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZUoxVklGd2FiZHpxR3BuQzVnVXVwZDJMbnNGdENUZjRnUEFZZ0JMODJCXzNzazJTTUFpT2c2YmttQVA1TTU0UXhDenlaU3BHU1Z2UUxjd3g4ME5tMUJvekNLTXNZQXdUZkRGdjJUYUZ4dVhlWEFIYk85X3BQNVBobF9rZGdLUkc5MVMyeUJtMjFkMVItMHVYcFZCRElxaVEzemJuTmg4dDQxbWQyX3FBbl8wcUwyRzVwaHpoZVBPNWoxTm9MUXFLdjV1OHd0WDdjZVE?oc=5",
+          "source": "grist.org",
+          "pubDate": "Tue, 21 Jul 2026 08:16:10 GMT"
+        },
+        {
+          "title": "In 2026, Climate Change Is a Core Banking Risk - International Banker",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPY2tHX0ZyN1pIOEJWRnRqYlliWTNZMndqRkZlRzRRbFBnMUowZk4tbXBhY00tbTRZN2RJamlxZVNYR1BYVUhwb0d4N1RMSlZSZjMxbXp5N3RfczNpMmY2RVlqaHF6TTFnc0ZSQ004VUE5YXB1NWNsclZHcDh4Z1E2V3VHY21IUU42WlAtNERRbw?oc=5",
+          "source": "International Banker",
+          "pubDate": "Tue, 21 Jul 2026 10:44:19 GMT"
+        }
+      ],
+      "error": null
+    },
+    {
+      "id": "us-politics",
+      "label": "US Politics",
+      "query": "US politics",
+      "items": [
+        {
+          "title": "Canada ready to ‘intensify’ trade talks as Trump reportedly prepares to hit more countries with new tariffs – US politics live - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOXNwbkhRYXk0V2JqOWlyR2xxUnd2R3VGMWludXFiSGt2LU1FSGZfa2pmWkxoUVJrVEtvT3pDaDQ4OWRxX0NYVmE2UjhFVW5YX0sxM1RBbmVQRklPcVFFNVR6cW51R3hyYU9DNGhWdmVFUmVsbUE2WWRvQVN4S1lOWk9TSnFxUF9LVm94ZUFld0kxQWNKdFpsbmtIZDU5ZTBKekdlMUpnMHN0VlI1VnNLWFpsOVlVSVJCZW9KMmxXMU92WXlNdjhzd0k0R3VRVGZaU3kzZm1YekhGSEJkaE9OaFFkdkw?oc=5",
+          "source": "The Guardian",
+          "pubDate": "Tue, 21 Jul 2026 10:37:00 GMT"
+        },
+        {
+          "title": "Socialist-backed Michigan Senate hopeful calls American politics a 'disease' after professing love for US - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNmZKUE9rdlp3VS1KQjVlQ3V3eFMyMEg2MWhaakNpVDJJbmF3TU9FX2xqZ1p4S3V6U202OWFXNlRHVXVqY3hIcmZqZGY3QWNFTFlSLXNqYmlQVW1idGVBdm9nOXQ1Ri0xclRkUE9odV9JTWlqcU1FYUVGMjl0ZExNUG84ZzhIVTIwRmFxeWEzN3BwSzViQVFuWU9hRnZaRERGeFM1VER2QXBvWGVUNEo4T1o4Q21DWl9EOEgxZTA5eFd4SEI1dzlSQjV30gHPAUFVX3lxTFB4ZXBCNnMzeDZHTnR3LVJmRDh2VnVfNHBGMHVOY0E0QXlSOVBPbjhJcWdIV3RyTW9ZRDlpcmxyVjd4Z3k1cGZicVlOTnQ1RVk1cDh5TS11X2tlVHJxM3RxYm9kc2FCdENOSDc1UFN4STdQaWgzaVBiN2RVZzBISEhnekxobVFrcUFGZWRQME9OMERrVDB0V3ZJTzBTdjNpS29CUVBSNkhLdjh0ZWVvNWVycjdnWURtb1FxTV9FNjE4a3NRTi1lUzRHZnlPT2pSZw?oc=5",
+          "source": "Fox News",
+          "pubDate": "Mon, 20 Jul 2026 11:06:25 GMT"
+        },
+        {
+          "title": "Opinion | America Has 2 Political Parties but 8 Political Tribes - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbW5iOFBpTElVb21valFVQVdBa21fRDhXLTJ0ODhSb1AwcW52SWM1YXBydnhPM1FDNGIzSTliODhoOVdUYnMwVDlxSnBEdXQ5Vk91blJiMk9wdDA1Qk02VHFxX0JJd05PRF94Zkp4VWc5T0dpYmZKUDBjQkJhREtZV1RjeHBrN3RNYUdN?oc=5",
+          "source": "The New York Times",
+          "pubDate": "Mon, 20 Jul 2026 09:01:30 GMT"
+        },
+        {
+          "title": "Trump enters an uncertain moment in Iran war that threatens to become a quagmire - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVGtFcWE0Mk55WGxIQ0VXTHFjWUtaYlNSajUyTmZTUGNLZ0Ixa3ViUmxnZDBXNktZdVdJSmNtWjU1VHNjT0lVRUtFVVRUV0ZzTUZVTEpTc0hsWlBvRnkxYy05RmU4UXZMWXlwRHRVSHZSMjFYSHJrVDJXR3BEUGxGdTVMd24yeUV3UHVCX3lhRnJpOFJ2dHpvV0U5WUREanlQUGNEYng2QkpJd25yV045YTBjZzRkMnY3eGxRTmpB?oc=5",
+          "source": "NBC News",
+          "pubDate": "Tue, 21 Jul 2026 00:42:00 GMT"
+        },
+        {
+          "title": "How the Iran war’s unpopularity compares to Iraq, Afghanistan and Vietnam - CNN",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nSS12WlpmZURfeW00UFFweXF6bTVLUlJMcktFTzdMOGNacng1NUhQV3BUQmd1dTN0RS1wLXBrWHBOLTdiZXJzUHc4VVZKYzZQR2UzaEpwYVozbDNFNjQ0R0YtdGIxaVZLX1ZiQlRQTUhIdjR4N0V2My1vODlicTQ?oc=5",
+          "source": "CNN",
+          "pubDate": "Mon, 20 Jul 2026 18:16:44 GMT"
+        },
+        {
+          "title": "McCain: If 2028 Dem nominee has Mamdani’s tone on US politics, GOP has ‘huge f—ing problem’ - The Hill",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRjZINkYyZ0J2bnB0eXU4Ukt4MTFqSklmektFUzQ1aEJ0Z01IRGZIb1dMMDFPQXBVdkxTdmxmVFB3MjZxMVctTTlPV3BpN0tlNUJsR1NFVUcxNFpPRzZ3N3BfcFRQa2NsQjdHX0tac00wLVlRNmxwM250TXpQQ2dXQW5qNVZVWDVxc2Rv0gGQAUFVX3lxTE9PcHdKV0xORGFTa0ZPWkM2YmxOSVRNYW9fUmZpUjRNbTFHMlJPRU8wN296X25KemQwU2JtcG5YSUx5MkRpZEROSVdYZVM5cFBlNi1PeUhjb1dsODhZWHVBeDRDeWtDTGRhNWpDaU96MjRHM01MR1lEaVBpRUN6V3JEMWtCdGF1UWhtWmNNYXI4Rg?oc=5",
+          "source": "The Hill",
+          "pubDate": "Mon, 20 Jul 2026 19:06:00 GMT"
+        },
+        {
+          "title": "Trump Rejected Nearly 6,000 Clemency Applications Amid Hope of Pardon Wave - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNY1Q0aTZkZVVnTWRHOTVONUtvM1pTYmZoNW44ZDM0RGx0U2dFd1BXWWNVUkRlbXVIZ1Q2WkhtZXpKZTc4UWgwVDVQdG5iVnhLS3hBX2l4QTc4aU9rYnFrTGU4N0xENHNfR253eUNOSGFqRW1jUkszWjctcDVka1JENWRDSmhKb0QwbG9sblVXZ09aQQ?oc=5",
+          "source": "The New York Times",
+          "pubDate": "Tue, 21 Jul 2026 02:20:12 GMT"
+        },
+        {
+          "title": "G.O.P. Boxed In on Iran War as Trump Sidelines Congress - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1lb2w0YlVydkpuXzNPR1NVeDVjSlhkb2dvNlhqRlo4RmFjQ3VueHRnV0VzQjhYVzZieE9ONkVFYjF4QWFLT21WY0hsSzh5YnRNRTNNTk9LdHFrV1doc0pabEdwYjVnTVFRYTZYSGo0bFA3RloxZjJMejNR?oc=5",
+          "source": "The New York Times",
+          "pubDate": "Mon, 20 Jul 2026 18:58:04 GMT"
+        },
+        {
+          "title": "White House Says New Air Force One Will Be Out of Service for a Month for ‘Upgrades’ - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVXlqUU9IM0E2Wk1SLVdOTmlLYUxjeXRpSHE0cFE1V1Rua3VfOHc0M0lIMVVvanZjRUx0TGZIT3FjNUpmUU5FU3dqT2RYXzh2aVVxV2NxQUtfWlZMN0RjOTdZV2hadUJRT09qMFUwdEJPeTk2aFJIRUZROEVvR3hYMGNtX1E?oc=5",
+          "source": "The New York Times",
+          "pubDate": "Mon, 20 Jul 2026 21:43:15 GMT"
+        },
+        {
+          "title": "From Bernie to Mamdani, how the Occupy movement transformed American politics - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWmFuSUxqNzJmcDhoOXdfeF9MVjVxcE1zZF9iQzFTdWpmOWFUQ24waGZPX2J1dUtZRTlDcUJ5MWgxSi1sNEpWakZpelJpNDFpNHpjaHhNZmRCY0VxajczQU1oTWYzaDhmWDl5MkQ2R2xIa3k0TGMtWGlJbWc3dkcwMA?oc=5",
+          "source": "The Guardian",
+          "pubDate": "Tue, 21 Jul 2026 11:01:00 GMT"
+        },
+        {
+          "title": "Pentagon Withheld Dozens of U.S. Military Injuries in Iran War - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeThlaHp1WlFJWWlZWmdKSUE1azhyc1dNZDlqQlFqd09VQXJ1RUlNLXF0OEJfeUhzdnZRYnl1REV5UjlUVmd5T2RKTFdnV3VCTlVGd3NzYTJTRkszMnhQUjY2SmdaSnBaSGFhU3V4bWo4dGlibHl3aUZ4c1g3a0NyRmxRMEp1VlNvekE?oc=5",
+          "source": "The New York Times",
+          "pubDate": "Tue, 21 Jul 2026 02:49:48 GMT"
+        },
+        {
+          "title": "When US troops die, Trump often reaches quickly for politics - CNN",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YVUttQ2xNT21rb09NRldBRVUxV1hlN3BOb3BWd3dPLUlLanZQNVdKX1BBWkxvMDRGbHpJSk5FUnRzdGlnWDZZdHZ5cThESXNRaUxnb0VJREYtOVhtdGJSZkdMSkVRb21EX2JjYjk2SDItajNwc2c?oc=5",
+          "source": "CNN",
+          "pubDate": "Tue, 21 Jul 2026 09:00:25 GMT"
+        }
+      ],
+      "error": null
+    },
+    {
+      "id": "iran-war",
+      "label": "The Iran War",
+      "query": "Iran war",
+      "items": [
+        {
+          "title": "Iran war live: Kuwait desalination, power plants damaged in fiery attack - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORlZ5bEhMQlpYV2JLZTRpUkJTblJYa0VGeFhhblVfUkp1TDIzMFl6ZnlIZ2gxbDZJUXBpQmdZXzc0RjQtRmU1cjhXblRCN3lwbG5YNThjR0xLMnRJTklldUNYYzlrLXRjeUJDM0dPTjFBcVZQdUQyU1VZbmtYQ1ZfSld3cUppa1ZaVk4yWVNCYnFpbEJZVkxFaHdjcDVoMWplN2tRV3pTaWJodV9zZGloY0JRYjVTSXpMbUpV0gHAAUFVX3lxTE5Sb3VwbFB3cUlwMkoxU3VEZjBEUjBLZkxyVDFpNUp1WG5PektuUGw4Z1hTWEUzbE14dEd5X3RWMmxiRG4weVJoWHY2emd1N0NFSFY4QzlwZmQ4Q0s3d2NudG9CNTZjRUZxSDMxV0QwaEkxOF9qaTZ2cGJtOFRZVHJSYTR5TTc5b3NWMkJWbThFRnNJdUxJNExpa1M4NlFLN2dWVzJKX25RV2U0a0kwam15Wm8xZU1lTHJpUHVfNkZ1OA?oc=5",
+          "source": "Al Jazeera",
+          "pubDate": "Tue, 21 Jul 2026 11:31:41 GMT"
+        },
+        {
+          "title": "O’Reilly: Trump has ‘shrinking options’ in Iran war - The Hill",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd0VKRFJZVkw2WTVkRURnVFl0emo1V2psM3lsdU5manpPb2xZUENBMC1yb2tkSGtXdVFZSnl5QkczU1l0RlJyc2N3c3JzSkNYZWJzMndwUk42TnRXZkhxQURzMzdJNjNXZ1VjMERFanZzTkpnMXN6bmxFc2dGaWVnQXpQV25XM0ZEWjc0Smg5NNIBlAFBVV95cUxQUGNIQmxmT0JmakEzMTFaMXN4dXAwUExySkhBVEU3Y0pCYkNoNGZlbFpDVkhBRkhfczc0eVFJM0NCbERzcm5faEdQeVNEdFlYQ2QwVEZQM3pWQUlCN0lJVko1N1MxdmxEUUVKbnFhQ1p4bGJJSmFWZklRSDBnSG84a0VobURaVDZiRDYxalRjTFU2WUl3?oc=5",
+          "source": "The Hill",
+          "pubDate": "Tue, 21 Jul 2026 13:19:00 GMT"
+        },
+        {
+          "title": "A Red Sea blockade threatens a new front in U.S.-Iran war - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMEtLcUJfSEVjZ1I4WTU2cnNYenZrVVlBUEFHLXJSVTJZUjg5UzBuT094dVlYV1A1bjlVQXZDek91ZzlkelRvLWhOd1MwX3kwR3ZCOS1XbWF2M2xITHRtV0w2bVVnMmkyWkpQd2ZxWFJIcGVoN3dtNU9ndi1VOEo0Z2s5cE5BOW9KRktySHBvN0xGUlg4d2JGWlpJWmNVQQ?oc=5",
+          "source": "The Washington Post",
+          "pubDate": "Tue, 21 Jul 2026 13:03:17 GMT"
+        },
+        {
+          "title": "Houthis in Yemen Edge Closer to Entering U.S.-Iran War - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUXZuZGlIZXR4QmYwRVg2NVdRTmliamxEaGpjUy1NSDR2TWxXSzF3RGFVY3VYQ2dWb1pJRzlmQUY0c3VYcTIzLU5ya0NzeVFMWDczSnJ1alZGOWZZaFZDb3ZrN3JwOUFnTE9wZUR6Z29UZTZCeDdGdzZnQWt1WmRiY0Q0Ni1kZw?oc=5",
+          "source": "The New York Times",
+          "pubDate": "Tue, 21 Jul 2026 12:25:24 GMT"
+        },
+        {
+          "title": "Iran War Live Updates: Houthi Threat Adds to Fears of Wider War as U.S. and Iran Trade Strikes - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSUhVOVVGNVMxOHlHY3dwMDU5bEFEeUg4QUpIcWQ1QVpTTmg5VVRTZHYtZTNQQ1ZKLXZKUnR3UVBMRUluSWxpOWZvLXlpbFc4VzN5eEJmYkJTbGxvbzhRbi1HZ0hUTGZ5SU5nanJXMmpzTGZxNmhNU1AtUHJNbnZmYg?oc=5",
+          "source": "The New York Times",
+          "pubDate": "Tue, 21 Jul 2026 13:21:43 GMT"
+        },
+        {
+          "title": "The Pentagon avoids questions as the US war with Iran escalates - CNN",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbXJEaHNnSkF4SENDVWNQcjJoS1BpaW9feVVsbEN2NnNUUndXT0p0TkFuaUFyNk9QWlJzZU9LY3FiSGRoOE5BNFZUZDNFZDdmRTZTSTYwNmtjeWpkMVBfT0IzYXNiNGgyV2NUeWJwdUhCbEZ4c0xzVG02NVZjSEdnejF0QXM3OVk?oc=5",
+          "source": "CNN",
+          "pubDate": "Mon, 20 Jul 2026 15:22:30 GMT"
+        },
+        {
+          "title": "The Pentagon, sinking billions into Iran war, is quickly running short on cash - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ0liS1RON3lYeXZ3SFdEejJMQXEzYTVHb29mTnJHWXVhRmZTZkxzcnh3dElKRmdCUmxTR3RXYjhERm1IeklUYndfTWdnYVgyTXNYcjlMSjBtNUgxb3kyUDdoeXpwdzl1UkxRWm5PWEZfdkZ2UHlLd2NfVDd5aTY3QXRiTUZFV0U4aDB1RldrZXFJaG82eGtPaGZ4dENNM1lTQ2J5SmV0QlBCc1Ntb0Fmb0lGUFRmdzB0UzViUkVKRi1oaVJY?oc=5",
+          "source": "The Washington Post",
+          "pubDate": "Tue, 21 Jul 2026 13:25:10 GMT"
+        },
+        {
+          "title": "Live updates: Pentagon says nearly 100 US troops injured in last two weeks, as Hegseth to face senators - CNN",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mbS1zeE9UQWs3WEN6aXZTeTNROVZveU1GLTBlUm1kRGRlTDJaNjU0cGx6QTJrcGF3bGdhVFJzUFZ6Yk9VVEpST2UzNzYxQVVBRFNwdDFhb21mV0thTW1kVFhPa0l2aHNrcDFTWUV3?oc=5",
+          "source": "CNN",
+          "pubDate": "Tue, 21 Jul 2026 13:19:00 GMT"
+        },
+        {
+          "title": "GOP faces new alarm over Iran as ceasefire implodes - The Hill",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ULXlVUGIyVFEzNlBYQ1pucGdpc2NmR3dQRXRTYVVTUTQ5YndZTnRmNDN2VHlYSnNxMy16dFhCd1V1M2pFWjJ3VVBhaUhqWjJVelBuTGdWR3RsQzhzT3NibnFKcVZUUTZTMU1hSWM3dUFCVFdPUC1OSE05VTHSAYIBQVVfeXFMT3kxMzlnZXQ5QWRxTExZUk5VZVdnVGg1UE5BdG0xRXk2bkJpWFMxX21WUWo5YVpzbEtzMEt5d1Utc2JTZ2FQckVFUEFvZndadGlWQjNnSWpFQ3BLYVd1bTlyZTVoVDFMVFFTbnlyRWw0YWsxTmVWRkNWYjBaQmVXWDZPUQ?oc=5",
+          "source": "The Hill",
+          "pubDate": "Tue, 21 Jul 2026 10:00:00 GMT"
+        },
+        {
+          "title": "‘A persistent dark cloud’: Trump faces a bleak new phase in Iran as GOP midterm anxiety grows - Politico",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVnV2by15NWVrdjFldFdLZUpyb2VKYjV4d0VzSlFHT081cDFBVGp3UGlENkFXMnJlTHVIMm9uYkZOQWtSeGhYZUY0a3phOWQxTGxsR1RWR0RER2FvS3JVZ0syeVJfNkFxM3NSV1VTNWxvUmhoVVNabVp1QkFuNVRQV3ZCeVdCVVBuLUtKdzdNYTdBVlJCZzlzNU82MGkyblZuRmpVR2ZBZXdUVVhwQkhCZjdYdlZfQ3hJOXE4MFZmSW4?oc=5",
+          "source": "Politico",
+          "pubDate": "Tue, 21 Jul 2026 09:45:00 GMT"
+        },
+        {
+          "title": "G.O.P. Boxed In on Iran War as Trump Sidelines Congress - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1lb2w0YlVydkpuXzNPR1NVeDVjSlhkb2dvNlhqRlo4RmFjQ3VueHRnV0VzQjhYVzZieE9ONkVFYjF4QWFLT21WY0hsSzh5YnRNRTNNTk9LdHFrV1doc0pabEdwYjVnTVFRYTZYSGo0bFA3RloxZjJMejNR?oc=5",
+          "source": "The New York Times",
+          "pubDate": "Mon, 20 Jul 2026 18:58:04 GMT"
+        },
+        {
+          "title": "Why oil prices haven't gone crazy despite 5 months of US-Iran war - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRWljTmhtaTVPdmZTRkZFLVFDSkpiYlhTWkZidlprdlZhQW1KOW9aY3daeWkxdm5RaVgxX0k1aVY2N3ZWQk9Hald6X29aeE5jdHFuT0RxWXpCbkJCWkJHaHJqZWVXb09aYmFrWHhKZGNfa2pzeTY5RHJkR0lYUTZQbGZXRm50dXVyQjJBbS1ETVFEOUlVR2lwcGk4dWFJTlpyeFUxeVNRNHdCcEVKdWVXLVRJQQ?oc=5",
+          "source": "Reuters",
+          "pubDate": "Mon, 20 Jul 2026 10:52:00 GMT"
+        }
+      ],
+      "error": null
+    },
+    {
+      "id": "ukraine-war",
+      "label": "The Ukraine War",
+      "query": "Ukraine war",
+      "items": [
+        {
+          "title": "Ukraine war live: Russia strikes tanker near Romania as it steps up attacks on ships - The Independent",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa2xYMm9tU2pNRDQ0WGVpbzNZb2RNMVdpV0VUT1F5Vjc0SDlWM181TUZ1ZXFZNXZ1WlgzOGdNbVNybXRfckt3Z0JIcV9JS0NKcC15b1F3emFnNzZkVEZTUDc3ZXEtM2wyTHI0MS1yX2pMZV9SNjdveGYwWEQyVlkwWjZDa2xpWDBtNkpEU3hMMEh3N21KNTl4T2JPU2IxQVpDYURRbnd3Znh6WFItZHZkWTlYSldqWnBHWXZ1Mw?oc=5",
+          "source": "The Independent",
+          "pubDate": "Tue, 21 Jul 2026 12:11:06 GMT"
+        },
+        {
+          "title": "Ukraine war briefing: Moscow targeted as Wildberries warehouse attacks continue - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS29sVmN3bTZzTzZpQldlUXFVZEhSd3B1UXU3ZVVGYmVUdDJqeHQ3UGEwR3pETlQ5YkRiaEk2a19MdzBWaDB0SV9RMi1SUlE4ZzN6dVI3RzZLY00tYTk4bjNaRUxBNndaQWg3Ync2WEpLUGhLYVd2bXRRUWIxR0xVQmI1cUY3S3pvV3JYWk44UmZoTkFWeThKZzZlS3hydldtLXQ4OEsyY2tGWFB1dmpwWTNmZlZSSS1rcjdLSGZVR3paUQ?oc=5",
+          "source": "The Guardian",
+          "pubDate": "Tue, 21 Jul 2026 01:25:00 GMT"
+        },
+        {
+          "title": "Ukraine war briefing: Strikes devastate Russian warehouses ‘used for drones’ - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVkJuMXhQQWM5bWh0ZnN3dnhhdjFQcUpmVTJjMVYwRzJ5aTNYWkJYUVB6NGJqU212OWQ2SEJHamVhQTQyYlVPd29kbEtSNnI0MURabHVhVFpkekZmQmd0Q3cwaWxBdm44ckI1N0psekZGbkNpbHdtU1ByazZOUzNqUW1wb3VKOWhTMUF5SUNTdXlSaEdrUkRTblk0UEYtYUd4cXJGQ1BZQUdyanB3SUtFdXhWYjJKV3lpNXZj?oc=5",
+          "source": "The Guardian",
+          "pubDate": "Sun, 19 Jul 2026 01:50:00 GMT"
+        },
+        {
+          "title": "Huge fire at Ukraine shopping centre after Russian drone strike - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUWdLdjZqSXZvc1BUaVJfLTNQT1g3eDBmQllFX3NCUjgwUF8zenVXUXdWSXVPMUE0S3FTdWVjTEtqNGVROXpJS3FiVE52Q0pnVFRyUXVwRjhrREFLZ1VGcUdWRFh6SXhaQ0NiMHF3M3h6QUR6NnV4ZmtJWnVBbWh4NUN1ay1faXVzSnNIU2Y0QTd5azgzTHFwWGE2enc1MmRPN1ZzSXl1M1MwMFQ2QWItNmFOWWfSAboBQVVfeXFMTzJraUpQVDByRmVqSEpKNFhEdVd2TkRmQlU0VEFBUjhPNFpiQThsNGkwS1Vfb0hIbU0tRDBwTnptZ1g4TG81ank0ajVjdzNqZkJBRENIblZSc01rUm5FdVJOc3NfdDY2ZWZKWlMtMHFCYmxsLUIwVUpTSENiRGtnUTRIdWI5WTdpT3RBTjZOR1NfMnd1ampQWHFWaDBUQm5HMDNkNTFlQ2NZV1poNnZjQTEybzFuZ1kyQjdn?oc=5",
+          "source": "Al Jazeera",
+          "pubDate": "Tue, 21 Jul 2026 09:57:17 GMT"
+        },
+        {
+          "title": "Ukraine unleashes more than 400 drones near Moscow in one of war's biggest attacks - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOU92aFRfalJadU15M3FGU3A0M2VqVFJDMTIwYU1RdnR3OXN3RS1FaUJuZUI0MlhNZXBhYlcyODFVdkNEVWVHSHV2OUNLNkJkVWRIM00xUmdjcGxNMTU1dnFncklsanVJUFFJNXpRSXRXa3RoX0hrdkVscjJhb3RhdkQ3ZUhtWG9ibml2b0FYT2RLT2N5R214Qnptblh1ejlxY25uekZHYy0?oc=5",
+          "source": "Fox News",
+          "pubDate": "Mon, 20 Jul 2026 16:15:03 GMT"
+        },
+        {
+          "title": "Russia unleashes one of biggest ballistic missile attacks of the Ukraine war, Kyiv says - CNN",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaXlIMmlqYnlESFhlS2JPMFFKTVdEZ3djMEdWbkRzYkxXdldfMWxsT1ZLSm5JdExzU0U3T0FBNktlYVM1cG10U3ZELXljbTdoRjBXLUVNVzlQZXhpSV9xSy0zSUFQMVB0N2Y4OF9SUHM3X19RTE9lLXkxR2RTdlltOUJ0UjJ5Wjcwai1XZQ?oc=5",
+          "source": "CNN",
+          "pubDate": "Sun, 19 Jul 2026 07:00:52 GMT"
+        },
+        {
+          "title": "Russian Offensive Campaign Assessment, July 19, 2026 - Institute for the Study of War",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObDlTQVBtMnFuYWNJZkZvdDRZVXd4dUMybnZrR2FYOU1LMVZWdkp4MGE0R0NpbTctQ0g3YmhuMDZ2d2FxZFloWXplWEZ5UjhuYkZqYklsbEtvdEloLXk5SnAzVTdKUzFsM2d2dEdsWHlSNk1hN1F6YzVxZ2J2aVVoWEVSQnJ6UUpmYllJQmJiUGZ2SUI5RWEtMndYdEJNYjI4Y3BEZjd1OA?oc=5",
+          "source": "Institute for the Study of War",
+          "pubDate": "Sun, 19 Jul 2026 23:26:41 GMT"
+        },
+        {
+          "title": "Russia pounds Kyiv as NATO military chief warns Moscow would 'lose a lot' by attacking Baltics - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSV9ZLXBFVld4Q0JLYnBMTTBrSkZYOS1PZFBrTldWc3JENlNvXzA3bFplTG1PRm1HRWxMXzVLcWRkbl9xMVh6bUlaSl9jcmZ3MlBuWHVmbS13QzcyYnpfT09lYUJQVzIwSXJoXzdKZXhQaUtDWjBoT1lDd3NtWFlfNDQ4aEpBZUVTUUV0NEplenhYdmxiTXJoRjFhQVFVakXSAaQBQVVfeXFMUERRS2NSQnhNNjB2RjYxSklLVU1fNV9hQjhPZEJOODUyTndGRHIxZldBek5MUzdONUpHX3lWcVpyNmM3ZGdjdlp1ZUx2Ri1FV1hqSWJVNzg0RWxWY1Q5VHdsSVBIYmM0am5IZ0J4NEhmN2dvMFBSSm9UcE5QbFhyUFByaHduQUNtQTNzZ3ZYQWNtSTJSNEhGaDhfdmdZeXZTb3ZpM0M?oc=5",
+          "source": "CNBC",
+          "pubDate": "Mon, 20 Jul 2026 04:48:36 GMT"
+        },
+        {
+          "title": "The 20-Somethings Running Ukraine’s War Machine - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTi0xeDQ2bUgwRTBjbXJJdXZNY18wc2RRZC01ZUpmZS1wRVY3bWxtTTBodWJjT1d4c0pRY1Y1MzRMMWJ4MjJkcF93b2RXcXdoaTIwNHFGc19pdU1IMEZnUnZQYW9VeFJ4ODVRUnhnYlFacHRFczhBcWtaMUJyQnZqdWJDdEpWY0ttdm14LUln?oc=5",
+          "source": "The New York Times",
+          "pubDate": "Fri, 17 Jul 2026 09:33:02 GMT"
+        },
+        {
+          "title": "Russian Offensive Campaign Assessment, July 1, 2026 - Institute for the Study of War",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNakJLSmViaTlfclEtUTRqZjktYWdoVVViWTQ3YnFmenNJOXVyMnMxdzdRakVRczJiM2hBM2c5N09IUmdUa2x2V1VpYU41QlNoS0cxb3JnY2dTR2ZqbC1xUERuUmQ0Tk9VQ29ieDB3S1ZaT0dVY3BUZ3NNSjJ0YXNUeEV3MnNOamd5dlRtbEFYckkyeHhrVjZSamc0dWhuOXQtU1hlVDhB?oc=5",
+          "source": "Institute for the Study of War",
+          "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Inside the Secret Factory That Supplies Ukraine’s War Drones - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYUpnVWdXX2NqUk5uRExEZFhUYkRVbl9FMzlCaVIxYlR6di02MGhRTkRUUVRweERHNDdkWkhBOVFLbmFXbjdFZGRqalJTZ0IwSkc4R2J3MmxYaDdnRkpxVWJsN3hQMkVqYk5odFIxMUFRSXFzVjY0UjNRb3RjODRlRHBKZ1MyZw?oc=5",
+          "source": "The New York Times",
+          "pubDate": "Sat, 11 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Russian Offensive Campaign Assessment, July 20, 2026 - Institute for the Study of War",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ2s4MktNaEdhUVRZSnlWay1WVjZfZXNLSU94NENTMi1KQ0VnNkJpQTQ2MjIwUlNXUGNycWJQRG5HYUtzQnBwTFVkdHI0Z29KWm5tSnQ2T215ZHhBRVJKSkRxTFdEQmVrSDRtZHJVRzVXSkQzYURfYUItM1RfWHJXNGZiOWNUdS1lVXBRSWdYYTdVcDJHSzJJdUU2d1MyZ2lfQnhHVkEtYw?oc=5",
+          "source": "Institute for the Study of War",
+          "pubDate": "Mon, 20 Jul 2026 23:35:29 GMT"
+        }
+      ],
+      "error": null
+    },
+    {
+      "id": "us-midterms",
+      "label": "US Midterm Elections",
+      "query": "US midterm elections",
+      "items": [
+        {
+          "title": "Live Results: Arizona midterm primary elections - PBS",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNnFKSTdpOWt3UUp1TFJseS00bVI1emdkc2FXU3Rjb1FVLXBEX3I2ejltSFVrRTF1bEVmTjJIRUVOX1Nua2planQ1MTN0dGVncnhJY2lJT1FlZXZ5SHRLTFM1MzJYbHc0MGdrcUZSTDJlUjNvcEg4SXFTTENmMWhHa1VPcUNndkVpQm9pcNIBkgFBVV95cUxQZUE4RnFTbmJYbzFmVU8taEY4Njk0cGpwRWZDeWZoRG0tM1diR3QwcmxVb3BzTm1VektJalQ5ZGZSamtMZE00NmQ1czMtc05QdVlyNG5Ra2RTcUZQcWFKc3hxSWRWeDlGc3VONVBIcTZzQ2dkVUxoS254S0RHdDYtakE5Sm9JcTRaYUVoT29BTlNTdw?oc=5",
+          "source": "PBS",
+          "pubDate": "Mon, 20 Jul 2026 23:44:00 GMT"
+        },
+        {
+          "title": "GOP midterms strategy: Make it a \"hate election\" - Axios",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wby1MUzlYaWxNVkRyYUhlZ1lSbXEzdjlyS3FrdmhLQVJtZkpNckZQekI5d0pJTk9PbEJxcHN3SjBVb1VQSWE4aVV0SWg0bXoyaTZQR3JuQjBfNFBZdnNUVHQzM28wRU13M1F2V3l4Ti1YQzVSekE?oc=5",
+          "source": "Axios",
+          "pubDate": "Sun, 19 Jul 2026 12:53:43 GMT"
+        },
+        {
+          "title": "Pro-Trump Super Pac Maga Inc builds $400mn war chest ahead of midterms - Financial Times",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSnVKZHBiTUVzVFh5djJVQ2xUQ3B2Qk54am5DdWRlbVhjS3VsQ1VsN1ZYUlM0QkFlaG5Fa21WU1lmckNfN1AzSm5keVRnby0tbEJBVkNGQWVzeEJDMjhoOFp5UVJtWnpRNmdZRkZHaTN2VEkwWDRwVFd3OEVlUzlSRExxV3I?oc=5",
+          "source": "Financial Times",
+          "pubDate": "Tue, 21 Jul 2026 01:43:31 GMT"
+        },
+        {
+          "title": "Ossoff: Democratic midterm victories would do more than ‘just restore checks and balances’ - The Hill",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CYjR6MThvVWRyeG5JOW9nZFh6dmwxd2k4cW1DR1FZSnhGSEdsNjJ6N0NHbUpKTnp1cEhBamx3LUVlSTZLX0lVSFJZNVBaOU5xXy13OFBwOVM3VGFrMVJQSEJCaHRfbjJVRmZtb1RQbkdsZTVvTWxRclFwNWfSAYIBQVVfeXFMUFFUTEdQSkI3VEI5cmlEM1J6UGpWTTVqaThmcTlrWkN1ajJjNHhaZUpFMGVDLWtPa0pPOGxnSmR2aEZON2Uya0pweXZWaU5fSzhJd1FuOG94T2V0TU85UTZKU0VsZ0R5TVpYeU54UjV4RFlwZVBHZkM1ZFpETkdKeFFhQQ?oc=5",
+          "source": "The Hill",
+          "pubDate": "Mon, 20 Jul 2026 14:12:00 GMT"
+        },
+        {
+          "title": "Arizona’s Republican elections brawl raises fears over midterms, denialism and Trump: ‘The biggest threat is the president’ - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fLUwzc093TS13YlVMVUR1ODNZY0NObzZVZ3NTQlNQV3YwTXFsWlRzRk1DOGttcWlMZGR3dERJRHJNU21PMFUwRV81NXVRQmswdzNRZUxNX0x5LXkwdUtVTjZUUUhINkEydmt6OVczdklNbjE0dHdsZEVHdw?oc=5",
+          "source": "The Guardian",
+          "pubDate": "Mon, 20 Jul 2026 18:43:00 GMT"
+        },
+        {
+          "title": "US Democrats divided over support for Israel ahead of midterm elections - France 24",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaHpuU1pxU1p3Mk9hb3o4aTlvRHJmQUtVZkwzeThJeHdsVVJwTlhIZm5zNE0wVk50SnpSYjNObVRfUDVncWxkanlyVzJPc1ZCUnZLRnFTR1dNUmFwYk5uNkZkVm5EdUhOMzJtOXRQbUg4UEY3Vk5XRFFRTHI4dk1sNGFuaU1NTjNhMHFCUDJlUzdZU2lmak1EXzZpaWRhR1JaMzNWODdLTFdTQWpGTWo5QmJYMGdsNnNQ?oc=5",
+          "source": "France 24",
+          "pubDate": "Sat, 18 Jul 2026 09:05:45 GMT"
+        },
+        {
+          "title": "White House insiders deliver GOP stark midterm message: Trump literally 'doesn't care' - rawstory.com",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91U1lFUTFrTDNIbGdoamJ2dm5tZkdiLWdjX0YzUVEtR014bmNhcmlIdGFoRGJKTUs3ektVZExhMkxJSGVodXZHRWhvOXhfbkVfRzM2UUxkbUJDdmx5d0ZpNlA3bW3SAXdBVV95cUxQWDF0bDFvVnBaa0MzY3hUTnJfX0pNQW1Kb0JGWEpDME1SRG5ucWJDTFZ4N1Rfb3JiMDZwRXRrMVhnaWFHMnRSTXdyMWYwRzZPb0t2SVlDYXU5eElyUWduSU9ncEF6TnhKUGl1SEZUUmxNTGhHajA1aw?oc=5",
+          "source": "rawstory.com",
+          "pubDate": "Tue, 21 Jul 2026 12:44:00 GMT"
+        },
+        {
+          "title": "Trump moves to tighten federal control of elections ahead of midterms - USA Today",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVU96cGdlQ2tqZ3NjbXJDSnlkT1JkNzZabndzczlqempQcnNqR0dNaWxhcTBFOUd0YzJOV1dSck1kWVJoVUhtTV9EWUZSLVNhYTMtVGlMQ1pTZHBQb3RYZXVHWlNMckt0T0NjbFVWeDUzcTZQMDNybEpRNmRpSG5QOWpzNm13SVF2b0xUb25HOU5Ic0laOFJ0Zzh2YWJERFhpR3hJdUlBNTkyZjJaaDA1OFI3ejZEZnp0a1E?oc=5",
+          "source": "USA Today",
+          "pubDate": "Mon, 13 Jul 2026 14:24:00 GMT"
+        },
+        {
+          "title": "Six states held primary elections on Tuesday. Here’s what we know - NPR",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5mS0diWXhrQUU1cUxhdU9ySzA3VU16WEd3ZFBLVlpXT0REbWNWR2lPdlcyNVBacG55a2RjV3BwemZvZTlNeXpWUDR3aXNDZmRWN3pxT1lIaDBUa1cxOWwyWGp3NXFWeGxXWEVRTGk4ODhpakp2SDZIUVdB?oc=5",
+          "source": "NPR",
+          "pubDate": "Tue, 02 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Tracking Competitive Races in the House and Senate - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ0ZhWGZlU2pYdmYwbk9SNk9JMWd6aTN1SjNudktsVkFoWEt3T3FJR1RjTC1ZU3Q3YU9ReTV0WUJJQkdDOWpzTWJ1X0liWk91MlpFdmxvX2F2THY3VnBVRDlRQlZFY19fYjRrZDQ1UlN6TGRueERkdmNIQkVveEZHMjd3eFVlM0VFWVN6WDEzcFBDSzdt?oc=5",
+          "source": "The New York Times",
+          "pubDate": "Thu, 16 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Trump Doubles Down on Election Fraud Claims. Here’s What to Know About US Voting Security - live-news-wttw.pantheonsite.io",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNam9Jbm1PVlFYTFNHRC13S0MyZmtyZlRnRVJoSExDbEhlYnRnS1I1ajczRVZoUUIwVUxVc0JRSkFmVmtMUHpXcThkUTFwS0FFOWlsYjZzQ0l6QmtTeHBjT3M0NGROZHk0d3JwS3BrUFoydmt0UGtrWVMzcG4tVGhIbFN6NlNxSVlVOVZtSTRRSThtS182WWFTTlZqM1U3VHllbVUwWlR2emhHU1kxc1o4TmhsTkE1Zw?oc=5",
+          "source": "",
+          "pubDate": "Tue, 21 Jul 2026 00:28:00 GMT"
+        },
+        {
+          "title": "Are President Trump and His Allies Laying the Groundwork To Undermine Our Elections? - Campaign Legal Center",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUExJSE41UW95MU1rRjJyaGJTdVgtZERmQzV1ZXpETXdHcDNlSjI5TjA0d21sT3lTNGREMXByMlpLTDlkdGdqbkhxRHdMRmpybUdVT0pmaXlNTG5vZnl1NkNzUFdrWUpkNklZSGdXWnJlY1EzMlVveGdLVnhCTmd2aWFOTklTSk1Xaks4MV85bF85WmFoTmNxRUp1QmdTOGtGWGFieHpEeTdwV2RBbkE?oc=5",
+          "source": "Campaign Legal Center",
+          "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT"
+        }
+      ],
+      "error": null
+    },
+    {
+      "id": "chicagoland-local",
+      "label": "Chicagoland Local News",
+      "query": "Chicagoland local news",
+      "items": [
+        {
+          "title": "School Closings: Chicago Area Complete List - ABC7 Chicago",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOUxGSmJNdDRpYkg1YzJFeVpzVGc0cUhsNmVfVzdUVWVTUGluNVNNTW0zUE15aFJMSG9TVkZ4WjRXZVZLUzM2QTBwMHJ4SGN4SW5CMWREY0NkYl9YOTRoMi1tc3lGS0FWNTgzUnFNYlJ2ZkZGUlZ4R1pBUkhCUl9FRVVFTEtjUQ?oc=5",
+          "source": "ABC7 Chicago",
+          "pubDate": "Sat, 18 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Extremely Local News: Midnight Circus coming back to the Chicagoland area - WGN Radio 720",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeVE5bVVFUEI0T29nLUd2a3E2WmtyT1RNb2NiXzNKdTZCcWRSTGtfaGlqLVNEVDVsWm9JMmE1Z3pvZXBlcWNILXktbzNqVGwtejlaS21DVGxUT1lZRkV5ZXBrcUJvVktsc29oT1ROTjlwT0s5ZTlqcWVxcUhEYkgtSU5Gb3NrTjZXVndYdVJNOGF3Uzl3eGRQWVl0d2dId1A5RUxIejRHb1PSAa4BQVVfeXFMT1hseGZRMnVxMWtrYkMyb0hqRzhBaTJOYzd1YzVZR2FsbEVSd1h4LTc5MWkwX2FGRnMtUklCWHdBTlMwNXkxTGh1Y0tqWGFnRXBMNHAxYm9kM0dvLXVxNE4xUzdEYmszWFo5OERDMTE5WTVMbFhGNnNyUmVnVWRBWGM5RWdUYWFKdWE1TFNMRkV2TWNUZmdsODVpSWJnbXZhOXpERWh6ZmhKNmxGWWhB?oc=5",
+          "source": "WGN Radio 720",
+          "pubDate": "Thu, 16 Jul 2026 19:06:56 GMT"
+        },
+        {
+          "title": "ICE Activity Ramps Up in Chicago - lawndalenews.com",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YRWJTdUpFZ2ZLTWNPc3BwRmg5MzlGU255dFBqU25zS1N1dFp3MWt3M2pxVm94ODRmdnpGbmxMSUZrb3d4am9acEhkbWZ2YlBySU1tWVdJSnRfY0tUS2pvQTFsbzloWV9wNG9SMGlnZzVGSE9BSXA1bQ?oc=5",
+          "source": "lawndalenews.com",
+          "pubDate": "Thu, 16 Jul 2026 11:16:21 GMT"
+        },
+        {
+          "title": "Insights on Chicago’s Local Media Consumers - Local News Initiative",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV1dpUTRZQndTTHY2eWFaeEpaUlZINFBfTUxPRl85cmpBWkN5cUNaTWdOVm5GQ1VfM1FZNVVHbnM1b0pSbGlMUnl2eHhtTzd4Z1lTZHAtX3dGSUlXRVNBMElkSHM4VHFYb2RVMms4WnVOSUU4eDNWc2J5MGcxMVltTDlrenJGWFI2d1huUFV6dnN1bTg4N2ZFeHIxZ3JKWU94NFZRRWtHamhCYXFGejdldUVaYmo1X1ZkYTA1QnJB?oc=5",
+          "source": "Local News Initiative",
+          "pubDate": "Tue, 02 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Chicago-area heat maps show cities that'll be hit hardest by scorching temps - NBC 5 Chicago",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT09FNUxpeVJVSFlVY01sMFJ5ZjdRekk0ZFJfLS1wTlRrMmtXRDRzTHdqbExlbTdheFIxUU9uVkxuakloTG44eVowMTZWV0hDRmNJTTI5UzJmb2lMbEZGNjZ6R2VGMjZqMGNMdHozcW9TNDlFenVQeWxtRjVpa1dTNlk2N3Nhelk4LS13M2JudDJuQVY4aUVnb0NKX0IyMjlXNVRtd19OLXdPd1RoWVd3dGxRNlBmWWYwUGNj0gHDAUFVX3lxTE9ra192SE0xc2FwZWF1YjNEUUs4MldMUVB6RjUzZHNFTklBOUJFN1dDMUVTeGxZb2pLMmZnaDZwTm5Palh3THhXSnlMUmJwX0pPYWsza3NHLUtLQVBuSW5PekZ2cFVsVldIcFBPdUdoZGdXMy1jTzdobUhNMFBYRUdJcFkxRmt0Rm5iVDFkbEFlOWdIMm1GRVVmU0ZPa1BFLXlCNXpBOFpiT3F1TVo2RWl2Qzh3ajI2UDQ1bjJiYTNPcVJuZw?oc=5",
+          "source": "NBC 5 Chicago",
+          "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "4 dead, 20 hurt in Chicago shootings during 4th of July weekend, according to CPD - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdUdPWlB5N2JhWWNJVmlMbERkRTlHbTc2NlExdkZZZ1BBRG96andKS1FOdmQwSFkwTDdrZFBZOXl3Ty1kRV9Ic3Z6alJBOGVvUjc1MzRNS1Y1MElHdGZRWnI1LVg5WkxFanFXdHZpUnNsRC1kZk5LTW54QzVlZ0hQYWc1MFlrOG9aMjJ4aw?oc=5",
+          "source": "CBS News",
+          "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Storms packing hail, damaging tornadoes rake Kankakee County east into Indiana - WGN-TV",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qWng1VlNpd0xRYlhGYkM2Z1lXbVFWWXZneUMtV3FuQlkzOEdma1hHb05YZFpodTU2Z2FNSTh2ajhIckkwMFoyNVNra3ZEYzc2N3BDeXFCUVp0RTZQTXhEeFNjcklCaGVjeU5z0gFwQVVfeXFMTXRKNG9DenZLemdUNlhYMkpyb1RrXzNhRTV4ZF8xSDRhZFpKYm5oUU1fVndMV0tGeERkNTNLTTJwOEZSLWs1NkY2WndOcGViQUpSa0pCN0FWWkVsWjE4WUU5c3ZtQmdBaGtXY2oxb2hlLQ?oc=5",
+          "source": "",
+          "pubDate": "Mon, 09 Mar 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Taste of Chicago Returns - lawndalenews.com",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tNGZ6WS1Yd1p3YWM3S2RtTmswS2ZLRFA2UVZZUnZ0UnhZdFZQU0xrVmpXdnJtSWVyNERDeXZNSjBXOW1RQXpTN0x2dGFXUmtaQ0l3MDFMb3RYQ2YxM092NEc2anRIOEFoZUQ3X1V3SUc?oc=5",
+          "source": "lawndalenews.com",
+          "pubDate": "Thu, 02 Jul 2026 11:17:51 GMT"
+        },
+        {
+          "title": "‘Trees down everywhere': Multiple suburbs report damage from Wednesday storms - NBC 5 Chicago",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNckhOdXJCTW00X3NSYkozbTRJQjgwV3JBWUU2ZUlBOWpDTHdwRHBBZ0Z3NHdlLTBuOHlFaS1fc2FQbXZWQVVBLXV3Vy1YWlQyU1A3RWo5Zy1YSE9PVWxPYkpDbUp6cW5xR04ydnphNFRLT0VETXdmZjk5OGNxZFljVlZWS29PQll3cExUSDlZcTFibG01UDByYmJZcmNxSzk5OVpmLWJIbGpsdXduRkZQVElKcTNDTkJmVlBoMFJn0gHGAUFVX3lxTFAxYXdCWHRTOXUzblVQWVp5STJCLXNtQ3VRRmM5c2JzRjkzOURUT1pYWUI5SmxXVmk3cjVvbDdpVE01QXJVUTJEUE1XdnJqeXNreVRzRm0zRFRsRklSalBEc2ZjSXNheVlFa2VDWU5sQS1GM19TbFBwTjFaN2JVRDExRUtPYk9jRUlpLUhaNkU2NjdtQzBad2N5SHZmX1YwbjNGWGt3VVBiT1l2SW9OV1c1elEwMm5VUUZkNDJCRlNZSmRyQ045UQ?oc=5",
+          "source": "NBC 5 Chicago",
+          "pubDate": "Thu, 25 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Chicago weather: Strong storms leave damage, power outages across Chicago area - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT3lIaDNSUkdqMEx3d1NxYi1VR2FHeWJiQTlPSDZuYkVBajluSURNYjRxQXZpNVlqMS1aUk41ZDJjcmxGSFZiaUpadFBtWXhTV0hONGVYUjJZMnN3V1A3N0oyUS03WHViYlZzUzZtbkpnZ3lsMUUyTjRhTlF3cHBjdU40c2p5ZmZlNjl2MVVaenJGN1VCZHpV?oc=5",
+          "source": "CBS News",
+          "pubDate": "Thu, 11 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "The Medill survey 2025: How the Chicago area gets its news - Local News Initiative",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXhZNkZWWDhmRnBKYXE1UVlKc0oxanhoR18xYzhscEpKeE1EY0JZeHhpdnpBUGVBNktHQmc2Y1VrOUExU3dGUXhEN2NBZERoR1BOVHBLM2Z4Yk43X0FIUXFkYWVXeGlYaXY3R28yNVR1YlVQT3ZkRVVRRjEyaUozRlVTMk5FS2VfN0hkMUlpX0FsRmZpSTFWejJBSTV3UHRTcWIzYml1RQ?oc=5",
+          "source": "Local News Initiative",
+          "pubDate": "Wed, 10 Sep 2025 07:00:00 GMT"
+        },
+        {
+          "title": "Chicago weather: Strong storms, possible tornadoes leave damage across area; Des Plaines River flooding possible - ABC7 Chicago",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQ1VDaVl1LU5zQWxWb3kxZmFFanFCcEozMjJUOXAxUkdMeFZGX01acGVJWnZ5dmFENzZzTVZoM3dBTXZGMGFRX2dzRUZydzVzSFlubUdLSUlHNERJcnBjMWQtc1g1NXFxUktOTVVFZlpORENwZ2ctR2lla01JWmpKZ2RkLVRxOHNRZnRPTFNqOVNZb2gxcWF1SjgteVk2WTZZYlA5emRGZW1tSVVjQ0ltdXNEQWxnanV2SlgtMkVsSXB1RzFsVFY3SE9fMlU0RFlsb2c3cnpqMmFYeFl6Qm9n0gHkAUFVX3lxTE5SUXpjYWMzcVpJSDFoZWRjMjlIY1phMzRhSTlEZnVmcENQVzhHaG5QaFd3MUJvRWduV29pd0NHUVdkTjhqemxfYjlseW1lclhyY282LV9jakRldzNZeWpaVFFkcjdpbGJtX2w3bjVZSm1jeW9wT3otY2tXc092bHRDaTc2U0NOTF9sSTQ5dTJ0anlNRFcwRVo4cFF6VUNsX0p4WTN1eVBPa3pNTkV3UHVlblA5X3MxcV9zTHUxVF9EY0pSSVdWRjc4ci1YTV9CSG5oWURRY29ROXNvclEwcldfM2NKdg?oc=5",
+          "source": "ABC7 Chicago",
+          "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT"
+        }
+      ],
+      "error": null
+    },
+    {
+      "id": "ai-tech",
+      "label": "AI Tech Stories",
+      "query": "artificial intelligence technology",
+      "items": [
+        {
+          "title": "China's new AI model halts new subscriptions as demand swamps capacity - ABC News - Breaking News, Latest News and Videos",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNemx2T2xjMElLNGlRUjdzeDBiTXZQWlZHcVVzdERlM0NSOFpPSXE4UTBEZWZaVUhyWUNJYjhmTlNxXzFuT1d4TzNZVVhHaU15LTRvRnpXXzM0d1gySzJxdnBlb1BCbHM2Ukplc045bkFISjEyQ2Z2RWpBRElJemdlMlkydlR1UHlUWkVVN1Uya0VUSjN5MjJXeHBnbE56UzhCaVRz0gGoAUFVX3lxTE51VkJDRTY0elNRNWZBOHdmNWxuQlVUMUJOejRiS2wwc3k3TU1lQmMyRzZmeEN0VzVtMW5KYzdWRFZEX2FsWDhmNGRUZ0JyTHBmS1BlN0R1SkwzbXY1dk5Ec19jSjlrUUlocE5CT2MtRi1iYVBQNzJYdVpmN0FRU2JrbkgxWER1eWd1RUdlSVByVzZ0SG0xejM4M1IybTlNN2JseEFtSjA1Yw?oc=5",
+          "source": "Breaking News, Latest News and Videos",
+          "pubDate": "Tue, 21 Jul 2026 09:00:18 GMT"
+        },
+        {
+          "title": "Why Silicon Valley Can’t Stop Looking Over Its Shoulder at China - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhTVBZMTdvSGliVWFXek1aR3FIcy0xcVVnY0pxSUlGcGVIMG1Ldi1DLUZWNWpNWm5OU0tKZGwwU0I1aHZyYjUxaV9nd0Y4eTQ4SDNoUDNGRWpBeW9qakp5M3NHQmVWZktjWUlnTHlfb0RjRHl5cXc?oc=5",
+          "source": "The New York Times",
+          "pubDate": "Mon, 20 Jul 2026 09:02:12 GMT"
+        },
+        {
+          "title": "China considers tighter export controls on AI models and chips, FT reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMnQtRVFFNl9xQzJhYWtqMjlrVEx5NW9FYmp4UzM3QlNHdjYwaDhfT3BTdkdaX0QwUHF2X0Z3a3pEMnl0b0RqN0VVMFZ2NndBT1YtWDhjbE85dGZKT2lpWmtFYTJaY1E5UHljUmVvcXhvV0FTTUFyck5GZHBYRU1Nc1hTNDg4aUxoeFFNZmhKOVVKcDNLQVo3SFBYcnZ0VFFhVlBhNndHOWtuMVZpaDhmVE9JY051NmVzQUx4QUln?oc=5",
+          "source": "Reuters",
+          "pubDate": "Tue, 21 Jul 2026 04:11:00 GMT"
+        },
+        {
+          "title": "China’s AI models have Trump’s AI world at war with itself - MIT Technology Review",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRUpPVWZWNTl5cVc3dEFITlE1VVNWb2U2Wk0zeURZZW9qSGhMUGdJMTktMGVmMGN0Mk5nckRTa1E4WWtENDZoRG5NZ1ljY25Zc19Mb0MxbXRsVTRtQ09hMUNaRWVXak9lNWQxeUFGZlBaRS1EVzdfRVc0WGc5QWdYTGgtLXFKbTZPYmdQTHJCM29fWUdnMFFkd1hWSjFZZXZoNHhpaVotbk1jckhwaEHSAbMBQVVfeXFMT21RaG9xX3ZOQTdoQUlJbnd0TFF6aDA1N3U0ZnJSTUJETUd1ekpDRXZReHJua1ZCVUszSy1TUGItblhGU1ozRG5LTUw4YkVsOVo0OUVGcTd4dnhvc28zaW1rTVlVYnEzTFlYcExzUElzYVJuc3JtV3BYTTlwVG1vUDJNNlRSWHBPMm0wNkF1VGJoa3ZlNmRhb2VWbXh2RzJQVUJyTjJjQmxHNTdEM0RYdnVwQ2c?oc=5",
+          "source": "MIT Technology Review",
+          "pubDate": "Mon, 20 Jul 2026 18:00:00 GMT"
+        },
+        {
+          "title": "China weighs tighter export controls on AI models and chips - Financial Times",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVURTZEhNNV8xRTlJSmtQbWZjNFRpc3dSanpRM01BZnlwT2lhbjlGMUQwTnROSWxJcDZLZ0NmSUh0dXd0aW82cWVtZ0hKMzY2LTN3dTBfR2JOVEJlNFYxejVtMzBzQmsyYlRGUUJmODM0WFJZNG1PVkZ5UEtzc2g3QTcyUlA?oc=5",
+          "source": "Financial Times",
+          "pubDate": "Tue, 21 Jul 2026 04:00:20 GMT"
+        },
+        {
+          "title": "China’s Bid to Reshape the Global AI Order - orfonline.org",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaWpYV2F2VmQtRHZSaGduVllSZm1mbDBRejNta3hLN21HLVpURGpWRjNJNGpRVjB6UnA4ZHdQNDNMOHlQVUVZbE83dlRHbVo4alVoc0lGRjhFeXB2NnhYRUpNVmVBbjdsZUx2ZjUtNDVxYTROczlyNXMtS3dubjZpNlVoTURfMkdP?oc=5",
+          "source": "orfonline.org",
+          "pubDate": "Mon, 20 Jul 2026 10:22:47 GMT"
+        },
+        {
+          "title": "China’s Top AI Event Delivers Message to the U.S.: We’re Coming for You - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdVQ0bERqQ0J6ZFIwNWtPdlU0S2FFeEZucTdWbWRyNVZwc0Y3MHF4bUZZeURpVzhHOU13RkRGUk5WdkN5eXVxV29pRHk5ZmplR05ieTF2T1pHZ3B2RjFrWDJLcllrS0RVbEgxLVBYWURuLWdQM1hrWDFHT2liY3pMb0s4WnNFaklFN1BHSmstT0R5U2FWRjdJd1BjVVVqQVBkZ1AyQ2sxOA?oc=5",
+          "source": "WSJ",
+          "pubDate": "Mon, 20 Jul 2026 13:28:00 GMT"
+        },
+        {
+          "title": "Keep an eye on China’s AI governance offensive - The Strategist | ASPI's analysis and commentary site",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWk5lZEw2Mk55NGp6RzhLaFY2Rl84LUJxcVBGQktTMlhKUER3UUZkMGpWak92Zkpna2FzT2h2cmg5d3hHWnIxSDV3RWFEQWptdDU2WG9GMnl4TXloQzlTaTZHQVNqVVdpdnU5T3pkMzJaN2QtVkRfMHFib2lEZGw2a1AzMXlyUnM?oc=5",
+          "source": "The Strategist | ASPI's analysis and commentary site",
+          "pubDate": "Mon, 20 Jul 2026 05:31:58 GMT"
+        },
+        {
+          "title": "How AI may drive union-resistant tech workers to the bargaining table - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWHd2c0dCTWZfdmc5WG9PcFNqeE9HaTFqazJnbnRnQUdQR1RNRWxhRGlYb1Q3ZEktVFkwZm96MWdWcXM0MWQxUDFOLVQ5WTRTd1RKSThobTlIdmQ5RTRuSFFFTUQzZ3ZhbTdFWlRGVnBOYXU3SFRvMDVfMGk1QzJQSg?oc=5",
+          "source": "The Guardian",
+          "pubDate": "Tue, 21 Jul 2026 11:00:00 GMT"
+        },
+        {
+          "title": "How much energy do data centers and artificial intelligence use? - Our World in Data",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZTdJQ0Ywb3FHcmNHRHFScm9RdzlIcWNRa1NZV0ZJVW0xTVFHSFdwTFk3VEMyTDBuMTlDbEFMTWZ2WlpPTGZXakx4SnJUQzgySGlmZVVZemRXUXpnYV9UWjhQenlBazl0X21pbEtQSzdRUFlRUFVfX3RqMk1UdzhOd1FkN19OTUtYZE5fc2tvbG01Uno1?oc=5",
+          "source": "Our World in Data",
+          "pubDate": "Mon, 20 Jul 2026 07:16:14 GMT"
+        },
+        {
+          "title": "Artificial Intelligence - ABC News - Breaking News, Latest News and Videos",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5",
+          "source": "Breaking News, Latest News and Videos",
+          "pubDate": "Tue, 21 Jul 2026 09:33:22 GMT"
+        },
+        {
+          "title": "When AI becomes physical, proximity becomes key - WRAL",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd0I2RWFzQmh1N1cyZHdFY2h4RzlNdXNleFc2VFp0bTJCZ2Q0NDFrT25YeElWY3J1ajBWTzVsNFdQT3haM0Mwc1pDQkpHM2ZtS3NXMGppQWN4X053QklhQTRFcHJzQjBrQUZLYUhGV3pnMWxYQlo1NnJlX2pBRGJBbVpKV2NnenhrLXIycWtpYUNFZFBRbWNjbWltQ1Q1ZXM3V2gtR1hYaw?oc=5",
+          "source": "WRAL",
+          "pubDate": "Tue, 21 Jul 2026 12:49:49 GMT"
+        }
+      ],
+      "error": null
+    },
+    {
+      "id": "quantum-prairie",
+      "label": "Quantum Prairie Events",
+      "query": "quantum prairie",
+      "items": [
+        {
+          "title": "CQE-led Bloch Quantum Tech Hub Raises $55 Million - The Quantum Insider",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM0w2YnJzVmRHclU0TE9TWHJhQXotdVJreG84d21qYTA1S0RRMGJzaFpxNnQtc0pmeWNjbUE0ZHM5NUtYaUItZTFlRi13YlBrXzJmN09Ba3ZYV3gtTEgwSVBPRGVCdE5sS3hFbW9weVlrRjFuU1l0Q3puc20tSXNPMzRYcGN3OHlNZWdxVVljSmwyQWhm?oc=5",
+          "source": "The Quantum Insider",
+          "pubDate": "Mon, 20 Jul 2026 22:20:06 GMT"
+        },
+        {
+          "title": "Bloch Quantum Tech Hub Secures $55M in Federal and Matching Grants to Build U.S. Quantum Supply Chain - Quantum Computing Report",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbUd0SF8xd3NXZnVUczA1WER5T2Z2VEhBdVgzMG1kSGZGelpnV1BnX1JmbGc3bjZmeEQ0U2diWXVhbVJxY255ZndCZTNZUUg4VkFzUUwwUUlHRWtkdFk4OEJ2X25RTlVKcnRteGIxUUpvVEVJaUlfZldFeDhvV01mTGY0cFoyUjhrbTY0eFNVT3gxZGdUZ1NXckpURVR2eV9rMmNzWjZlc1JqMlhiTjBIOFAteGdZWXE5YjB5T2JfVzR1MGxmUmZGTjA3TjJFNFgx0gHWAUFVX3lxTE1JQkY5bTlxZ0VGNnlibnFrUl9lbDRwX1NOVmdkcEFFYUZraWdyeUFEVWU2V29rTnNDT3FhX1kzYU1KZFlBOXVxOXRwdVg4eEZnemVSUGpoT2NZWjVSTFdEXzNMdmhMYjZWMmVaWVFnMzlGbGFlUDhfZXZuWGw5X19fQnpjc2FhQ2c1OW1aa0NXUnNoYktrV0N5TmhYSlNZLXViQ21KbDh5clRQdTFjY01zQWx6S1RmUkFyN2pZY1FjX0FVZWpsb25EbGF2T193UE1qNkR0YVE?oc=5",
+          "source": "Quantum Computing Report",
+          "pubDate": "Tue, 21 Jul 2026 02:38:52 GMT"
+        },
+        {
+          "title": "Argonne's Office of Community Engagement convenes regional leaders to explore the future of quantum economics - anl.gov",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTTJ2eTRXZXhuRHNUME1SRVJDMUtBaHFZUWY1YnU2MXlqOEthNHVLRTZpUVJXc3plSHlPYUhxRW1Hck94TzRSUVNWSkJvWTdyMXVHZzBQZGMyMlVSNUhMRlBHaXItVER5Tm05eURaLS13UFNKUkNRY1hKS2p1T3IwYU9LZWw3bHZCMjJxWDVPUG9LeEpNYm95NVFPWERqdzhKekV2RFQwNGFoSUhrM3d4aWpCcGJFYnA1VFhOVnVaTzM1MXdD?oc=5",
+          "source": "anl.gov",
+          "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Inside the Pritzkers’ ‘Quantum Prairie’ - Chicago Reader",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORl9LcFk0amoxb0ZTUUhIdVNlMkN0aHRwczZzUHk2VG9lcWdYWVVvNVZyRmt4akpEdUlhbVRpZHFic2RyY3RhV1pnaEZwRUN4cjl6by1WSkpnRVhhNFkwWU9yaWIzZVJvcExNNnpfRVg1OVA4bWUydENZWmV0MmIwZUVuTGNUR3VT?oc=5",
+          "source": "Chicago Reader",
+          "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Chicago’s ‘Quantum Prairie’ Promises New Era Of Great Lakes Technology And Water Use - Block Club Chicago",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZm9ZRkRtbE41cEpMeDZ0SGhoaTFPMnppb24xbUdOSGxwNHR3NE83a3NBUUFPdnc5dTRjaWswV2pyUTBzcGpRLWVqb3FPbWVma1JPNmdQclFRVGtiVkhETklGbDZTbWZ0cEFKWDg3ZTFwa214b2RkNGFQUl9rTVFXcW5GNUFIT25NaThiRE1pa0pjbFZUUUU4dktwdS00NF9kbjZWS3BHOWZjS01Jb19hdnhIVVdSYjlKdjBsRU9hWQ?oc=5",
+          "source": "Block Club Chicago",
+          "pubDate": "Tue, 30 Dec 2025 08:00:00 GMT"
+        },
+        {
+          "title": "IQMP Campus at 8080 S. DuSable Lake Shore Drive Credit_Related Midwest, CRG, Clayco, Lamar Johnson Collaborative (2) (1) - Circle of Blue",
+          "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPcU9EbWNhOHZ1ZEF5eTUtY1lUTk8zeHU4cjA0U01NX0hnS3k5dFRMOU91ZU50b3R2ZmxwOGdiaWF0UGc5S3dHcG9QVVNhSTI4UUZwMnpkamhyR0xWc3JGQmY1VndzRW9iaEdwWmhEQW1NVFZOT2E1a3ZNZ3R0bk9lUXNBYnZWaGlSM0JadktWMGxrN1ZFRlQ4NURMQ2JTOEE2Tmw5Q0p2UFZSZDV6TUFpazFYd0pRLTVMM3p2ZDBYb09JMXBfbFR5Ymw5QjFJeXdIVks0NzJLaWlLRnI2WVRRSFhZa2dnMGpCWUpqQ0RzakxrY21USEtndFJjVkFTS1EzejFTOW8xYTBMUnppTWhHWk05T25ESDJ6WEEyTllROFhjYVZMXzJqVHhIWWhIZkNZWDJnX01uc2VvMlA0X0pGUENCZzRjWVlKNlM0NXNqYkVxZm95MEs4blVuN3VoZ0o5R2NQeC1oRk1sWW8?oc=5",
+          "source": "Circle of Blue",
+          "pubDate": "Fri, 10 Jul 2026 10:25:17 GMT"
+        },
+        {
+          "title": "Argonne’s Office of Community Engagement Convenes Regional Leaders to Explore the Future of Quantum Economics - HPCwire",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOd2xkT1cwN2dBMDIySzdCbGJDaTd5a0dyMGoyaVdsUkZOVDV0WWxxcWdzNDRITlhPWmRmclJXOFRyd2hvck02NnEzbXRVQ2JCLXBLWFNmSmxFTGdYRHB5dW1qa1RQTjczUzdKUVVQc3ZnX2tHelY1dVlPd3hqYWI4WHlvSnh5ZWc3bG1DSl9QOVFYLUdIWGpsb25Wa3g4TmNEd2R1ekxlOGxVVG5fR0FnYlZIdlBxcjlIcmtyWnpidi1MSnZWZ3U1YnNoYjJzRFJReWhHd3UzbFRYQk9hTkJN?oc=5",
+          "source": "HPCwire",
+          "pubDate": "Thu, 09 Jul 2026 22:04:14 GMT"
+        },
+        {
+          "title": "This abandoned steel mill is becoming America’s quantum future - Fast Company",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOXzVoZERXd0R2MEd5bGFlSDZYVzE0eWl3ZGFUa3VJdUVVYllpMTFwODBCUjVsQ19IM0c3bzQzQzFUb3Y3VDJPeW43eG9JeUZoTkZyeDBjWUt4NFZkQVFwcHM0UmN4RWxpOVh5dWZ2VXRUZm9vcVNxTWZ1N0hpLWZYS3U1WUNTc242TFZRR0VDVGJZU0NiMmd3NDlPZ2I3RkE?oc=5",
+          "source": "Fast Company",
+          "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Argonne’s Office of Community Engagement convenes regional leaders to explore the future of quantum economics - Quantum Zeitgeist",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4Y1JiM2Q4QS15a1I0TUtGTnRBa1FyZ2hFQ2hmWTA4ekNBdUpxZlkxQVVQYlNOVVptai1oVEFTdXJ6a2FGWVVBaGdaODZPVDNLRXRlZWJqU2dsSFN2OThKMkJ0U0FFVFJlcHVJ?oc=5",
+          "source": "Quantum Zeitgeist",
+          "pubDate": "Wed, 08 Jul 2026 11:03:57 GMT"
+        },
+        {
+          "title": "How Argonne is helping to expand the Quantum Prairie - anl.gov",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTE1JUHNlZ0JlVE5WLURWaGtpcXFXTlVNLWtUc3doREJGM3ItR1pjUlNsZ2pzLVp0WWplUE96V3VHVTE5WmRtZDVJTjJ0cDdkWjRkaENheGp3U3A5ZEFDQWxGOW1LVXVxaTdObEg3SkNTNlpHaUNFRkZ4QzFKS3hNQW1GTjAtOFk?oc=5",
+          "source": "anl.gov",
+          "pubDate": "Wed, 17 Sep 2025 07:00:00 GMT"
+        },
+        {
+          "title": "Groundbreaking of Illinois Quantum and Microelectronics Park creates anchor for quantum innovation - University of Chicago News",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONDEzcFVaTUdITnQtb2lCNDFidjlQRXdHMXBWcnV1OXBQN2tza19tYzItYUxtSVBUaXpGRmJoZGJDM3ZLdnY4TmhjM25ORlJMTmVXRy13ODJuaEVmTHMtWTdpVURCWGVkUE9EN240MWZhaHllRW1weFd3SlZCZUVXX2wzamUzbFlkbHdlNjh1RE9kZVFYSjg2TGttbk1wNWs3OW56VGtVQ3FhRHdHY0xBUzZoU01SRnNocmFYcUducV8?oc=5",
+          "source": "University of Chicago News",
+          "pubDate": "Fri, 03 Oct 2025 07:00:00 GMT"
+        },
+        {
+          "title": "Chicago’s South Side: Quantum tech’s great migration to the ‘Silicon Prairie’ - Infleqtion",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMi1kTGpaaDVfb3haQl8weGRVN3dUTTlBMWNlQlZUeG1ObFRTLWR5aVFPMy1NbnY0UDd5dTNtNUxhSlR6ZnpYZzJnY0dxWlZ3UWk5QXVRTTFKclJtTHF2Y1FxWlFLZXh5UXd4UjNnTEdlY1Rud19SaVZsRGo4cDV5NHFNQWUwVy1ENE5FMUVOTVdhcWZEek14NWdDZTBfNlVUZS1v?oc=5",
+          "source": "Infleqtion",
+          "pubDate": "Wed, 28 Jan 2026 06:03:59 GMT"
+        }
+      ],
+      "error": null
+    },
+    {
+      "id": "fox-river-valley",
+      "label": "IL / Fox River Valley Events",
+      "query": "Fox River Valley Illinois events",
+      "items": [
+        {
+          "title": "Fox River Valley Pony Club to Host USEA-Recognized Event on June 20-21 - United States Eventing Association",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSFctLVozWWN0SzkwMjB3VE5JaFdGTm5pa24tbGFDUU00ZUxZcGVSbk9SQVJEbmRLWWRVMmV0N1hCT3dScGNQYW8xRkV6TWFQaEtYWVMtSF9GZmVFRTBTVjRmdlQyQkg0Vm14MHpJWm5GdFhndmYxclM4dHdyX0VVb0t4U2x4OXc0dnc4RVpqOU04WDIyb1ZXR0dPSm5Pa0JhMllfRnFNSjVXZ3JGZVE?oc=5",
+          "source": "United States Eventing Association",
+          "pubDate": "Wed, 03 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Rusty Rodeo Returns To Fox River To Battle Invasive Crayfish - Patch",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd2FrZ2trbDBOMlV3blR2blF1WWlJVVNpbm9vRmNGVnZTZlZDcXF6NV9mV3JBczVoRVVPcEx1YU0xeEtFamdWbDdONURsZHE2d0ZSNE9ZZnJURHg1ckhVNWJEUEV4bDlZcnhLTTgyT2xoU05yYm1VSnV6UUM3NFVWTURaeGpYZ0JkWUdHc1o0eTA1SkdCLUY4dFpB0gGzAUFVX3lxTFBrZkFWbjExdzVOeGstTC1WTkpxamk2cHBVLS1qOHVuRHMzTUhOclVJMEoxSkVtckNoeTMtUWFNUjdIRlU2eVpHZGNqY29WcE5yaHNuRkVFV1hIeUg0YjVGRlpwcW5EZi1aY0lwNlhSaVV2S2c4MS1pLWlkd1J1YUg2S0F1UHVCc002THA5a0RhblF6VTZTSHNOZU4wNkNTQUU4SVpnMkZtOE16RFhHdTlxRElv?oc=5",
+          "source": "Patch",
+          "pubDate": "Fri, 17 Jul 2026 21:34:38 GMT"
+        },
+        {
+          "title": "Fox Valley library district planning lots of events for its 150th birthday - Chicago Tribune",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTGNQNFlVRmFSeS16VGUtazNmQzZFak9teUtJdmpLQ2ozaFh4a0U1LU16VzN3S0xlY1B1WGNqNGZEMnIwUFcxeng0WlV3bmVHRDVVWmpSeXE2Q2tFRGlpRlhPckRaUWtFSUNiNGtlV2pGWUpuTnZUeTFVdlR3cUVxSEc0WU1BOWh2N2pfN21CaE1oUzhCZ2hfSV9Za0lEOXRzclV1bzliSHl4YU9BUXhMMGVnU3JjUXVw?oc=5",
+          "source": "Chicago Tribune",
+          "pubDate": "Mon, 19 Jan 2026 08:00:00 GMT"
+        },
+        {
+          "title": "Fourth of July weekend events across the St. Louis region - FOX 2",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ2M1LXpCQk9IVGY1ckFkS2hHbS1WT1lITTdDRWtmUF8xekR4S2pNd2Q4d2xaRWhWbWNKVHdNRW1DbmpGZVVuLTU4TGpfanVEN2JqWS1qMDFGNnd6dXJQRHM4MUpBSkxyMVBNYWpTNndYMldqcDFydVJUWWw0WlZoZ2J6eUd2MG9YelFLTGhTbVk5aWJvZHfSAZsBQVVfeXFMT1pQSU5TMF85eVpJTWJBdlBJRHhBdjYwQ1Y4MFM4VmtxdnBTLUdhMXFVdG84OEdIWFFzV0puSl9JS25WdVBlV2VHU2xCNHJnMmRRa3JubHdWWmVZeFBEXzkzdnNrZnhBTW5BemIzSXFHTFVxSHpYeDdsWTItdURsZ3ZNNHZUNXJ5S3laU2g5am1TU3pPWldqOUQtbFU?oc=5",
+          "source": "FOX 2",
+          "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Local wildlife groups team up for ‘In Search of Eagles’ on Feb. 7 along the Fox River Valley - Daily Herald",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeERZeE04QTBtMW1ZYzZFd2M0alVRbW9rSjlabmRHWXR3V0tvb3ZBbHYzajBmb1YxVG5OTE9jZXFlUDJlNzB3Qkt6ZkxUQ1BYcnphNDdqU2xaYUR2clVoTC1aM3pjVmtzRkFkZklSNWc5ZWRiaExjYjN6ZHhnbEJoVVRpbFVqWjNlN1ZtY05SYWt0bVoyOVF3QV9WcFl5QnNHRHN3NEJpUkZNWVJzekVCRF9jeHgyRmVHaHNtUlFqLThocWRHLW5qSA?oc=5",
+          "source": "Daily Herald",
+          "pubDate": "Wed, 28 Jan 2026 08:00:00 GMT"
+        },
+        {
+          "title": "Illinois Valley 4 Jesus Event Draws Hundreds To Peru - starvedrock.media",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdTN6dENUVkxRbFVHZmk2OTFRTS1QZWhaWFFiNmxaWkQzNGVvd2JCX0ZGdlV0WUFfdmp3V0hReFRDdDl4c1Y5dDBjS0sxX3pDRzdxZVVKZFlmSXhnNGZpdXZHRklZMi1oSkFtSnVNMFUyV2FUUzBPd0xqaDNOeTNxTUFobm1RSHI4Q2lsTlZhNUh1ZHdhWk1yd2hCOVlFLVhLRWoydDFNbTlsZHI3Z2lWb3ZEWHRfVHlKaDZBSFZ6VHB5cmxnbnNfTVJEZEluMlZBdEFZ?oc=5",
+          "source": "starvedrock.media",
+          "pubDate": "Sun, 14 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Local summer concert series bring live music to communities across northern Illinois - Shaw Local",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM2NST05HNWlqemVQanJnSS1HQmxpYUN4c1o2aTB4ZEY0NUFNT29lYndRb2dZSjBhMlFZbFJxdEFnZndTRXVoNXdyVS1IU0o1UU9STGZSX0JlMUVSWXhRdXFkTExISFRIeHVJQkZNc0c0bUhfNkdVQzFrQk11MUtsVG5PbDBsZEJKT1JxUXFQQnpueHRDalNMdVVDclozaDF0TnFQcXFJT2NvMVVMZkt6cGdsTlAtVVZSRXBLd2hZcVZXaGt2S0FPN3NRNA?oc=5",
+          "source": "Shaw Local",
+          "pubDate": "Thu, 04 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Trivia night to launch Sandwich America 250 events - WSPYnews.com",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOV0lDMkc5cURFZjdFRDljanRaZlBEdS1wVDRnRUktcmRjTkYyNzVLMU1qMFlKNG9KbmpyZTY5MW8zQWRmZzVJWHU3ck9SME04NGVmaXNxeWJJLThmUGs0Uk1MQzBWeHprVWZuSkd0anVaeFo2RGJRTHZBdGs1X09LSkpYZnk2VzRLTUhyUHNYRmtWNDJpTnpOVHFpVXVhYTE3cGdkd2NCajg3Y3UzZEplMFYyQWZIT29Da0QwZS1NQzdONnNsNXhQWnpUYWhvajJPeVE?oc=5",
+          "source": "WSPYnews.com",
+          "pubDate": "Tue, 05 May 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Mid-American Canoe and Kayak Race set for Saturday on Fox River - Chicago Tribune",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObjUyM29tUDJuMGExbWwtZl9qcThTZ294cVlnai00TW5yR0hqajc5NVZ5eVZqbzVQdmhMV0xMeG1CbU5tSDNRb01xel9sMXpCdTMtcDhMVC1zWW5ZbkRKT3dxSmFIY1lYWGxvWkp0aTQ5VDdHTE1IdXJDVTh4endhRHowSWtvLTNadi05Mm1ObXpJR2dhRjNiMHRNYzJ4VThuRXJYM2dwOTJ3Zw?oc=5",
+          "source": "Chicago Tribune",
+          "pubDate": "Tue, 02 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "This Weekend’s Rusty Rodeo Is All About Wrangling the Invasive Rusty Crayfish - live-news-wttw.pantheonsite.io",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdlN2V3hSYWhscUt3TW1aVXEyc3d6Z1ZoWUluNEE1UC1WTEZQNjA5UzFQVm4yb1RYYV9lWm9sZlR0UkVSNlFuVUN5czdBaTdZUTBjRGhyVVdXcXBrMEJzUkV4RXVVV2d0SVBTSnlQanJjS2N1a2pyN3lNQWtBaDB3UlRWUjV2SnhEODRLMzJzbDJBUEg0bWFaTGF0Z0JpN3M?oc=5",
+          "source": "",
+          "pubDate": "Thu, 07 Aug 2025 07:00:00 GMT"
+        },
+        {
+          "title": "Polar Express Train Rides and Christmas Trains Near Chicago 2025 - Mommy Poppins",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNnJUcW9hUTRERjlqY3VsSVU0cW9qRTUxcTB2LUpHdmRZREY2WWFzRVBFVHJGWk1TY2ptSmFvaE1VWlp4RlBpTWRXaGZvTk9qVTE1VWlfcjZEY3VVNk9YT3ZXeS1mdmoxekNQUUNLZTNyQ3JscTJlajlVLW9Wc1lteXFJSHpQZUJLT2F3?oc=5",
+          "source": "Mommy Poppins",
+          "pubDate": "Thu, 29 Jan 2026 08:00:00 GMT"
+        },
+        {
+          "title": "Enjoy Illinois Magazine Dives into Kane County's Fox River Communities - Kane County Connects",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoeDdtQ1M4b3dMNGZFM25ScjZqVmEtMjZZOWtfV25YV1YxZHFUNzNlZ3lGcUlzS1pYb0pyWkhnMUtBX184UXhjdVVLaDdzT1ZmNE1IUEdUSWFEX3NLWV9RWmg3MF83Z1BUOXdOSlpOOHRBZk1XMEVSN0M0dlI?oc=5",
+          "source": "Kane County Connects",
+          "pubDate": "Fri, 20 Sep 2024 07:00:00 GMT"
+        }
+      ],
+      "error": null
+    }
+  ]
+}
