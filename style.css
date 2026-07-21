@@ -109,8 +109,9 @@ body {
   flex-direction: column;
 }
 
-.topic-card.custom-topic {
+.topic-card.queued-topic {
   border-color: var(--accent);
+  border-style: dashed;
 }
 
 .topic-card.just-added {
@@ -184,6 +185,29 @@ body {
   color: var(--muted);
   font-size: 0.85rem;
 }
+
+.topic-snippet {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 0.6rem 0.7rem;
+  font-size: 0.78rem;
+  overflow-x: auto;
+  margin: 0.6rem 0;
+}
+
+.copy-snippet {
+  align-self: flex-start;
+  padding: 0.35rem 0.7rem;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+  font-size: 0.8rem;
+  cursor: pointer;
+}
+
+.copy-snippet:hover { border-color: var(--accent); color: var(--accent); }
 
 .app-footer {
   padding: 1.5rem;

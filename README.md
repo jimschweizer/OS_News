@@ -25,19 +25,14 @@ Edit `data/topics.json` to change the built-in list — each entry is `{ id, lab
 
 ## Adding topics from the dashboard
 
-Typing a topic into the search box adds it to **this browser only** (stored in
-`localStorage`) and fetches it live via a public CORS proxy so you see results
-immediately. Custom topics refresh automatically after 12 hours. They are **not**
-added to `data/topics.json`, so the twice-daily background job won't pick them
-up — if you want a topic covered permanently, add it to `data/topics.json`
-directly.
-
-**Known limitation:** the live fetch depends on free public CORS proxies
-(`api.allorigins.win`, `corsproxy.io`), which are demo services with no
-uptime guarantee — `app.js` tries each in turn and shows a clear
-"couldn't load this topic" message if all of them are down at that moment.
-This only affects instant results for custom search topics; the twice-daily
-background job (`data/news.json`) doesn't use a proxy and isn't affected.
+Typing a topic into the search box saves it to **this browser only** (stored in
+`localStorage`) as a "queued" topic — no live fetch happens client-side, so
+there's no dependency on flaky third-party CORS proxies. The queued card shows
+a JSON snippet (with a "Copy JSON" button) that you paste into
+`data/topics.json` to make it permanent; the next twice-daily GitHub Actions
+run will then fetch real results for it. This is a deliberate trade-off:
+no instant results, but the background job (RSS → `data/news.json`) stays
+fully reliable since it never depends on a public proxy.
 
 ## Local development
 
