@@ -1,5 +1,10 @@
 const NEWS_JSON_URL = "data/news.json";
-const CORS_PROXY = "https://api.allorigins.win/raw?url=";
+// Free CORS proxies are individually unreliable, so try each in turn with a short timeout.
+const CORS_PROXIES = [
+  (url) => `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`,
+  (url) => `https://corsproxy.io/?url=${encodeURIComponent(url)}`,
+];
+const PROXY_TIMEOUT_MS = 8000;
 const CUSTOM_TOPICS_KEY = "osnews.customTopics";
 const CUSTOM_TOPIC_MAX_AGE_MS = 12 * 60 * 60 * 1000; // re-fetch custom topics after 12h
 const ITEMS_PER_TOPIC = 12;
@@ -34,11 +39,35 @@ function googleNewsRssUrl(query) {
   return `https://news.google.com/rss/search?q=${encodeURIComponent(query)}&hl=en-US&gl=US&ceid=US:en`;
 }
 
+async function fetchViaProxy(buildProxyUrl, feedUrl) {
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), PROXY_TIMEOUT_MS);
+  try {
+    const response = await fetch(buildProxyUrl(feedUrl), { signal: controller.signal });
+    if (!response.ok) throw new Error(`Proxy request failed (${response.status})`);
+    return await response.text();
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
 async function fetchLiveTopic(query) {
   const feedUrl = googleNewsRssUrl(query);
-  const response = await fetch(CORS_PROXY + encodeURIComponent(feedUrl));
-  if (!response.ok) throw new Error(`Proxy request failed (${response.status})`);
-  const xmlText = await response.text();
+
+  let xmlText = null;
+  let lastError = null;
+  for (const buildProxyUrl of CORS_PROXIES) {
+    try {
+      xmlText = await fetchViaProxy(buildProxyUrl, feedUrl);
+      break;
+    } catch (err) {
+      lastError = err;
+    }
+  }
+  if (xmlText === null) {
+    throw new Error(`All proxies failed (${lastError?.message ?? "unknown error"})`);
+  }
+
   const doc = new DOMParser().parseFromString(xmlText, "text/xml");
   if (doc.querySelector("parsererror")) throw new Error("Could not parse RSS feed");
 
@@ -63,6 +92,7 @@ function formatDate(iso) {
 function renderTopicCard(topic, { custom = false, onRemove = null } = {}) {
   const card = document.createElement("section");
   card.className = "topic-card" + (custom ? " custom-topic" : "");
+  card.dataset.topicId = topic.id;
 
   const header = document.createElement("div");
   header.className = "topic-card__header";
@@ -98,7 +128,7 @@ function renderTopicCard(topic, { custom = false, onRemove = null } = {}) {
   if (!topic.items || topic.items.length === 0) {
     const p = document.createElement("p");
     p.className = "topic-empty";
-    p.textContent = "No stories found yet.";
+    p.textContent = custom && !topic.fetchedAt ? "Loading live results…" : "No stories found yet.";
     card.appendChild(p);
     return card;
   }
@@ -203,24 +233,31 @@ function removeCustomTopic(id) {
   init();
 }
 
+function highlightTopicCard(id) {
+  const card = dashboard.querySelector(`[data-topic-id="${CSS.escape(id)}"]`);
+  if (!card) return;
+  card.scrollIntoView({ behavior: "smooth", block: "center" });
+  card.classList.add("just-added");
+  setTimeout(() => card.classList.remove("just-added"), 2000);
+}
+
 async function addCustomTopic(rawQuery) {
   const query = rawQuery.trim();
   if (!query) return;
 
   const id = "custom-" + slugify(query);
   const existing = loadCustomTopics().find((t) => t.id === id);
-  if (existing) {
-    searchInput.value = "";
-    return;
-  }
-
-  const topic = { id, label: query, query, items: [], error: null, fetchedAt: null };
-  const topics = loadCustomTopics();
-  topics.push(topic);
-  saveCustomTopics(topics);
   searchInput.value = "";
 
-  await init();
+  if (!existing) {
+    const topic = { id, label: query, query, items: [], error: null, fetchedAt: null };
+    const topics = loadCustomTopics();
+    topics.push(topic);
+    saveCustomTopics(topics);
+    await init();
+  }
+
+  highlightTopicCard(id);
 }
 
 searchForm.addEventListener("submit", (e) => {

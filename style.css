@@ -113,6 +113,15 @@ body {
   border-color: var(--accent);
 }
 
+.topic-card.just-added {
+  animation: just-added-flash 2s ease-out;
+}
+
+@keyframes just-added-flash {
+  0% { box-shadow: 0 0 0 3px var(--accent); }
+  100% { box-shadow: 0 0 0 0 transparent; }
+}
+
 .topic-card__header {
   display: flex;
   align-items: center;

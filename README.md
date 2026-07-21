@@ -26,11 +26,18 @@ Edit `data/topics.json` to change the built-in list — each entry is `{ id, lab
 ## Adding topics from the dashboard
 
 Typing a topic into the search box adds it to **this browser only** (stored in
-`localStorage`) and fetches it live via a public CORS proxy
-(`api.allorigins.win`) so you see results immediately. Custom topics refresh
-automatically after 12 hours. They are **not** added to `data/topics.json`, so
-the twice-daily background job won't pick them up — if you want a topic covered
-permanently, add it to `data/topics.json` directly.
+`localStorage`) and fetches it live via a public CORS proxy so you see results
+immediately. Custom topics refresh automatically after 12 hours. They are **not**
+added to `data/topics.json`, so the twice-daily background job won't pick them
+up — if you want a topic covered permanently, add it to `data/topics.json`
+directly.
+
+**Known limitation:** the live fetch depends on free public CORS proxies
+(`api.allorigins.win`, `corsproxy.io`), which are demo services with no
+uptime guarantee — `app.js` tries each in turn and shows a clear
+"couldn't load this topic" message if all of them are down at that moment.
+This only affects instant results for custom search topics; the twice-daily
+background job (`data/news.json`) doesn't use a proxy and isn't affected.
 
 ## Local development
 
