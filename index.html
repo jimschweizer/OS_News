@@ -1,36 +1,144 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="dark">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>OS News — Open Source Daily News Dashboard</title>
+  <meta name="description" content="A privacy-first, serverless daily news dashboard refreshed twice daily via GitHub Actions. Support for Google News and custom RSS/Atom feeds." />
+  <!-- Google Fonts: Inter & Outfit -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <header class="app-header">
-    <h1>OS News</h1>
-    <p class="subtitle">Open source daily news dashboard — refreshed twice a day</p>
-    <form id="search-form" class="search-form">
-      <input
-        id="search-input"
-        type="text"
-        placeholder="Add a topic to track (e.g. 'electric vehicles')"
-        autocomplete="off"
-      />
-      <button type="submit">Add topic</button>
-    </form>
-    <p id="last-updated" class="last-updated"></p>
+    <div class="header-container">
+      <div class="brand-block">
+        <div class="logo-badge">OS</div>
+        <div class="brand-text">
+          <h1>OS News</h1>
+          <p class="subtitle">Independent Daily News Dashboard — Refreshed 6:00 AM &amp; 5:30 PM CDT</p>
+        </div>
+      </div>
+      <div class="header-actions">
+        <button id="toggle-submit-panel" class="btn btn--secondary" type="button" aria-expanded="false">
+          <svg class="icon" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 5v14M5 12h14"/></svg>
+          Add Topic
+        </button>
+        <button id="theme-toggle" class="theme-toggle-btn" type="button" aria-label="Toggle dark/light theme" title="Toggle Theme">
+          <svg class="icon icon-sun" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>
+          <svg class="icon icon-moon" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+        </button>
+      </div>
+    </div>
+
+    <!-- Collapsible Submit Topic Panel -->
+    <section id="topic-submit-panel" class="topic-submit-panel hidden">
+      <div class="panel-card">
+        <div class="panel-header">
+          <h2>Propose a Topic or Custom RSS Feed</h2>
+          <button id="close-submit-panel" class="btn-icon" type="button" aria-label="Close panel">✕</button>
+        </div>
+        <form id="propose-topic-form" class="topic-form">
+          <div class="form-row">
+            <div class="form-group flex-2">
+              <label for="topic-input">Topic Search Query or Direct RSS/Atom URL</label>
+              <input
+                id="topic-input"
+                type="text"
+                placeholder="e.g. 'electric vehicles' or 'https://news.ycombinator.com/rss'"
+                required
+              />
+            </div>
+            <div class="form-group flex-1">
+              <label for="topic-category">Category</label>
+              <select id="topic-category">
+                <option value="Tech &amp; Science">Tech &amp; Science</option>
+                <option value="Headlines">Headlines</option>
+                <option value="Politics &amp; World">Politics &amp; World</option>
+                <option value="Local &amp; Regional">Local &amp; Regional</option>
+                <option value="General">General</option>
+              </select>
+            </div>
+          </div>
+          <div class="action-bar">
+            <button id="btn-gh-issue" type="button" class="btn btn--primary">
+              <svg class="icon" viewBox="0 0 24 24" width="16" height="16" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+              Submit Issue on GitHub
+            </button>
+            <button id="btn-gh-pr" type="button" class="btn btn--secondary">
+              1-Click PR (Edit topics.json)
+            </button>
+            <button id="btn-local-queue" type="submit" class="btn btn--outline">
+              Save in Browser Only
+            </button>
+            <button id="btn-copy-json" type="button" class="btn btn--ghost">
+              Copy JSON Snippet
+            </button>
+          </div>
+        </form>
+      </div>
+    </section>
   </header>
 
+  <!-- Filter & Dashboard Controls Bar -->
+  <div class="sticky-controls-bar">
+    <div class="controls-container">
+      <!-- Category Tabs -->
+      <nav id="category-tabs" class="category-tabs" aria-label="News Categories">
+        <button class="tab-btn active" data-category="all" type="button">All Stories</button>
+        <!-- Dynamic category tabs rendered by JS -->
+      </nav>
+
+      <div class="filter-controls">
+        <!-- Live Search -->
+        <div class="search-input-wrapper">
+          <svg class="search-icon" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+          <input
+            id="search-filter"
+            type="search"
+            placeholder="Filter by keyword, source, topic..."
+            aria-label="Filter stories"
+          />
+          <button id="clear-search" class="clear-search-btn hidden" type="button" aria-label="Clear filter">✕</button>
+        </div>
+
+        <!-- Deduplication Toggle -->
+        <label class="toggle-control" title="Group duplicate headlines from different sources into single cards">
+          <input id="dedup-toggle" type="checkbox" checked />
+          <span class="toggle-slider"></span>
+          <span class="toggle-label">Deduplicate</span>
+        </label>
+      </div>
+    </div>
+  </div>
+
   <main id="dashboard" class="dashboard">
-    <p id="status-message" class="status-message">Loading news…</p>
+    <div id="status-message" class="status-card">
+      <div class="spinner"></div>
+      <p>Fetching latest news snapshot…</p>
+    </div>
   </main>
 
   <footer class="app-footer">
-    <p>
-      Sources via public Google News RSS feeds. Custom topics you add are stored only in this browser
-      and fetched live; the twice-daily background refresh covers the built-in topic list.
-    </p>
+    <div class="footer-container">
+      <div class="footer-info">
+        <h3>OS News</h3>
+        <p>
+          Open source, zero-tracking news aggregator. Background RSS fetching is executed twice daily via 
+          GitHub Actions and committed to static JSON.
+        </p>
+      </div>
+      <div class="footer-meta">
+        <p id="last-updated" class="last-updated"></p>
+        <div class="footer-links">
+          <a id="repo-link" href="https://github.com" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
+          <span>·</span>
+          <a href="https://news.google.com" target="_blank" rel="noopener noreferrer">Google News RSS</a>
+        </div>
+      </div>
+    </div>
   </footer>
 
   <script src="app.js"></script>

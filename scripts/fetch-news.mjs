@@ -19,24 +19,54 @@ function feedUrlFor(query) {
   return `https://news.google.com/rss/search?q=${q}&hl=en-US&gl=US&ceid=US:en`;
 }
 
-function cleanItem(item) {
+function getDomainSource(link) {
+  try {
+    const host = new URL(link).hostname.replace(/^www\./, "");
+    return host;
+  } catch {
+    return "";
+  }
+}
+
+function cleanItem(item, feedTitle = "") {
+  let source = item.creator || item.source?.title || (item.title?.match(/- ([^-]+)$/)?.[1]?.trim()) || feedTitle || "";
+  if (!source && item.link) {
+    source = getDomainSource(item.link);
+  }
   return {
     title: item.title?.trim() ?? "(untitled)",
     link: item.link ?? "",
-    source: item.creator || item.source?.title || (item.title?.match(/- ([^-]+)$/)?.[1]?.trim()) || "",
+    source,
     pubDate: item.pubDate ?? item.isoDate ?? null,
   };
 }
 
 async function fetchTopic(topic) {
-  const url = feedUrlFor(topic.query);
+  const url = topic.feedUrl || feedUrlFor(topic.query);
   try {
     const feed = await parser.parseURL(url);
-    const items = (feed.items ?? []).slice(0, ITEMS_PER_TOPIC).map(cleanItem);
-    return { id: topic.id, label: topic.label, query: topic.query, items, error: null };
+    const feedTitle = feed.title?.trim() || "";
+    const items = (feed.items ?? []).slice(0, ITEMS_PER_TOPIC).map((item) => cleanItem(item, feedTitle));
+    return {
+      id: topic.id,
+      label: topic.label,
+      category: topic.category || "General",
+      query: topic.query ?? null,
+      feedUrl: topic.feedUrl ?? null,
+      items,
+      error: null,
+    };
   } catch (err) {
     console.error(`[fetch-news] Failed to fetch topic "${topic.id}": ${err.message}`);
-    return { id: topic.id, label: topic.label, query: topic.query, items: [], error: err.message };
+    return {
+      id: topic.id,
+      label: topic.label,
+      category: topic.category || "General",
+      query: topic.query ?? null,
+      feedUrl: topic.feedUrl ?? null,
+      items: [],
+      error: err.message,
+    };
   }
 }
 
