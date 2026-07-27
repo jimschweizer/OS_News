@@ -7,6 +7,8 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const TOPICS_PATH = path.join(__dirname, "..", "data", "topics.json");
 const OUTPUT_PATH = path.join(__dirname, "..", "data", "news.json");
 const ITEMS_PER_TOPIC = 12;
+const MAX_ITEM_AGE_DAYS = 7;
+const MAX_ITEM_AGE_MS = MAX_ITEM_AGE_DAYS * 24 * 60 * 60 * 1000;
 
 const parser = new Parser({ timeout: 15000 });
 
@@ -28,6 +30,17 @@ function getDomainSource(link) {
   }
 }
 
+// Keeps items published within MAX_ITEM_AGE_DAYS. Items with a missing or
+// unparseable pubDate are kept, since we can't confirm they're stale (some
+// direct RSS/Atom feeds omit dates) and dropping them would risk hiding
+// legitimate current stories.
+function isWithinMaxAge(pubDate, now = Date.now()) {
+  if (!pubDate) return true;
+  const published = new Date(pubDate).getTime();
+  if (Number.isNaN(published)) return true;
+  return now - published <= MAX_ITEM_AGE_MS;
+}
+
 function cleanItem(item, feedTitle = "") {
   let source = item.creator || item.source?.title || (item.title?.match(/- ([^-]+)$/)?.[1]?.trim()) || feedTitle || "";
   if (!source && item.link) {
@@ -46,7 +59,14 @@ async function fetchTopic(topic) {
   try {
     const feed = await parser.parseURL(url);
     const feedTitle = feed.title?.trim() || "";
-    const items = (feed.items ?? []).slice(0, ITEMS_PER_TOPIC).map((item) => cleanItem(item, feedTitle));
+    const now = Date.now();
+    const allItems = (feed.items ?? []).map((item) => cleanItem(item, feedTitle));
+    const freshItems = allItems.filter((item) => isWithinMaxAge(item.pubDate, now));
+    const staleCount = allItems.length - freshItems.length;
+    if (staleCount > 0) {
+      console.log(`[fetch-news] Topic "${topic.id}": dropped ${staleCount} item(s) older than ${MAX_ITEM_AGE_DAYS} days`);
+    }
+    const items = freshItems.slice(0, ITEMS_PER_TOPIC);
     return {
       id: topic.id,
       label: topic.label,
