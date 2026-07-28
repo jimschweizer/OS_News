@@ -2,6 +2,7 @@
   "name": "os-news",
   "version": "1.0.0",
   "private": true,
+  "license": "MIT",
   "description": "Open Source Daily News Dashboard — browser-based, twice-daily RSS aggregation across topics of interest",
   "type": "module",
   "scripts": {

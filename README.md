@@ -52,3 +52,7 @@ npm run serve        # serves dashboard at http://localhost:8080
 1. Fork/push this repository to GitHub.
 2. Go to **Settings → Pages** and choose **Deploy from branch** (`main` / root).
 3. The `.github/workflows/fetch-news.yml` schedule runs twice daily at **6:00 AM CDT** (`0 11 * * *`) and **5:30 PM CDT** (`30 22 * * *`) to automatically commit fresh data to GitHub Pages.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
