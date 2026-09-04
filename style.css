@@ -305,12 +305,79 @@ html[data-theme="light"] .icon-moon { display: block; }
 .controls-container {
   max-width: 1400px;
   margin: 0 auto;
-  padding: 0.75rem 1.5rem;
+  padding: 0.65rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+}
+
+.controls-primary-row {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
   gap: 1rem;
+}
+
+/* Topic Jump Navigation */
+.controls-secondary-row {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  padding-top: 0.35rem;
+  border-top: 1px solid var(--border-subtle);
+  overflow: hidden;
+}
+
+.controls-secondary-row.hidden {
+  display: none;
+}
+
+.topic-nav-label {
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-subtle);
+  white-space: nowrap;
+}
+
+.topic-nav {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  overflow-x: auto;
+  padding-bottom: 0.15rem;
+  scrollbar-width: thin;
+}
+
+.topic-nav::-webkit-scrollbar {
+  height: 3px;
+}
+
+.topic-nav-pill {
+  font-size: 0.76rem;
+  font-weight: 500;
+  color: var(--text-muted);
+  background: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  padding: 0.2rem 0.65rem;
+  border-radius: 999px;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: all 0.2s ease;
+}
+
+.topic-nav-pill:hover {
+  color: var(--text-main);
+  background: var(--bg-surface-elevated);
+  border-color: var(--border-strong);
+  transform: translateY(-1px);
+}
+
+.topic-nav-pill:active {
+  color: var(--accent-primary);
+  border-color: var(--accent-primary);
 }
 
 /* Category Tabs */
@@ -504,11 +571,31 @@ html[data-theme="light"] .icon-moon { display: block; }
   box-shadow: var(--card-shadow);
   display: flex;
   flex-direction: column;
-  transition: transform 0.2s ease, border-color 0.2s ease;
+  transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+  scroll-margin-top: 135px;
 }
 
 .topic-card:hover {
   border-color: var(--border-strong);
+}
+
+.topic-card.highlight-card {
+  animation: cardHighlight 1.5s ease-out;
+}
+
+@keyframes cardHighlight {
+  0% {
+    box-shadow: 0 0 0 0 rgba(99, 102, 241, 0.7);
+    border-color: var(--accent-primary);
+  }
+  50% {
+    box-shadow: 0 0 0 6px rgba(99, 102, 241, 0.25);
+    border-color: var(--accent-primary);
+  }
+  100% {
+    box-shadow: var(--card-shadow);
+    border-color: var(--border-subtle);
+  }
 }
 
 .topic-card.queued-topic {

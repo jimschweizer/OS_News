@@ -85,31 +85,41 @@
   <!-- Filter & Dashboard Controls Bar -->
   <div class="sticky-controls-bar">
     <div class="controls-container">
-      <!-- Category Tabs -->
-      <nav id="category-tabs" class="category-tabs" aria-label="News Categories">
-        <button class="tab-btn active" data-category="all" type="button">All Stories</button>
-        <!-- Dynamic category tabs rendered by JS -->
-      </nav>
+      <div class="controls-primary-row">
+        <!-- Category Tabs -->
+        <nav id="category-tabs" class="category-tabs" aria-label="News Categories">
+          <button class="tab-btn active" data-category="all" type="button">All Stories</button>
+          <!-- Dynamic category tabs rendered by JS -->
+        </nav>
 
-      <div class="filter-controls">
-        <!-- Live Search -->
-        <div class="search-input-wrapper">
-          <svg class="search-icon" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
-          <input
-            id="search-filter"
-            type="search"
-            placeholder="Filter by keyword, source, topic..."
-            aria-label="Filter stories"
-          />
-          <button id="clear-search" class="clear-search-btn hidden" type="button" aria-label="Clear filter">✕</button>
+        <div class="filter-controls">
+          <!-- Live Search -->
+          <div class="search-input-wrapper">
+            <svg class="search-icon" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+            <input
+              id="search-filter"
+              type="search"
+              placeholder="Filter by keyword, source, topic..."
+              aria-label="Filter stories"
+            />
+            <button id="clear-search" class="clear-search-btn hidden" type="button" aria-label="Clear filter">✕</button>
+          </div>
+
+          <!-- Deduplication Toggle -->
+          <label class="toggle-control" title="Group duplicate headlines from different sources into single cards">
+            <input id="dedup-toggle" type="checkbox" checked />
+            <span class="toggle-slider"></span>
+            <span class="toggle-label">Deduplicate</span>
+          </label>
         </div>
+      </div>
 
-        <!-- Deduplication Toggle -->
-        <label class="toggle-control" title="Group duplicate headlines from different sources into single cards">
-          <input id="dedup-toggle" type="checkbox" checked />
-          <span class="toggle-slider"></span>
-          <span class="toggle-label">Deduplicate</span>
-        </label>
+      <!-- Topic Quick Links Navigation -->
+      <div class="controls-secondary-row">
+        <span class="topic-nav-label">Topics:</span>
+        <nav id="topic-nav" class="topic-nav" aria-label="Topic Jump Navigation">
+          <!-- Dynamic topic quick links rendered by JS -->
+        </nav>
       </div>
     </div>
   </div>

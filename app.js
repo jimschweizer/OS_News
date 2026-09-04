@@ -22,6 +22,7 @@ const btnLocalQueue = document.getElementById("btn-local-queue");
 const btnCopyJson = document.getElementById("btn-copy-json");
 
 const categoryTabsContainer = document.getElementById("category-tabs");
+const topicNav = document.getElementById("topic-nav");
 const searchFilter = document.getElementById("search-filter");
 const clearSearchBtn = document.getElementById("clear-search");
 const dedupToggle = document.getElementById("dedup-toggle");
@@ -249,7 +250,7 @@ function deduplicateTopicItems(items) {
   return clusters;
 }
 
-// 6. Category Tabs Renderer
+// 6. Category Tabs & Topic Nav Renderer
 function renderCategoryTabs() {
   const categoriesSet = new Set();
   for (const topic of rawNewsData.topics) {
@@ -281,9 +282,62 @@ function renderCategoryTabs() {
   }
 }
 
+function renderTopicNav() {
+  if (!topicNav) return;
+  topicNav.innerHTML = "";
+
+  const allTopics = [...(rawNewsData.topics || []), ...loadQueuedTopics()];
+
+  const visibleTopics = allTopics.filter((topic) => {
+    if (activeCategory !== "all" && topic.category !== activeCategory) {
+      return false;
+    }
+    if (filterQuery) {
+      const q = filterQuery.toLowerCase();
+      const topicMatch = topic.label.toLowerCase().includes(q) || (topic.category && topic.category.toLowerCase().includes(q));
+      if (!topicMatch) {
+        const hasMatchingItems = (topic.items || []).some(
+          (item) => item.title.toLowerCase().includes(q) || (item.source && item.source.toLowerCase().includes(q))
+        );
+        if (!hasMatchingItems) return false;
+      }
+    }
+    return true;
+  });
+
+  const secondaryRow = topicNav.closest(".controls-secondary-row");
+  if (visibleTopics.length === 0) {
+    if (secondaryRow) secondaryRow.classList.add("hidden");
+    return;
+  }
+  if (secondaryRow) secondaryRow.classList.remove("hidden");
+
+  for (const topic of visibleTopics) {
+    const a = document.createElement("a");
+    a.className = "topic-nav-pill";
+    a.href = `#topic-${topic.id}`;
+    a.textContent = topic.label;
+    a.addEventListener("click", (e) => {
+      e.preventDefault();
+      const targetCard = document.getElementById(`topic-${topic.id}`);
+      if (targetCard) {
+        targetCard.scrollIntoView({ behavior: "smooth", block: "start" });
+        targetCard.classList.remove("highlight-card");
+        void targetCard.offsetWidth; // trigger reflow
+        targetCard.classList.add("highlight-card");
+        setTimeout(() => {
+          targetCard.classList.remove("highlight-card");
+        }, 1600);
+      }
+    });
+    topicNav.appendChild(a);
+  }
+}
+
 function setCategory(cat) {
   activeCategory = cat;
   renderCategoryTabs();
+  renderTopicNav();
   renderDashboard();
 }
 
@@ -365,6 +419,7 @@ function renderTopicCard(topic) {
   const card = document.createElement("section");
   card.className = "topic-card";
   card.dataset.topicId = topic.id;
+  card.id = `topic-${topic.id}`;
 
   const header = document.createElement("div");
   header.className = "topic-card__header";
@@ -417,6 +472,8 @@ function renderQueuedTopicCard(topic) {
 
   const card = document.createElement("section");
   card.className = "topic-card queued-topic";
+  card.dataset.topicId = topic.id;
+  card.id = `topic-${topic.id}`;
 
   const header = document.createElement("div");
   header.className = "topic-card__header";
@@ -443,6 +500,7 @@ function renderQueuedTopicCard(topic) {
   removeBtn.addEventListener("click", () => {
     const queued = loadQueuedTopics().filter((t) => t.id !== topic.id);
     saveQueuedTopics(queued);
+    renderTopicNav();
     renderDashboard();
   });
   header.appendChild(removeBtn);
@@ -499,6 +557,7 @@ async function init() {
     } else {
       clearSearchBtn.classList.add("hidden");
     }
+    renderTopicNav();
     renderDashboard();
   });
 
@@ -506,6 +565,7 @@ async function init() {
     searchFilter.value = "";
     filterQuery = "";
     clearSearchBtn.classList.add("hidden");
+    renderTopicNav();
     renderDashboard();
   });
 
@@ -531,6 +591,7 @@ async function init() {
   }
 
   renderCategoryTabs();
+  renderTopicNav();
   renderDashboard();
 }
 
