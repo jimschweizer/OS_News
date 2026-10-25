@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T00:23:52.744Z",
+  "generatedAt": "2026-10-25T14:54:21.276Z",
   "topics": [
     {
       "id": "headlines",
@@ -9,22 +9,40 @@
       "feedUrl": null,
       "items": [
         {
-          "title": "Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeUdkajdVaE81UXowdEROTVA0NFNwX0JJTUw1RHdaMmtHQURmRzZmNVN6dmplOGQtZ1BrQXNrb0JPZXdPZXQ3Qi1mNG9zb1RONC1DeDV0eXNzRmdDd2lpNkhjSHJLWDFrcFk5S0JLNHpKWVB5UnoyT2E3U2NPSHpKVXE5REdYdzlR?oc=5",
-          "source": "The New York Times",
-          "pubDate": "Sat, 24 Oct 2026 21:06:54 GMT"
+          "title": "Ramaswamy follows Trump's playbook in tight Ohio governor's race - USA Today",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVUJ5OVhjX01jREVwT2lKMm9aLVExNlY0M2w3Y2Y2MzdxcVhZei1tUmpDWl9KeUxoNVlGSmpqM2xhaC00LXEtOTVqXzdiVnR3alNTTVoyaTZiMkhQOUJvUjRleFhDeXdfLXlfV0F4WktWM0tOOWxRR1c4b3RiTTJQOTZHZklZOFJvT3BPNElVT3pvaWg0UTFGYm5Ka0VKelA1YldFQklIdFRaSFIwdFd3UXloNG9TZV9IUGM5MHV3?oc=5",
+          "source": "USA Today",
+          "pubDate": "Sun, 25 Oct 2026 10:01:00 GMT"
         },
         {
-          "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France - BBC",
+          "title": "Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNmpMTzVMV0M5WU04b2s2LW1QeWlLWVVSdnRJQ2xQeW9WeVdXVjZYVkVwVFgzWTd5U25HZHJ4VFFIb0xfZDBrOVNJYzVsWndCcmhfdEkycExMaVoxelNzcWtuTWhxdjFKWVZxeVhGemVZdi0wNjBaX1pwdWE0aTBOS1gtUlNUcjRwRXNzcXNkdnF6ZDlrTFBJejVCQ1kwUGRjQWQ2MTNHai10OUlhQ29TdFNn0gG3AUFVX3lxTE9zVTVQVDdCLWlial92eERzejVzYnlMSnRwdTRiOFd5WTZCcFE2VnVabkJYOFNwV0NQRl90a0R1ZllSc2NDUDdPLVd3bXBUV0dLcU01a0MzbVhNVUlHczgzUTlYOW95YkZFVVdFOW8zVmROUUN0alc1aTZzRnNuTUxZcHg1a1VTQktVYkNhSTBNMzZiampRSUFtbjBFaDBSZURlVDBiYnh4MjBBRDNuYlVNTnpPcVdJaw?oc=5",
+          "source": "Al Jazeera",
+          "pubDate": "Sun, 25 Oct 2026 08:51:07 GMT"
+        },
+        {
+          "title": "12 injured, including several minors, in shooting near Florida A&M University stadium - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUXVwdFpORWtWdWgzWjR5OW91aktPQmNnc0k1WlBKdm1xdUpJejJaREVaOFRoX1JsZnRjYXktTkhBZzJlV18zMVp3TWlGLVFkM3hfMDc1RWVMZnp2UEtCMXNlT19fSDJ2RFFIcVo3RW51d3l2ZEpuVFJwTWN4VWZKenE0dHp4aTM3eFFQSzM2elJyVTRnRDNVRkVjTnF3MWc?oc=5",
+          "source": "NBC News",
+          "pubDate": "Sun, 25 Oct 2026 13:28:00 GMT"
+        },
+        {
+          "title": "More than 1,300 arrested as clashes follow another day of mass protests across France - BBC",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkdVB3VzZ5U3JiUXVrMFFYQ1d3VzNpd2F0R2NKcUIxdUxiWHVyd19FOUhJbi1HMFNrOUIzbTI2NTRsdjZWX0V1RXlvZUxGYTdUVTlOYlZfOTUyTTA?oc=5",
           "source": "BBC",
-          "pubDate": "Sat, 24 Oct 2026 21:09:27 GMT"
+          "pubDate": "Sun, 25 Oct 2026 10:38:15 GMT"
         },
         {
-          "title": "Musk says he was behind Starlink speed restriction after service in Ukraine is restored - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOGd5SnEtSm9xemFDa0s3MnhQUjFKOHZmcUxxcHVJU01FWk5aWWEzQWJKaG1DUGlqMFVIWVJrWXA0NUx6NTVQblRkb2lUNXJSWWdrd3A5VlNuc1BqbWM1TEdCZ0pJaHUwdWFpa1g3MVFkODMzWEZuS21WaGpqSldLTEZqT2xReDFQY1I3NEV6ZEZWTl9Pb2gzbG13?oc=5",
-          "source": "AP News",
-          "pubDate": "Sat, 24 Oct 2026 20:16:00 GMT"
+          "title": "Elon Musk says SpaceX closed Ukraine Starlink ‘loophole,’ while Kyiv denies breaching terms - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOXBvdGNZdU9CMWpZMWZsSUhGekE3Wkg2M1JVSDlYRTlQM1BTVjRqNGVfbl9vbThtRnh0TXA1eUxOdWhoRDNicXRmVkJ6aVlRdkRaM2tESVg5R1gyRFFzWlZFMXpmcXNmTjlrdmd0Z0JmVDZDTnk2VEdvN3R4WktndktYdG03SmNReDJaN1R5UzNZdTk2LTRGb2lUaDZTQUtmSmlHRGNQQjdJZXJoR0NBdEpWd0VnQQ?oc=5",
+          "source": "NBC News",
+          "pubDate": "Sun, 25 Oct 2026 13:32:53 GMT"
+        },
+        {
+          "title": "Economic woes transform the Midwest into a massive midterms battleground - CNN",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQUs4c1NWTFMwSHJQX2tDM3pCdTV5Y3hjQmpRRkpzOHh3cWEteUlZd2ZUemNjMWF2WEl5OGdObFpOZUF3QjdyR0l0UVBUOGZIR0ZXdDhQQWZpcmozOVUyS0RRc281Ym90aUhFQ1ViaXUzaHh4RVQ4bW9FSVMtNkx5U1NBMEhhU2Q3ck44Vg?oc=5",
+          "source": "CNN",
+          "pubDate": "Sun, 25 Oct 2026 04:00:15 GMT"
         },
         {
           "title": "Democrats, voting-rights groups challenge Trump's bid to block Alaska Senate certification - CNBC",
@@ -33,52 +51,34 @@
           "pubDate": "Sat, 24 Oct 2026 19:57:24 GMT"
         },
         {
-          "title": "Bulldozers tear down home as Israel cracks down in the West Bank - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQV0RKbWFORDR0RFhLamxya284YUxWQnBUa3J6LU55QUlMRlFpblhpal9aVXA2QTJSQ2k4OElNNmZhd3kwQk5Xa3NFTWhpZUZEQzAyOUkwZFY2aUMwVkZ4MklDMV81N001b3lCZ2tyS1c4eHc5QUtBOWJab0VYSjRDSGtYbzRqOGpMTDdxYUhxTkM4akdRXzhv?oc=5",
+          "title": "For years, relatives didn’t know their uncle had died. Later they learned a police officer allegedly stole his house and identity. - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV0NtcXdGdFFUMmdvX3ZvVHlXSlpFaWI0ekZSeHZ2Zk1Hc1l5TDVqZE5abEttYzNHTVJpWFhWTXo0Z25hWEE5TVVMODZXcWhRX1AydDFkU3lKbEVEVzlnLUliQjY2SnlldlkzYWtIWFVIYXphcUh2UURzQXRJNEF1aXZnVFpzTlhiajBRWGZSZmtTWmZwOHRfb3JZbWJnTXJpX2hLLVgzNUNLQQ?oc=5",
           "source": "NBC News",
-          "pubDate": "Sat, 24 Oct 2026 20:00:40 GMT"
+          "pubDate": "Sun, 25 Oct 2026 11:00:00 GMT"
         },
         {
-          "title": "Omar’s deleted tweet could give clue on alleged brother marriage - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd3g1V1ZtUFdOMXMzc3IzWW81Z0VKM2ZvdmlYNG1Hci13U1ZGU0VhSUpIUXBfOTF0RTNxNWgzRVRuc2dpRlBzRk5rQnVSMnpJTlJRYVRsTXBRNkVUVzZKRWdTWVBzbEVINEVCTXlNckZFb05kRVd6bDFOSFprQzhuT0RfcTRKSk5YY1HSAY8BQVVfeXFMT1ZKM1dKOXZBMEpacmJ6bzNMYmZ4Wi02ZUk2eTE5MVNwd092eFAwcGJxMXNZUWQwTnRHQWlDc1BtemtiM29vYU50eFMxTXZCRHNoTmNpTE1pdmROWV9wSFQ3a1NvWEhTeVA0clV3Qm5jUHhGWGVRakcxbHZyNjlONEhLRC1Xd0czZGdyVUQ1UDg?oc=5",
-          "source": "Fox News",
-          "pubDate": "Sat, 24 Oct 2026 14:04:28 GMT"
+          "title": "Trump administration has pushed off 13% of Americans enrolled in food stamps - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02dEtZVDhDT1A4SkpMNlVObGpCYmZLenJtb1hZdnlhR3hWYUdLVjJ4RXU5VXRad1oyUlV4ZVJfM1lLeTNpT216ODd3RDBOOEhYR0J0ajNkSEc2YzBpbnFUZHFvQVhBUDlYMkFNSmE0aUZWd0RRYWszUg?oc=5",
+          "source": "The Guardian",
+          "pubDate": "Sun, 25 Oct 2026 11:01:00 GMT"
         },
         {
-          "title": "‘There were ones I didn’t save’: Oregon man who killed school shooter says he has regrets - FOX 8 News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQVhHOW1mT0wzNlNSakRNR1dUQVZMQ3dLTDdMeXAzTUxSaVdVcEp4Qm5nM0pwOU45UlMtVThnN0Zpb09JbWxKcUZ4QmRPOGx4azZsWXVLeHRET0p6d0dONjRBOERtaV93enhjbjJ4Tno5d3ExaGRGTGV2MElmanBqTEJ1d2hOa3RNR2RGaUtKY3lSVUY5Und1MkR3eHBuWmdrd21HZ3I5YUhvUlZS0gGyAUFVX3lxTE5VMnlSVWxib1NUSHFndmp3eXYxdEdvMEVVZUVleWRhaEo4YmlOakdlUkNhN1U2ZE93NGdJNkJGaVBVaEg1ODN3YzJDZjlWMXIzYUg2U0FYalJvWW84NHAtb01aVGE3VmlBcWNYYTVpRng1Nno4c0JHUE1OWjNsbHZXVlhsQ2o3QlgwMXlvei1iU19Ra05SaVUwQVJYSmlWckNnX2RMdU9jQUJsWWYyclEyOGc?oc=5",
-          "source": "FOX 8 News",
-          "pubDate": "Sat, 24 Oct 2026 17:59:39 GMT"
+          "title": "Iranians Face Anxious Wait as Threat of Attack Looms - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcm5Db2EzRmNzUm45MWw3S1VONDVoYnFoMDJNUUxFNlNmOURxc2Z3U0xNdk5CR0hqb1NuaFdubnhJNExtZFctYVF5QktUUkFfLTJoWlMwc2tqSFpPdlVkUXNJcXhuMmtwaVVVUnJXM1pOMWRNajI1Vzg0Z200cmo2Y0hlOWt0a2lja2hVd0RxN3IydG1KckV5VXdFUEIxWVB6bzlkMF9aRlN5cEZEc2c?oc=5",
+          "source": "The New York Times",
+          "pubDate": "Sun, 25 Oct 2026 06:14:00 GMT"
         },
         {
-          "title": "German man arrested for allegedly driving American teen girl to die by suicide, prosecutors say - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xSWtuV0txemF6bDlxbTllcnVVYmZqWWFLVjN1OE4yRWdUTDM5VWxSSTdOZHpvU3RwNF9FS2hucjVSRm5YQnZVS2tFeDJKbnBkcHc3N1QtYzZrbmhSZVlwZnJ2TXRZZFFON3FSV2RoaFNQMjhf?oc=5",
-          "source": "CBS News",
-          "pubDate": "Sat, 24 Oct 2026 17:26:19 GMT"
+          "title": "Brazil votes in tight runoff between leftist Lula and Bolsonaro Jr. - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdkpfT3YtQXVCRlQ2RkU5d1JxQ1dSYUY5WXYydnVvN0lGWHB1NkR2MjIyb3BoZ250UVJfSEpTb05SRUx0VmFxS1pzWWNyVFhuZVRPVDRSVmVoTW9WSWFXWjQ2TlVoYTlNWTViSFRiZkMweWxnN2NzRWRUbjVHbFg2T3o4UDNzTmhlaEhTb3JSTDFVNTF4U2hJOE5ZVDFGV0VzR2U4UG1iN1c0cXhGYUsw?oc=5",
+          "source": "Reuters",
+          "pubDate": "Sun, 25 Oct 2026 12:01:34 GMT"
         },
         {
-          "title": "'Once in a generation' flood event impacts San Juan County - KOAT",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZWFtRDhBcFN1UXc1MnlLUlpBdXBjZU9KS3JEdDQ0cFAxNVNmbEEzZ0tPbkQ4bVQ3S1c5TURuSGZONzNJM3FqVW5za1l1d0NxMlhuNV9qdmV1R2FfcWlCRGJtWU9nVU1VS2pBTWhjWGJGdDRlWk9wTEFrVGlhUmNxcUtxa2tnT3FYbjE4cHFqdUxtOS00QmtSVEZTTQ?oc=5",
-          "source": "KOAT",
-          "pubDate": "Sat, 24 Oct 2026 16:59:00 GMT"
-        },
-        {
-          "title": "Melania Rewrites History in Shocking Snub of Pope - The Daily Beast",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDVPbFVFLThnU19fQ2JwY0NLR1BCY2o1TnBrc2QzS19HanprNlIxMkdpcWljLURIN0k1SXkwbmRzZFZDc3J2SVFFS25DSmhKTFJHQ19wak53UzUyYnV3WU1BWUxLaEhQVDQ5Ymw4THRnSVRTN3RZZ0lRTXI0Z0FtSi1YTHhZSWZOYXAwSkxuZndFYTdselVwd1IyTWQxcUxzQVc3M0ZCNXJjN0RzckdYVWF2X1pMdTg?oc=5",
-          "source": "The Daily Beast",
-          "pubDate": "Sat, 24 Oct 2026 16:40:41 GMT"
-        },
-        {
-          "title": "A fire devastates the Eagle’s Nest retreat built for Hitler in Germany. A suspect is detained - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX3ZLRkl4Y2Jla2ZCdW90UzZ1aHJuTl9xVjZpSGdQb2xzTDdsRFVEeURDTUJvaVQwbGU2bEFNQ21oMlJqMVFZYWc0dUZiQy1yMWQzUnBhWmZXNzFHWUdpVU1ndHdBTHZIUDFybWNZbGx2QWdRQ2VrNlgwZlMtNWxQc2dCa2U4bmxUdXl1bXhGaUlVZW5OU3RmZnFFVW5LdnpsQUdxZGZkTEpqMm54TVpB?oc=5",
-          "source": "AP News",
-          "pubDate": "Sat, 24 Oct 2026 20:23:00 GMT"
-        },
-        {
-          "title": "7 dead, 40 wounded in Jordan church funeral shooting - AL.com",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTElhdnNRWkx0RHplT255cUItalUtOU9MUkRhemFkWEJ0NGhrZHBiMVdOWlJIU3dvM28ybEVzcHFFdGJaUXgtUlJtRFJac2tJMmFTY2FYdTZpOHRoUzlqSkJfc1pBRG1RQzd4eG1RRlplMzIwQWp2X0NCMF82ZUlGNGFPT3ExRzhodTYxRG11MnVmZ9IBpgFBVV95cUxPeW5SUnIxWFlFOFk1MnBZdDRqMEl6eTFDb19CbFdiUmROeS1jNnNiUHZ3UjdlVmUyRzBFTk5hOEtLZklOcGNreW8zUWRGUXJoNTF4ZmRWcklJRk9BaGlrckJBaDEwNFJ2OEYyZGdLMjFSa3R5U2dMZTJWMExmUlFuVXRUek5uS1ZiS2ZtSFhlLUx5UDdBelZHTW9IZUFzZDEybDBmUVpR?oc=5",
-          "source": "AL.com",
-          "pubDate": "Sat, 24 Oct 2026 13:03:00 GMT"
+          "title": "Disenchanted Netanyahu supporters are prize of Israel election campaign - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORkR4bHJlcGYyMi1nYkI4Wm9SeThiSEh4ZUVrdHM1NnpJSjV4eWdVOUxOWS13NzhWZ3RLbXY4Skp2aVhhT0ZUOFR1a0pNYkZzRFRjVjEtSEttMjY1Z1RKMHNvZFI5RVZidV9ONzFuc1lfdjFnRlJlUG84Qy1SNmM5UFkwU0FGYmFLeXFiYTlqU2hsci01T2JwVW1PZFZKT0RCVlVpMTg5VVZDQktaTi01R1pDc2p3RVN3YmpWeWlER1I?oc=5",
+          "source": "Reuters",
+          "pubDate": "Sun, 25 Oct 2026 11:18:55 GMT"
         }
       ],
       "error": null
@@ -91,16 +91,16 @@
       "feedUrl": null,
       "items": [
         {
+          "title": "Apollo’s Slok Says AI Has Delivered Zero Payoff Outside of Tech - Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR1FnYXFIOUpyU1VUdzNDazE4cFE2VDFyNU5DS3h0R0VSR2xHa0k0V2dHZ0hKbTZ6dFo3X1hUSW96S2dRRE5GODJUSUlCQ0dHUTVpSUJ0ZExNM1FBMVFld0JmSTBDMkpfSG5IOXVlS0hPX1h6OHpRT0xhbzNweEVxVDBLZGRreHVCc0VPZjVEQjN5dEIxQ2x4TGhfN2o3UHA3dVZrTXhRNVhsV216MGxNSnZWUGdNU1JiQjMxbQ?oc=5",
+          "source": "Bloomberg.com",
+          "pubDate": "Sun, 25 Oct 2026 09:28:36 GMT"
+        },
+        {
           "title": "AI Terrorism Is Just Terrorism - The Atlantic",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xT0l3UDNRNU52X3BUNkFfRC1EN094MjRUMFZQRlRFNWI0S0dLS2FwbmRjWFNxd0N4Y0VDQXZ1TjU0VGtRdXlBSEFTMUpmSDJzNTNabzdnVkRHWGNrSTg3YkpPSVkyNmxhT1Q4b0JpZDFweFBwdE4wT0xKdkxzQQ?oc=5",
           "source": "The Atlantic",
           "pubDate": "Sat, 24 Oct 2026 12:00:00 GMT"
-        },
-        {
-          "title": "Redmond-based startup develops new robot weeder using AI technology - KUOW",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPODNTeENwZWZSNzZIOUZDZUFKOFFFN0tZMWd4cWxsdlp1WUhrb0RkSmVoV2JtMnhEYUd5VGlEYTE2UmE0UVFrMGY2R2gyVy05eEFOcEJhV0g5eERQTTJrWVJ2RGlldGtEYmpQa2w0QkUxRlJ2MlJidXl3QXo0M1VVWEJMdjQxZGpIOUhob3RncHpNcnJ0bndJN1llMUE1b3h2VVZjMW8xSjhHaFRiUWdv?oc=5",
-          "source": "KUOW",
-          "pubDate": "Sat, 24 Oct 2026 00:07:00 GMT"
         },
         {
           "title": "The surprising popularity of AI - The Economist",
@@ -109,10 +109,10 @@
           "pubDate": "Thu, 22 Oct 2026 10:14:41 GMT"
         },
         {
-          "title": "The Indian workers filming their work to train AI - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYNk95ZEY2aXFiY2RkcU5lM2h0R3RaVDdNS3dkZ1BQdkNWcnJUb2RyYWlZWXgteE0tVDVZVGpyTFB4YTNmYWNzckV3ZTU2UWUzXzlaWnRwSE92V2s?oc=5",
-          "source": "BBC",
-          "pubDate": "Fri, 23 Oct 2026 08:04:17 GMT"
+          "title": "The datacentre next door: on the frontline of tech’s latest David v Goliath battle - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZXdMOTdZRGdtdDAwREJWRC1tTjdGM3BqUGtwcUhDci1VeWVzWlNTSnl3U1B1X09VZ2RzMnF6SU1QWmVwc1lmVlByLTNCSS12VUpka05sNWxzMHhZRVBFOFdtTXphVTVEQU8ydDExbTBmWWJHOHhQWnZ6OUJxQzVVVzZzUHNuazYzc1Y2cG12WGkyclFKTWtIT3phajVIQUhkakdfd1UwX3lwOFhEaGNraVg0bkhMLXNCRFVGZ2ZzLURnYjJhWW5BcFNyZw?oc=5",
+          "source": "The Guardian",
+          "pubDate": "Sat, 24 Oct 2026 11:00:00 GMT"
         },
         {
           "title": "Exclusive: Longhorns used AI against Florida — a 'new wave' for UT sports - Austin American-Statesman",
@@ -121,10 +121,22 @@
           "pubDate": "Fri, 23 Oct 2026 14:16:41 GMT"
         },
         {
-          "title": "‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTG5XNmRIZVQwZ0hvdmQydjE2elRuNlBscUNJRnhyTWpuUHh1SmlVeGxqRE1HQjJVT3RPTFpaUGZoWUQyOEhYS2JPdUdoeWt2d0pkeUVtbkpSRHpvOVJhMFdkQWdHTi12elp2aldCQTlYMUV4NHpNU0VtM3RoaG4xVkRPdW1YQjhNX2pXYXh0RzhzOWFZSkZPNA?oc=5",
-          "source": "The Guardian",
-          "pubDate": "Fri, 23 Oct 2026 18:59:00 GMT"
+          "title": "The Indian workers filming their work to train AI - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYNk95ZEY2aXFiY2RkcU5lM2h0R3RaVDdNS3dkZ1BQdkNWcnJUb2RyYWlZWXgteE0tVDVZVGpyTFB4YTNmYWNzckV3ZTU2UWUzXzlaWnRwSE92V2s?oc=5",
+          "source": "BBC",
+          "pubDate": "Fri, 23 Oct 2026 08:04:17 GMT"
+        },
+        {
+          "title": "Redmond-based startup develops new robot weeder using AI technology - KUOW",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPODNTeENwZWZSNzZIOUZDZUFKOFFFN0tZMWd4cWxsdlp1WUhrb0RkSmVoV2JtMnhEYUd5VGlEYTE2UmE0UVFrMGY2R2gyVy05eEFOcEJhV0g5eERQTTJrWVJ2RGlldGtEYmpQa2w0QkUxRlJ2MlJidXl3QXo0M1VVWEJMdjQxZGpIOUhob3RncHpNcnJ0bndJN1llMUE1b3h2VVZjMW8xSjhHaFRiUWdv?oc=5",
+          "source": "KUOW",
+          "pubDate": "Sat, 24 Oct 2026 00:07:00 GMT"
+        },
+        {
+          "title": "2 Warren Buffett Artificial Intelligence (AI) Stocks I'd Buy Right Now and Never Sell - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUDFVazdNVXhxTGY4SmpzaGZ1MXFJbmtOeWlQWEJmRkhBQkFydmlCOEVDQnlWaXB3b3JLd2dKa0ZraU9HMmxxa1B5TFp2SWFjbDVqSm1neE9wNjRUSlZxYlJOeGdnOUZqa2lIYmZQWDJmaFVjbUVGS0tYOGJ1Z3g2V2Z3SlBqOENwaTNmQlB5SzRHR0F5ZXNyaHNvNWN5cHY0b29ab3RRNA?oc=5",
+          "source": "Yahoo Finance",
+          "pubDate": "Sun, 25 Oct 2026 00:20:00 GMT"
         },
         {
           "title": "Scientists can now 'watermark' AI-generated proteins to deter bioweapon creation. But will it really work? - Live Science",
@@ -133,22 +145,10 @@
           "pubDate": "Fri, 23 Oct 2026 09:44:19 GMT"
         },
         {
-          "title": "AI devours a fifth of companies’ IT budgets - Computerworld",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUU96TnZRYUxMVHl2M1N2Z2VFTVBfcEVEYjhLaVZQNWJ0LUZFRE9WeDBpRFpCWXBJajNqRW1ET1F0RjJ1ZmJqaGRHUTUyWGFpWERTdFdtXzVSOGxVb1g0NWdwYkdPVUhVS3RicE1jWmdYeFF2LUJFQzBQb3J5MzlOekt1RE5FdjBiYl9zOXNyMUhITGpGZDJ5X3BVLXJqSGhYcXc?oc=5",
-          "source": "Computerworld",
-          "pubDate": "Fri, 23 Oct 2026 21:50:36 GMT"
-        },
-        {
           "title": "DeepSeek, MiniMax secure licences to deploy AI overseas under China export rules - South China Morning Post",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdnV4SzNzeVJsZ09SV1IzNVRrOVRYTklVZEJtSVYxWkJFTDhnUzVoeUhwSWJfRXlRVzNEUVVpTzBJdGdPc3ZMbHR6cnZpNmdkbkZ5cmVMV3dXSVgtN1dhVHdBek9hckIzVnd1cnAwLWJpYkI1QlJweVg3dFM0anVuRzBwanFDczBJdXk4QlY4V2ItNEpOd3JDOVpDeElLWlVQempBT2pIME53N3V2ZE95aHJRTEpDakpmbTdPOUVDTzBndjlRVUkzeHVrTDE1bVl5dGgyWTdR0gHWAUFVX3lxTE9LYU1POXJiUWt2RmdwWDd6cUZHdkt5djdMUGNTdXRCcURfbV9pSVp6TFUzZmlnQTBfVHZVRzJwZDRHTjlJSldUeUxpUFgwTDMtaHROWXZiYmpKZ00wSDhvZWtrcnRuMEFvRHUwZW4wN1pkcjFJcjFGMzJzX3pvXzktbjdxWi1qLUZTT1hQNmVaSUhmdWtSSUZnUGl5OXEwQmM2OGQ0YVVEYzI4b1p1RDl3LXQ5NmdHX294ZmhEbTUxUEJOOTctR1phVmZUbUhLUDhPZzROZlE?oc=5",
           "source": "South China Morning Post",
           "pubDate": "Fri, 23 Oct 2026 06:00:25 GMT"
-        },
-        {
-          "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat - TechCrunch",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRFVjb1ZFLUt6aVZJTnlORlk1Vl9YS2lRMW9UeldUdUd1OTRMWE85eDZIU0t2b21FNG82X05VZ081ckJ2T0tVbE5KRU5ZSlc0eURzR0JtZ0VSak5uWk5wN2M4U0ZlY25lYTZidl8xbUVZMFN3NVc3NEQwSWFKaVNKWmxOa1JubVg4VHQ4S0pGcVB3X0l0eGw0V3hTWXZPTmM?oc=5",
-          "source": "TechCrunch",
-          "pubDate": "Wed, 21 Oct 2026 19:30:00 GMT"
         },
         {
           "title": "Iowa hospital expands colon cancer screening with AI technology - American Hospital Association",
@@ -157,10 +157,10 @@
           "pubDate": "Sat, 24 Oct 2026 13:54:48 GMT"
         },
         {
-          "title": "No Signs of AI Payoff Outside the Tech Sector | The Daily Spark - Apollo Global Management",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOHZjSE5HWVFmaFJNNVJMV09Sc1BWRGZVb0FhazlOQlFCY2hRV1VzSEtyNzh6WnhqWUhVSHV2NWpJanBrZm9rdGkwaW9MbS1FUnhTUkc4MDJ6SkI4T3YwWEdsY19HbW9LWG9ZNXRxOENPX2hrZWhCb2tVUEd0c29yNWxTdzRwMURoTVZaOXR1M0ptUEJEc1JpVFpJT0ZSZ29FYlA1LWRLTnNBNkVmVnNr?oc=5",
-          "source": "Apollo Global Management",
-          "pubDate": "Sat, 24 Oct 2026 10:44:59 GMT"
+          "title": "Microsoft, Opella partner on agentic AI content verification platform - Fierce Healthcare",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMGdDQ3RuaUotV1JMZXk4YWt5bUp6RnprRVZCUXplWUhoMFluTjJGOHlQVHcwVFpHNTQzVzRuSnpTalFrTFRLVUcxTGdVVWdkdnFNUGE3SWxadTYzR084bkFTY09qdlIzRVVqekhKQTJDbFdfRGpsU3RHRDFKSHRjQkp6di1oeFN5LTczcjJzU3VqMFA2bXFmeEs4TUM0ZHk5Y1JSVDJJWS1TaG5DbEhMTVpyOWFrb3Bpc0hlRUc5QQ?oc=5",
+          "source": "Fierce Healthcare",
+          "pubDate": "Thu, 22 Oct 2026 17:00:00 GMT"
         }
       ],
       "error": null
@@ -183,12 +183,6 @@
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORDJaR0liTWV0QkJUYWMtU09ScjhwVUdQR2xRdERrZ0NRLUVkYjBLSlMzUG1DZU5lY3A5ckhQalQyQWZhZ3ZPYVNIeHBraUV2RTRDalZfQWdxLXl4SjBsVGhLZ0tDRzU3RlhxeFgwRlJiaXhqT3FBVDVWOGNERE10S1RVWGl5b012VlBhN3VkRHpGSVVWMHZr?oc=5",
           "source": "The Motley Fool",
           "pubDate": "Fri, 23 Oct 2026 05:00:00 GMT"
-        },
-        {
-          "title": "QSolid Shows What German Quantum Computing Tech Can Achieve - HPCwire",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQmdQcVk2SkhJWWdMcUNtTE9nWlBhY0ZjRFU0REdudjI0Z0g0M3BHYmp6TW1abERDLUQ2MGlWOUJZMDN1MFdkZnVjNFlLYWVxeTZqUnh2STI0VkxhempVQUFUYVlfbDBrZG82T3NOWVl4SGJ0bUh5TTZ3ekhRYjRDWXdUeHRJWGN6UUVNUjZNcHBmck5vMzFFOEszeWM5QQ?oc=5",
-          "source": "HPCwire",
-          "pubDate": "Fri, 23 Oct 2026 16:36:59 GMT"
         },
         {
           "title": "Got $1,000? 2 Growth Stocks Building the Quantum Computing Revolution - The Motley Fool",
@@ -218,31 +212,37 @@
           "title": "Quantinuum Breaks Error-Correction World Record by 10x, Validating its Leading Path to Fault-Tolerant Quantum Computing by 2029 - Quantinuum",
           "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQUXE3RDhVTTA5S2huNV9SUm9Cek0yeGx3T05xWEc4cmp5ZkU3OGZQaTh0cEpLajVrMGIyV2l0akhDY0xxSkQtN2N4eVMxaEdTMlI2dTNXemtlNm1PSXA4MEEtdW0zUVdyMXkzUUVtTVBpMy02NjJHeENNM2ZQMEZyTVltVWw1eTRlLUhkWDl6LUppaTJQYjhBMHh5RTZMR2QyeEpzX0h1Mm40VU9Mb2ttdEVpbFY1M1ZjNE9UenN3LTJoSE1TNFdpQ1h2dXZhN1N5Ym1SSHJ6eFZGZWs0SnlWakdBWFI3VGpHVUNCaXVYSE9yNWFIM1NCNzliUzM?oc=5",
           "source": "Quantinuum",
-          "pubDate": "Thu, 22 Oct 2026 07:00:00 GMT"
+          "pubDate": "Mon, 19 Oct 2026 12:09:00 GMT"
+        },
+        {
+          "title": "NVIDIA Runs Record Simulation of Fault-Tolerant Quantum Computing at Jülich Supercomputing Centre - NVIDIA Newsroom",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVG1WY2dfWHlKMC03cS1qQllzc3hyT0ptajMtQUJvdlNMZ1ZkVHM0bDdJRnloMVdQNDZxMHhXcnhyQUR5eW9EVENZWm1Yb0RMMlBCMHU2b1NfbzNaeGxSY3pFbjFpM1lNS01YbFZOMDBzc3dmRjFZM2hoSXpoQTVvbFVyeGNvRlRxWFp4QlEyMlhVWE1QeHljWTNGQkE0SlBKNDJGa0phLXhpNWFBSVBDRTE4dFFRS2puNDRuSUdKUDlscEkwaVE4TmFVS3I?oc=5",
+          "source": "NVIDIA Newsroom",
+          "pubDate": "Mon, 19 Oct 2026 18:03:51 GMT"
+        },
+        {
+          "title": "IQM and Telefónica Plan Quantum Computer for Madrid University - The Quantum Insider",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRGpXdk5BUVQzandiNEJTUk9XcjFVSU1hU1NWcTVBYVNnc041eVlhSTVxWDlnX3pUNjBnc19VbzBjbTJEWmNaVDktaG1nVS1CNE5CbmpBWUtKbGtOZ3pza3FaUWtGWmJpSzFGTEVJOGl6Ymc0YkUySEFLS1FITXF5Wmlyd0hZNU1MZDloU2hwZw?oc=5",
+          "source": "The Quantum Insider",
+          "pubDate": "Fri, 23 Oct 2026 10:43:48 GMT"
+        },
+        {
+          "title": "A blueprint for future quantum computer software - Tech Xplore",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxQjlsM2JnaUdaRnhMcy02Yi1uSlJDcU1CWHdfZnViOGNpS2taaFFwcWxrRENYeHNTWHI2UUxSMklhT05VLUR2dlFzeFFaTzE5YV9waVd2emdIV1FVbVJXeDBXR2d0RWFXNkVfZURUeFlvdks4OUlPUkNyUm90Z0k?oc=5",
+          "source": "Tech Xplore",
+          "pubDate": "Thu, 22 Oct 2026 16:20:21 GMT"
+        },
+        {
+          "title": "University Of California's Martinis To Discuss Qubit Scaling - Quantum Zeitgeist",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcEZvY2p0ZzBpck5mSkJ1UnQ1a0JvQzc0cTFxLWFHRW41UkNQLTNWYmV4S08weDVhNUVQNEhDeW1jLS1qSDlrZFZJdWpiVGx2QjFQSkowNDk5M3g3SktNV1MwR1hCTGphR1JuZFVteEFKdmgyUHVPU09sZW9SV0s4dA?oc=5",
+          "source": "Quantum Zeitgeist",
+          "pubDate": "Sun, 25 Oct 2026 10:54:37 GMT"
         },
         {
           "title": "Spin-off developing “conductors” for quantum computers - Technology Org",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYVdrVWtrQWNDTGx2TEdSOW1aU20tRHV3V0dnXzFjWHl1cUtyRl9EakxpZDJWTGRrNmhJN0diWlRzdUZaQ1l4NTR0RHNtX1pMSXQwdkhTV2ptQ1I4YmRDWG5MeFpWUjUwWTBCa3VoN3RwbjlPY2tBbmNYT042QjJFYnpyNTg3M29lUVZGbXdRaWwwLTlicnc?oc=5",
           "source": "Technology Org",
           "pubDate": "Sat, 24 Oct 2026 06:30:00 GMT"
-        },
-        {
-          "title": "Who Are The Godfathers Of Quantum Computing? - Quantum Zeitgeist",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5kOWdaX1ZfSW5Ea2NabzFDeUg1M2dfUXdGYWxxaDZ2NlJEV3dhX2E3djZ2bGk4czhUTlZDVVVOdGxkTGRieGNNcW03dnBNcGF4ZWlLTkJkYTgwYWZKbjZOYUh4T1ByYlNJaE5KYTZR?oc=5",
-          "source": "Quantum Zeitgeist",
-          "pubDate": "Sat, 24 Oct 2026 18:56:15 GMT"
-        },
-        {
-          "title": "Google Launches $150,000 AI Competition to Reduce Quantum Computing Demands - The Quantum Insider",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT2E4YWVESEs0TTNhejBDaUh0eXpyeVZNc1BBclU4REtlR0w3a01PLUpXOFJKWGpiVW0tV2ZTdGtmY2RuWHFzVnFaSHo0UDhfb2xadUg3ZlRjOVpsM1FQOS02QWhoeGNBN2w4bTZuZ1AwRTNmd2VJSnY5SU1RYjhzX1FlU0k2b1ozYnhXYmRlZDZBY2E1RFZsTWlrdVAyWXdsWEpNc3RGaTZKYjVCUFZySENHMERxQQ?oc=5",
-          "source": "The Quantum Insider",
-          "pubDate": "Fri, 23 Oct 2026 08:12:29 GMT"
-        },
-        {
-          "title": "Quantum dictionary, part 1: Decoding the fundamentals - Bank of America Institute",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUHJsdTRRNUVqQldMblVDREtNQTFobnQxZHNiOHp5OTNnbjlYbDVKSF9MVWYwMUJDRHBVUHF5MFlqaEktUTN1NTAxT3ZuMEU4bXN0Q2YtYjloS010ZzdSVnAyVHpGV2x0UFlMc2x6NkNDeV9JN182OWpWMFRSRWNCM2JhR0N0cVVX?oc=5",
-          "source": "Bank of America Institute",
-          "pubDate": "Wed, 21 Oct 2026 13:20:06 GMT"
         }
       ],
       "error": null
@@ -255,10 +255,22 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "items": [
         {
-          "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
-          "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+          "title": "Tool book of a Nuremberg knight from 1505",
+          "link": "https://loeffelholz-codex.org/en/",
           "source": "Hacker News",
-          "pubDate": "Sat, 24 Oct 2026 23:11:54 +0000"
+          "pubDate": "Sun, 25 Oct 2026 12:37:54 +0000"
+        },
+        {
+          "title": "Show HN: Farol – a risk map of a pull request for the person who approves it",
+          "link": "https://github.com/winnin/farol",
+          "source": "Hacker News",
+          "pubDate": "Sun, 25 Oct 2026 13:28:06 +0000"
+        },
+        {
+          "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+          "link": "https://github.com/ihhub/fheroes2",
+          "source": "Hacker News",
+          "pubDate": "Sun, 25 Oct 2026 11:09:12 +0000"
         },
         {
           "title": "We should be more ambitious with the software we build",
@@ -267,10 +279,22 @@
           "pubDate": "Sat, 24 Oct 2026 21:47:31 +0000"
         },
         {
-          "title": "Show HN: Steal My Bitcoin",
-          "link": "https://stealmybitcoin.com/",
+          "title": "Cerebras Deploys Trillion-Parameter AI Models",
+          "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
           "source": "Hacker News",
-          "pubDate": "Sat, 24 Oct 2026 20:30:31 +0000"
+          "pubDate": "Sun, 25 Oct 2026 01:33:49 +0000"
+        },
+        {
+          "title": "R/open source bans all solo projects and projects using LLMs",
+          "link": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
+          "source": "Hacker News",
+          "pubDate": "Sun, 25 Oct 2026 14:05:03 +0000"
+        },
+        {
+          "title": "How Japanese Dried Bonito Is Made",
+          "link": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
+          "source": "Hacker News",
+          "pubDate": "Thu, 22 Oct 2026 11:31:03 +0000"
         },
         {
           "title": "The Goose Programming Language",
@@ -279,52 +303,28 @@
           "pubDate": "Sat, 24 Oct 2026 19:06:55 +0000"
         },
         {
-          "title": "Roku developer repositories moved from GitHub to GitLab",
-          "link": "https://blog.roku.com/developer/gitlab-move",
+          "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
+          "link": "https://twitter.com/mike64_t/status/2114150399406202896",
           "source": "Hacker News",
-          "pubDate": "Sat, 24 Oct 2026 16:06:26 +0000"
+          "pubDate": "Sun, 25 Oct 2026 10:42:01 +0000"
         },
         {
-          "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
-          "link": "https://missileer.watch",
+          "title": "Reverse engineer of PC-98 Touhou games retires",
+          "link": "https://rec98.nmlgc.net/blog/2026-10-05",
           "source": "Hacker News",
-          "pubDate": "Sat, 24 Oct 2026 19:43:27 +0000"
+          "pubDate": "Thu, 22 Oct 2026 16:16:01 +0000"
         },
         {
-          "title": "Why Gopher in 2026?",
-          "link": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
+          "title": "The Lego group reveals collaboration with Daft Punk",
+          "link": "https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk",
           "source": "Hacker News",
-          "pubDate": "Sat, 24 Oct 2026 23:33:19 +0000"
+          "pubDate": "Sun, 25 Oct 2026 12:48:11 +0000"
         },
         {
-          "title": "Small Programs and Languages",
-          "link": "https://ratfactor.com/cards/pl-small",
+          "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+          "link": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
           "source": "Hacker News",
-          "pubDate": "Sat, 24 Oct 2026 21:44:23 +0000"
-        },
-        {
-          "title": "SpeedCrunch 1.1",
-          "link": "https://www.speedcrunch.org/",
-          "source": "Hacker News",
-          "pubDate": "Sat, 24 Oct 2026 19:19:43 +0000"
-        },
-        {
-          "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
-          "link": "https://de.numista.com/9866",
-          "source": "Hacker News",
-          "pubDate": "Sat, 24 Oct 2026 16:41:55 +0000"
-        },
-        {
-          "title": "Full Disk Encryption on Fedora with TPM2",
-          "link": "https://www.apalrd.net/posts/2026/ent_luks/",
-          "source": "Hacker News",
-          "pubDate": "Thu, 22 Oct 2026 12:46:40 +0000"
-        },
-        {
-          "title": "FreeDNS",
-          "link": "https://freedns.afraid.org/",
-          "source": "Hacker News",
-          "pubDate": "Sat, 24 Oct 2026 15:20:01 +0000"
+          "pubDate": "Sun, 25 Oct 2026 09:51:17 +0000"
         }
       ],
       "error": null
@@ -337,10 +337,22 @@
       "feedUrl": null,
       "items": [
         {
+          "title": "Europe's heat claims 50,000 lives. Climate change blamed for two-thirds of deaths - NPR",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KdE1PRXlBazNqSDdfTUFVck1Qblg5cVo3M2IyckIwY3d0RWJyd19uRDFGbUE1dkgxVUU3a2cyelhqQ3BKbFZVNmNBb0NnMDdVVU5lVzh5cDlaZnFCQmlEVkQ3WUh1c19VZFNGSmF3?oc=5",
+          "source": "NPR",
+          "pubDate": "Fri, 23 Oct 2026 08:17:06 GMT"
+        },
+        {
           "title": "In Pictures: ‘Armageddon’ at Europe’s Swim Spots Linked to Climate Change and Factory Farm Pollution - DeSmog",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRXpac01QZnBCTllzM25EZk5ZYXp5NkpYdGdVTVN0a3VOcTJ5d2E1RjNJdzE1TE15b0s2c055blJvYUFoM2p2aXFBR041NjhsTXZkUzhvQWxuWkZGRHRJUzlGOHdYcmgxSFZpOHpnU1Vad3VFVkt5V0xTLU5jQTdrQlBnQkg5czBQQUpVRlVQbnRMZzl2eFN5SmxBTGE1TDZFM1JKVG9XRmpwTWo2Wk4wNkQ2aHk5X2xtZEJtWWVuVVg1Nk90d2RheWh6NA?oc=5",
           "source": "DeSmog",
           "pubDate": "Thu, 22 Oct 2026 06:04:41 GMT"
+        },
+        {
+          "title": "In first-ever climate crisis amends, Nepal to get $21.6 million - The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZlplMl9tVXBjWk5HaFhTM0FqNldvSW5sYzFCcnM5Nl9rZWlWdjAxMC1zdFBULVNGRlhXVXpLNzBCMnpjTU5ERUdMVERaa0FOZkVKMHJQTW1OeHBZZU00UTV3b1NhTE04aHJWUFdUUXRsdnpFcFFtcUM3NmpneGxsSDdWblRPYTQ5TElmOFdhQzdzTklXbHpQNnJkdnZMUXZqaWtaaVd2Z0VxZjBFYkxmTTRRT3lWU21IOUcySjdpbFFWTVhPQWE5RDB4TjlMSmJyTVFfMW13Y9IB3AFBVV95cUxOYjdiaVkybWFIbWNwUC1QT1FSd0l5OUVFSFQ3dWhwN3FLOUNrLWEydXJSN1gzMjh0SlppTlFIT2ZLR1ZEYWpSb0xWWGlQUlhKb0diRW16bWpicDMzc0JDeHdvYTU0VndCdi1sSDA5MF9SVTZ0U1hFX3Z4MXo3NkxwS2JqNTZha2pIdjdzdVNINXpwYTYxYy11QlhJMTN1b2hHVjdJMGNRLUtHS2hLTG5odzdhbWVlR1E1SkRIZlNGdVY0RUFuRm82enVuT0M1ZlVRSnRYWkNpcDN2NmV4?oc=5",
+          "source": "The Times of India",
+          "pubDate": "Sun, 25 Oct 2026 01:15:00 GMT"
         },
         {
           "title": "Vermont once was deemed a climate-change refuge. No longer, researchers say. - The Boston Globe",
@@ -349,28 +361,10 @@
           "pubDate": "Fri, 23 Oct 2026 14:15:00 GMT"
         },
         {
-          "title": "Europe's heat claims 50,000 lives. Climate change blamed for two-thirds of deaths - NPR",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KdE1PRXlBazNqSDdfTUFVck1Qblg5cVo3M2IyckIwY3d0RWJyd19uRDFGbUE1dkgxVUU3a2cyelhqQ3BKbFZVNmNBb0NnMDdVVU5lVzh5cDlaZnFCQmlEVkQ3WUh1c19VZFNGSmF3?oc=5",
-          "source": "NPR",
-          "pubDate": "Fri, 23 Oct 2026 08:17:06 GMT"
-        },
-        {
           "title": "The planet’s vital signs are getting worse. One of the easiest fixes is your diet. - Grist",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMFNWeWpBbHd3Q0FhcG5UdWtsdEZlb0dIWmdTSHRPQ2lfR0RRRkdUSUNvVnVKZldVOUV1SkZWcUkwY0d5NzU1MWowRmo4Wk9vVHkzeEdIanNaSFlobXpLeWZybHlra3FUZThvTmRVZGUyVUtTNUFzZG1DQXphaGhhTXBFenhERXA4YzhzMFdzVG40a19tdVg1dkxtbGZBVmE3UmZFYXVoVWFheTF2VEFDWDZCSEJXZmstcFhF?oc=5",
           "source": "Grist",
           "pubDate": "Fri, 23 Oct 2026 18:54:12 GMT"
-        },
-        {
-          "title": "Hail causes billions in damage — and climate change is making it worse - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSE9jZU5ndUkzekdma29Wa1lQZmJkNVpGNkJDQl82aHlaWEh5N0M5RUpGc1lucm9PMjk3NzQyZFBvTFllbzY1N3pzbjU1T2lHVXBYLWdBT0lYM2JYOUVXQUMwSkc4cDZfMWJLSEJRX0tfZGhrS09ScG1uY1ptVnlYbVROekVZZ0dTcTVSUzNPNjd0cVVkNFpVNW1iMF9qUHJ5cy1uaGZkVVk3SjNLcXRDdQ?oc=5",
-          "source": "The Washington Post",
-          "pubDate": "Thu, 22 Oct 2026 17:00:00 GMT"
-        },
-        {
-          "title": "Britain to use military aircraft to fight climate change-fuelled wildfires - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMGdlaFBvUFQzNC1oT0FMN2xKWGlrV3JVbGxHRFpBRUh5TmJyb3BDQXVDckFBQXdzTEJmbUxkc3R3Ymp6UE9PLWsxQ0h1VzZvTmt1dmxvcXFDZ1hIczJlaWZTczFyMlFYYVpxVDlubTBpR3ZaUlBHR1VjbDBNbm9HS3dpc3FSclc5UjRmUVFLcmlVVHI1Wk9mZFpuVDhwUEZJd0Y1OGpNRlVGcjdJWlpFYngzUQ?oc=5",
-          "source": "Reuters",
-          "pubDate": "Thu, 22 Oct 2026 22:05:19 GMT"
         },
         {
           "title": "California Releases Fifth Climate Change Assessment, Including New Research on the Sierra Nevada - YubaNet",
@@ -379,16 +373,22 @@
           "pubDate": "Fri, 23 Oct 2026 08:17:20 GMT"
         },
         {
-          "title": "Climate change is literally altering the shape of our planet - Live Science",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOWVQNlE4RnE4eVYwalEtMWRobHBZRGJtLWp2UFdxQXJRbF8xeklBU0N2czY2akVEZjBZUExkOWRLQkIxX0cxZVFHRHlva3BVUV9HU1lwNFUzem5SWmlRX183NUdUeUJWdnp5S2dRZVVjbmhKdXVkZlJ3WFBFS2RYOC1kemJSTUdqUUVXd2xEdFFpbDFNNmY3N1F2OTM4bTZnMHRR?oc=5",
-          "source": "Live Science",
-          "pubDate": "Thu, 22 Oct 2026 10:00:00 GMT"
+          "title": "Climate Change Stopped the Next Ice Age - Lamont-Doherty Earth Observatory",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTNTU5d1NmSFdxUlhoeDA5VFFaZTdYMlVhb1BrNnYwT0xQaDZrU2dDT3ZpQktvVXNCUEtITnQzQ1lvbHRRTDRYeno0c1JXOWtNRkxYUlZfQlNPUEs2QnpXQkhhZGpLSjI0cENtbURZSXhZY2NhY19F?oc=5",
+          "source": "\"climate change\" - Google News",
+          "pubDate": "Thu, 22 Oct 2026 19:04:09 GMT"
         },
         {
-          "title": "Our Best Bet To Confront Climate Change in the Trump Era? Build More Apartments - Streetsblog USA",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV2pYZkxXRTF3XzFQaG01ZTh3ZndMRVRXM1RtREJJWHNIYUVkOXlQWmJwNVFKVWtWTUFfMUhRWTM1S3JzclFuZmljcUd1NlNWaEs3TXhPV3QtYUFwWmZVakdUcDRIV2ZEeUxLaEdKTG00Wks5cC11RVdWLWZPU0VtblpFYzhCd2hYVlducjQyOG5KTUxiaUN2Z0IwMTBzRVF6VllvZE1BUVloaU43SkFyRkJuNmRSZVZu?oc=5",
-          "source": "Streetsblog USA",
-          "pubDate": "Thu, 22 Oct 2026 04:02:00 GMT"
+          "title": "World Kangaroo Day: How climate change impacts Australia’s macropods - news - Mongabay",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUnZUWXVoSFNnRDJZbGloTlpQZWpBTGppWDN1UEdmX05xbUp3SUZOLUw2dlU2bVBYTkpNWDZrMkNZZDFFOTJ1U0JwaUZFdHVrRlBTZTZBb3hvbVBxVjVkTEVPZkJmWTlmZ2xsSzZrbTFwVEZ6Y19IX0dOWkY2UmgxQUJ4R3dSMDR0aFp1enA3YlRFOWZqQ0wxTmpnRVcySG02cEpN0gGoAUFVX3lxTE16N3ZaZjJLSFdQcVY0Y1FZREZ4OWFkc1dpRkpDZVdzOUpuUFlYRzJDbkJrajAxeV94ZVB6MXY0MDNsYmlEeGJjLUlaa0VXdWlTaTY5TWVLMnBmNlBxc1hoMkZUbUZjRkstVlRqTW1BcHhWUUlnaXIzbEZERTZLczU1bnJrUG0xalZqZTNYaUhSUEk1NHJKeXk0c2Y0UVlqN2U2TGJCNnBRVg?oc=5",
+          "source": "Mongabay",
+          "pubDate": "Sat, 24 Oct 2026 01:10:20 GMT"
+        },
+        {
+          "title": "Britain to use military aircraft to fight climate change-fuelled wildfires - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMGdlaFBvUFQzNC1oT0FMN2xKWGlrV3JVbGxHRFpBRUh5TmJyb3BDQXVDckFBQXdzTEJmbUxkc3R3Ymp6UE9PLWsxQ0h1VzZvTmt1dmxvcXFDZ1hIczJlaWZTczFyMlFYYVpxVDlubTBpR3ZaUlBHR1VjbDBNbm9HS3dpc3FSclc5UjRmUVFLcmlVVHI1Wk9mZFpuVDhwUEZJd0Y1OGpNRlVGcjdJWlpFYngzUQ?oc=5",
+          "source": "Reuters",
+          "pubDate": "Thu, 22 Oct 2026 22:05:19 GMT"
         },
         {
           "title": "U.S. is a big reason the world is losing ground in the fight against climate change, U.N. report says - NBC News",
@@ -403,10 +403,10 @@
           "pubDate": "Wed, 21 Oct 2026 06:26:57 GMT"
         },
         {
-          "title": "Climate Change Stopped the Next Ice Age - Lamont-Doherty Earth Observatory",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTNTU5d1NmSFdxUlhoeDA5VFFaZTdYMlVhb1BrNnYwT0xQaDZrU2dDT3ZpQktvVXNCUEtITnQzQ1lvbHRRTDRYeno0c1JXOWtNRkxYUlZfQlNPUEs2QnpXQkhhZGpLSjI0cENtbURZSXhZY2NhY19F?oc=5",
-          "source": "\"climate change\" - Google News",
-          "pubDate": "Thu, 22 Oct 2026 19:04:09 GMT"
+          "title": "Question of whether taxpayers or fossil fuel companies pay for climate change damage heads to Supreme Court - Yellow Scene Magazine",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNjJhX3J5dWw5THFtTHB0QU15MnhVZ0hxbTdXcm5JRDE1RUVVLVhDckhwN2M3YUJzRTJnTUVBcVJoMjgyUlpKR3ZnYzZQSFJPUThHcFJGVWFIdFA4WW4zTUhrMF92SE1ETGU4TU5lM1V6MHhTSXdtOXJiQ1hUbE8yN25QUmJ3MDdDVHdzdEp0UVJuNXlOM1pwd3I1RFBxbjNZT2xWaUNjYkplQnlmX0V6eTY2eXNsdDhRQlFQdWEwZVZRbUxHaEYyMjFCWU5HcUg4bFZqOThwUXdheXM?oc=5",
+          "source": "Yellow Scene Magazine",
+          "pubDate": "Sun, 25 Oct 2026 05:16:28 GMT"
         }
       ],
       "error": null
@@ -419,28 +419,22 @@
       "feedUrl": null,
       "items": [
         {
-          "title": "Emergency Preparedness and Response Data and Tools - Centers for Disease Control and Prevention | CDC (.gov)",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTEFXT2xNM0diZU1ST21VdDZnQzRBUlRYeEJWelpjc25TZ2NVcEVCamxSMWpuVjdobU56VWR0Zk0ydWg1RzZCVHZYaFNOSkZWbUJEbUt5NTRDUFRLUGo2UlEwMjk4R0Z3Q0E0V1luVDhHTVViNXNWd0l4NDdwRGQ4Nzcxd0x0UWUyR3djNk5XVkl2d1FMbVpvNHlGc0xXVEo2b0NXMDlzNkFRN0s2SkhNZlI3RVFaNlo0cURRZ1lTaUxIVlZOS1hIQU9IeHBPWUE?oc=5",
-          "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-          "pubDate": "Tue, 20 Oct 2026 23:57:24 GMT"
-        },
-        {
-          "title": "DIY builder spends a year raising a 16x20 off-grid cabin on 100 wooded acres - Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOVZzSjhRQXdaZ29VUGVXMHFyN3hmXzRRU1FRSS1ycFBYMFhEcXByQ291d0kxcGI5SWtWdzB5TTduUmhENm9pNUpvb2ZzUmdUNkZmNTBBdTRmQU1NeHJFdHNIT1kwU1hycDF3d2FRNUNWZUNnNFFLT2lCNVRkODZteU9Hakx3U3NZLVUtSUF2QVNJQQ?oc=5",
-          "source": "Yahoo",
-          "pubDate": "Sat, 24 Oct 2026 18:27:00 GMT"
-        },
-        {
           "title": "The 2-minute test that can deliver true LTC emergency preparedness - McKnight's Long-Term Care News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZFBQeG51SHRSa1h5bUs3dllGWG04amVxSVUwUXBNamwwZlo3TTNVTkpvTlA1dTV4YllvaDU0bFZOTW9XakV4amdVSlR5WDNVV0tMVnhRWjdMaGtGSUk1S3E0cnc3WGExMUtjUDY1R3JUUHlhUlZrTThOQlJoaDMtb1hVSUh6YWFicW5Yc3dfY1pscURkWVVqX1o3YXdtdDQ?oc=5",
           "source": "\"\"disaster preparedness\" OR \"emergency preparedness\" OR \"off-grid\" OR \"alternative energy\" OR preppers\" - Google News",
           "pubDate": "Fri, 23 Oct 2026 02:57:06 GMT"
         },
         {
-          "title": "3 years off-grid in Spain taught one family what the dream skips: water, firewood, and toilets - The Cool Down",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdGMyeXVLVHItcVZ1aFkyNjZreWdmeXdpRms3X2ZRTlJQM1hRSkE0UzdlVGh2aS1feEgxMUJsNlNTX0dsWFAwaW9taTlTd2psZUpOdHNMczhoeTFxQlBBRWlXNXltU1pQdEpSZEVQNlIwT2kySUpvNmhnU3p4aDV4aFcwdlRPdw?oc=5",
+          "title": "Confessions of a middle-class prepper - Financial Times",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94aldBaDVySkVma1dYRzVRblk3dHF2RF9nSUk2eTh5dG84UXNfS3RLZC1tLXQwdnVCZzZFMXlRYkFPRzhUOENrZ3lXN3JsRmc3RGpheHhPaWl1NEVfV2dWOXYyTTZsakQtY3YweXB3OW4?oc=5",
+          "source": "Financial Times",
+          "pubDate": "Fri, 23 Oct 2026 11:00:12 GMT"
+        },
+        {
+          "title": "Off-grid creator wakes up freezing, finds everything soaked, and still gets a fire going - The Cool Down",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDdUFIWmVZUXFvd1J5TElwd3BENGtmNG9pYWVnb3ZDNDlpbzJHb3VFbE1uM0JPd0QwRW9wc0Z2YTBUY1JLRkhZdFY5QXN6azJ0cGt1WVVjTmdtWjNGbjV5RmYwd3VWLVNNMGY5SnVucnlEUHZwLTZF?oc=5",
           "source": "The Cool Down",
-          "pubDate": "Sat, 24 Oct 2026 19:09:00 GMT"
+          "pubDate": "Sun, 25 Oct 2026 13:49:00 GMT"
         },
         {
           "title": "Mamdani’s Top Lawyer to Probe Agency’s Off-Grid Chats - The City Reporter",
@@ -449,16 +443,10 @@
           "pubDate": "Fri, 23 Oct 2026 16:44:31 GMT"
         },
         {
-          "title": "Why Disaster Preparedness Is Everyone’s Job - Outside Magazine",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ2JndVJacEdYNnRWUG5TZGNDd2RVY3hoRHVVNWxCTFlTNFAwR0wxOEd1aVdZUXR1S0J1Vmx4NjFPSGRyZ0FuYVlEV0lCV1FJM3hieUlZLXAwOE92Tkx5TW5Xb0ZjWWF0QnZTU29ERXZuZEFuR2JuTWVWTk92RE5RdHZRT0Z3cnFn?oc=5",
-          "source": "Outside Magazine",
-          "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT"
-        },
-        {
-          "title": "Matilda Is an Aussie-Built Sprinter That Makes Long Off-Grid Trips Feel Like a Luxury Stay - autoevolution",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYTRwbGk2anhudDRzVVZiVlBLUExkU3RRV2pFMGl0MXd4aTJJcUdzbTZuLXMwdWpJVE8xcGxoM1p5Sl93VjlwMkRteVVKV0pqbWRPRTllcWlRM2Z4bnVQUUY1LUh6WnVpd2ZUZ2FrNk1JQXBkYXprRllfZGI5Wnh0eFYxNXVaY01vaUJFVUVqUXdyUER6M0EtVm43Y1h5NHRjVmt5N29uUkN4RFM4a2JEc05RQkxBY2p3d1pjMTYyUU9kM0c3STUwenBHdXViWXhXZEo4?oc=5",
-          "source": "autoevolution",
-          "pubDate": "Sat, 24 Oct 2026 13:20:01 GMT"
+          "title": "DIY builder spends a year raising a 16x20 off-grid cabin on 100 wooded acres - Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOVZzSjhRQXdaZ29VUGVXMHFyN3hmXzRRU1FRSS1ycFBYMFhEcXByQ291d0kxcGI5SWtWdzB5TTduUmhENm9pNUpvb2ZzUmdUNkZmNTBBdTRmQU1NeHJFdHNIT1kwU1hycDF3d2FRNUNWZUNnNFFLT2lCNVRkODZteU9Hakx3U3NZLVUtSUF2QVNJQQ?oc=5",
+          "source": "Yahoo",
+          "pubDate": "Sat, 24 Oct 2026 18:27:00 GMT"
         },
         {
           "title": "HOA Advocates Held Summit Opposing Amateur Radio Emergency Preparedness Act - Amateur Radio Daily",
@@ -467,16 +455,16 @@
           "pubDate": "Wed, 21 Oct 2026 22:06:34 GMT"
         },
         {
-          "title": "Boulder Overlanding: Why Off-Grid Adventure Is Taking Off - aboutboulder.com",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX244ZV90OWZhY3BfbFV4VnBOWHo4d3N2QWxTUlFUSy1pZkhpTndNT3hIRkpmSTFVNlREakhqRDM1aTZHcHhPN2MtNEQ0YVVWTTctUlVwMFR2bXl4SGNrdWloLUVJajRfRjdRdXNQWjJXYVZUSjhZdGZtTkpCSF9aRUJ6SUZPOUI4a2NQNXFJN1E?oc=5",
-          "source": "aboutboulder.com",
-          "pubDate": "Sat, 24 Oct 2026 19:24:03 GMT"
-        },
-        {
           "title": "Geneva students take disaster preparedness home - UNDRR",
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5WZHNqaHdrZmVtYVRtc3Y2bzh0c3J1VDVHVG5Vc0NoQWY0c3JlSENzOFNFM2d3Qk93akpLUW5MTzQ1U0MweGRPag?oc=5",
           "source": "UNDRR",
           "pubDate": "Thu, 22 Oct 2026 08:41:06 GMT"
+        },
+        {
+          "title": "HHS Seeks Experts to Shape Federal Disaster Preparedness - MyChesCo",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONUlKT0xpOENLZGkwZlNKakxuUGp3NlpJS3hnaGcwc1RHVWNUZlA1R2Z0SjRWbFNXWW1qeWJmdkVQOTJZZzh2UTVmbkk0S1NFaHFQMEdOZE1iN05vVkxCcjlSOFhya0NPTGNPcDJuYThxQnJOUHdEMENqUHcxajdsRmRfTGl2c0RnNk5WYUt0RjlUSlVmeElpeFU3U28zNEU?oc=5",
+          "source": "MyChesCo",
+          "pubDate": "Sat, 24 Oct 2026 21:46:22 GMT"
         },
         {
           "title": "Venture Global plans off-grid AI network in south Louisiana - The Center Square",
@@ -485,10 +473,22 @@
           "pubDate": "Tue, 20 Oct 2026 23:00:00 GMT"
         },
         {
-          "title": "Krolmap plans a 225MW off-grid data center in Zaragoza, Spain - Data Center Dynamics",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSDRMT2pCSFFxRThZdzZCLWNRUGw5bmNNOFVxeDJNS0dHZ0R6akxHOUZQczE4bm9ZSmZ6YkRoSVQ5VjdCbC1DU1Zxd09ORWRKaV8tbFZGZW80YXY1Mmc0NnVidS1VREpLWjV1bXVyMFZRakdxNTFGZ2o4SGh0QVZDZGlLdHc2UHZMTlJxQmFDM29MM0xDaVJsNzVTaDkxbGp6RC1yN2tzVQ?oc=5",
-          "source": "Data Center Dynamics",
-          "pubDate": "Fri, 23 Oct 2026 13:47:30 GMT"
+          "title": "CAS Hosts Mountaineering Safety Day to Empower Youth and Enhance Community Emergency Preparedness - 巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPLXIyODZDMHM5akM3RzNjTzhOZWE0R3BzcV9CYWJhNC1ma1E0VWZRSVRDUXFWemJsdmhCejRQUHYwN0JSVWlaS0lRNEFDOUNERE90dW9TX203X2lfYks0RWZ3aHF5d0JKbmRJOVE0T2d3QVBpR0ZZV1FQakhkMGxibjdBU3F6Q1NnaWxlSFVyRnBCUGlLM1ppSS1DMWswTnlMWTRtMWdUMG96T2JxTmpLU2pQSkFHeGhPYURwYWFuLXlRcExJWU5LYi14UXVYRWh4MF9lRHI2cXVmOW93al9qTkNFTQ?oc=5",
+          "source": "巴士的報",
+          "pubDate": "Sun, 25 Oct 2026 10:03:21 GMT"
+        },
+        {
+          "title": "Meet The Women Redefining Prepping As Practical Self-Care, Not Doomsday Panic - Women's Health",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEa0czRHpfemhOR3l1SjZ1MFlZZkpXNTRiai1HakZudGd2aUFvLW9PQ055NldlWHJDUmE5WXVtTkU5LW03dU4zY21RU04yTmRTMDV0dGtFeDUtUndLNXZVUjFkQzRDMlpwZXFPT0picw?oc=5",
+          "source": "Women's Health",
+          "pubDate": "Thu, 22 Oct 2026 11:00:00 GMT"
+        },
+        {
+          "title": "Emergency preparedness program Monday at Little Valley Fire Department - Olean Times Herald",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbklVQkNBSGZqUk5qNEctSzctVUxPVEVVcGt6R0ZuZThJTFE3SnF5SjEydFdLalVSZDVUYXk3R05NMjZoWmVOaGJXMXdOcXJEa0NOTXR0RnNXdUtwSWhQMy1IZks4bkVtZ200RDJTRUpuMk55dGRCZVpVTVd1RWlMZ2J3VXkzaXJWV0tuQmxxMlRaWWo1Snk1OUR4ZzZpS2RUODBEQVpudlZOLWFwZU1zNTRR?oc=5",
+          "source": "Olean Times Herald",
+          "pubDate": "Wed, 21 Oct 2026 23:53:13 GMT"
         }
       ],
       "error": null
@@ -501,28 +501,22 @@
       "feedUrl": null,
       "items": [
         {
-          "title": "U.S. and Israel Draw Up Plans for Renewed Strikes on Iran After Elections - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaFNybFlkMEkyWkpGZUhTNHUyd2V2Y0JGQkNUNzdJVFhaNlpMWU1FQXh6NG9PWWU0ZlBSdDBCUXUwcEc0c1lJaXRFMzdNajVFdjN5Mm43Y2dBdmNST2lYY1JsWjA5dlVzZkZFcGVaY1RlUEMwS3pOblF0RlVzRGtlYm40TWh2NEp3UGc?oc=5",
+          "title": "A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOenJjWWFLN0xjSXdjOHdmUFJ5ekx1M0FLLWR0dGxDc1p6X2xJbDAzM2Zia0lIZFhwdTBJOExfNnVseXd4M1RzUjRDV2MySDBTTTFuQTFKYmVrd2JEWTdOUG9BM3kzU24waU9zQlJMV0d3cFR1VXJrdVZzd1FITEV4Y3lMbHVOM1hZWlFnQlZKd3FvVDA?oc=5",
           "source": "The New York Times",
-          "pubDate": "Wed, 21 Oct 2026 22:41:33 GMT"
+          "pubDate": "Sun, 25 Oct 2026 00:55:30 GMT"
         },
         {
-          "title": "The real reasons US politicians are getting older - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13NUwzQ2QtZVF1Y05LRkZTeHlRNHo0UFBlMlFGUmlfVlc4TVl2cGgwWVdJZFBKMkJBcFJ3dVpoV3h0UmVFU3dOckpzX04tS25NbVdZMEpuSlF3alk?oc=5",
-          "source": "BBC",
-          "pubDate": "Wed, 21 Oct 2026 23:52:12 GMT"
-        },
-        {
-          "title": "Obama rallies rapturous Michigan crowd for El-Sayed: ‘He’ll finish the job we started’ - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR2VzR2N2NDVYNjN2MnAyektjUTd1WDR0TjNLN2F5TU1zM2RJU1pIcGFldnhuTzkzRGQybnVISmotX0ZwRlgtTUdpWHlsUmw4RXNDNDYyRC15b3UydFgyWDFCdk9EZ0lvN2hvVDhzNnpqRTRCYXRKMTZQTTdScnBTYk82YWJJeDdMTWRIXw?oc=5",
+          "title": "‘Change is in the air’: Obama praises El-Sayed and attacks Trump at Michigan rally – as it happened - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMDQyQmJLQlNpcEhrVE4teUxyaVByQ18xV1YyZVRIdWt4VEN3dHFRaWQ0MlBfMEJ6Y0pBYm5meHFmeWVfaWVxc0xNUFVYb3FNdkhJajFsYmpEY3JXV1VGZEJScUd4UWNXU1dOTkNfMkl2Z3ViS1kyLXlNdUJ3UkNScUIxYjMzWUwwVEU0XzE1cHdSemxYZVVHTFUwR2p1WHFOX2FjWE82MUNzbUdhdTlr?oc=5",
           "source": "The Guardian",
-          "pubDate": "Sat, 24 Oct 2026 23:50:00 GMT"
+          "pubDate": "Sat, 24 Oct 2026 23:53:19 GMT"
         },
         {
-          "title": "Trump DOJ sues to block Alaska US Senate results if Republican incumbent loses - CNN",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT3RYQXpIeW9kcDJqcDRIX3JyN3prdDZhVW12R2tNcHdZLTlEU2lpS1VRUTE4QXZjRWdieS1Hc2RRZkxnbVVLMnBkMzdTeF9LVUdLd09FRWdWTzgwSllpSXlTUGllaDlUTmFNbm1aRzZrUkpqVkZWSzZQU1F4aGhVTW50ZFNxYVZuYkE?oc=5",
+          "title": "Economic woes transform the Midwest into a massive midterms battleground - CNN",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQUs4c1NWTFMwSHJQX2tDM3pCdTV5Y3hjQmpRRkpzOHh3cWEteUlZd2ZUemNjMWF2WEl5OGdObFpOZUF3QjdyR0l0UVBUOGZIR0ZXdDhQQWZpcmozOVUyS0RRc281Ym90aUhFQ1ViaXUzaHh4RVQ4bW9FSVMtNkx5U1NBMEhhU2Q3ck44Vg?oc=5",
           "source": "CNN",
-          "pubDate": "Fri, 23 Oct 2026 15:02:58 GMT"
+          "pubDate": "Sun, 25 Oct 2026 04:00:15 GMT"
         },
         {
           "title": "Vivek Ramaswamy’s Trump Act Could Be His Undoing - Politico",
@@ -531,10 +525,10 @@
           "pubDate": "Fri, 23 Oct 2026 09:00:00 GMT"
         },
         {
-          "title": "Who is Jon Ossoff, the Democrat on everyone’s lips for 2028? - The Times",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTFE2N3hmSTRsd29ha3V3amFFZGhfWGFTUkFXWUNuNHJBRjl6TUh0aEo4SXdYalJ5QU05X0lEcHBDN0cxd0Vqc2dXcjFadkkwcmNwR1NObnk0T1hLNkI2RHI0b0VGNHlRcGl6UVdITWt3STdMSFgzOWlkeWdiZWFQZ0hUWjhXRWhqNGZ4aHJPSFRtRjctbWE3MURHRWJBMDJDQzlyZ2tEX012V0s1Y2FlUkNKLUk?oc=5",
-          "source": "The Times",
-          "pubDate": "Sat, 24 Oct 2026 16:35:00 GMT"
+          "title": "Why partisan politics may be changing people's accents - Scientific American",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcWJsYmZseDF4VkZvVFQ3blIteklkcVFTLW9vckZaX0Z6blZzSjU4aUJNNkQ5R2xkQ1Z5dllhWmIzYkhma3RZaktScXJSZGJfZjEwa09CZWROYzB1UHJ2X3JpcTRLNGsxX0pGczVHMk5GakZkMnc5S0thZlBVVkg5ejRVdEFWLU1Cc0I2TTl4Rm5tbkJ1WHlEdUpiNHRJQQ?oc=5",
+          "source": "Scientific American",
+          "pubDate": "Sun, 25 Oct 2026 10:00:00 GMT"
         },
         {
           "title": "Trump campaigns in Iowa in hopes of boosting GOP midterm turnout - AP News",
@@ -543,34 +537,40 @@
           "pubDate": "Fri, 23 Oct 2026 02:03:00 GMT"
         },
         {
-          "title": "As Trump fights over what America owes, slavery descendants organize for the future - WTOP News",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMzFJekJwY09jWUpXbDhUanRUV0UxTDV2N1lTXy1QcmxCTEFmZFFqTmVWa1kxMEtwNTl2ckdzUDlNSWd2b3JBS09aSG1WNjdZMTZaaFNRM0JnSmF6UjhhaXZCQm5PdFhjWklvWkxzQkQ4OG4xeHVHbWtjXzdEdVJiNmRiYV9LWTJ6VzhBWlVJelhySEhsZzBnRUp4M3FyMDRSZkMtV2xXamJKT2stMU80MUg0WGlNOF8taV9pMQ?oc=5",
-          "source": "WTOP News",
-          "pubDate": "Sat, 24 Oct 2026 11:48:34 GMT"
+          "title": "Democrats aim to flip key Senate, House seats in midterms blue wave - The Jerusalem Post",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BOE1YNHk5RC00RHAyU0VrMXJFZUJMczY4NmNkT0I1a0hBYjdlN2dKMTZkZ1c0Mm1xUm52YmZOVGNlM0JSQ0tSek1ISzQ3YzgyLXJzLUZaYV9TUzUzbUNBRDgtdWU?oc=5",
+          "source": "The Jerusalem Post",
+          "pubDate": "Sun, 25 Oct 2026 14:40:03 GMT"
         },
         {
-          "title": "Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail - The New York Times",
+          "title": "This is exactly what’s wrong with politics in America | PennLive Editorial - PennLive.com",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlF5NVI3QzY3eEtmTDk1dm9HUmdnVWNoclZ1V0xvUDlGRC00RE1mWVQyU3FNYTJ1TGlvVHR0T1NxekJvVlRqUVRDaVdDbXlMeWh3RGhNU0h3MkdKQ2hxU0NodXMtM2xVeEZSRGROQWxZMFg0S0NlOWFES0JWYi0wbDRDQ2NhTzAxZzZOd0pjNDZYeS1pNFl6d1AyLXYzTUIwd2RTUkNBSGJxR09HOU1GWVktWVJaQm9T?oc=5",
+          "source": "PennLive.com",
+          "pubDate": "Sun, 25 Oct 2026 12:00:00 GMT"
+        },
+        {
+          "title": "Obama Issues Searing Attacks on Trump and Ramaswamy in Return to Campaign Trail - The New York Times",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeUdkajdVaE81UXowdEROTVA0NFNwX0JJTUw1RHdaMmtHQURmRzZmNVN6dmplOGQtZ1BrQXNrb0JPZXdPZXQ3Qi1mNG9zb1RONC1DeDV0eXNzRmdDd2lpNkhjSHJLWDFrcFk5S0JLNHpKWVB5UnoyT2E3U2NPSHpKVXE5REdYdzlR?oc=5",
           "source": "The New York Times",
-          "pubDate": "Sat, 24 Oct 2026 09:02:32 GMT"
+          "pubDate": "Sun, 25 Oct 2026 14:42:19 GMT"
         },
         {
-          "title": "In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLWpKM24wMFppRmlxekFEd0lVTXFXMlp0N2xnN29USnpaeENOWklXX2pyTVY2bC1TRW00YjNSelZIT3Q0cGZxWHhpWEFONkhLaWgxUUsxUUlJdlpjazF0TVFNYVR4QjVWcW9oN3RFb01pSHBCRXpoTk5WMzd3WDR6R0dqOFdhaTZVUUxuQldXMllLeFF3bGxudHJTX0hEcEN5ZGRlZl9Ucm5ZNzB4WVRPb3lJc0VkUVRWYTNWdFpuVjd1Zw?oc=5",
+          "title": "He Took Big Risks to Make Billions. He Wants Georgia Voters to Bet on Him. - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS0g0bXZ6V2tzaFpRY0xpMmxVd0RLbUU4RWZVOHZud1N0OVpzX3VvRFJhVFFqQ2t0c0hmZ1gyTmU0NUozQXRxalpSTm5kMkFfdU1CXzkwaVhwVjRad2o1VXo2WVhZZFNGLTBrbVNaNjJJT3AwY1NDRlpnSmMxdkJldnZHUHN1NkdFRVoxWHdfLXdKdVBySnV6S1p2Q05FbGk0cUx2RGd5WXNQOWNjdE02NjNyZmtxd0Q5OE1LenhJelRNZw?oc=5",
           "source": "The New York Times",
-          "pubDate": "Sat, 24 Oct 2026 18:24:00 GMT"
+          "pubDate": "Sun, 25 Oct 2026 09:00:18 GMT"
         },
         {
-          "title": "Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYmtHSXQwRFhlWlZKbTU2TEhPODc5MERFTG9feGQwRUY1ZklES2JWS3UxTUxOelgxRExOSFdUWEJnVFFDX284OHNsZWxIUzBVRzdINlpRRVhIYlBTN3A4Q2JrYWFrZVZ0MEZGRXVXVXVKTW82dmgwRWROUHFXcVVPU0oxdkljc3lldHc?oc=5",
-          "source": "The New York Times",
-          "pubDate": "Sat, 24 Oct 2026 16:09:00 GMT"
+          "title": "The real reasons US politicians are getting older - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13NUwzQ2QtZVF1Y05LRkZTeHlRNHo0UFBlMlFGUmlfVlc4TVl2cGgwWVdJZFBKMkJBcFJ3dVpoV3h0UmVFU3dOckpzX04tS25NbVdZMEpuSlF3alk?oc=5",
+          "source": "BBC",
+          "pubDate": "Wed, 21 Oct 2026 23:52:12 GMT"
         },
         {
-          "title": "U.S. is reducing staffing at 4 Middle East embassies over increased threats from Iran - PBS",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV3l1bVFNb3RpVE5rOXRHdjgzNl9CcGtuZGNsRUpFa2JnMVd4UU9PaFI0MWRjYU8zT0FpWnZkNC1WVzFleGdkLWQ0OHRnX2pvOVhpcklWSGgxdVhmU05BUjRmSndFLXBMamhmMFBzM3ZGbnZsMmhPTmVCSXJYckFGeEpKN2w2aU9yUEN1a19sd3JibUoxajdxV1M1NjdiUW01Z3JrSnhPWXFOT1MyLVhzbEtQenZEZkdZaVJ2dnFhd9IBxAFBVV95cUxPY28tMWVESXd5dC1kQUwxQzNjVE5hbnR2aWdwWnQ3SnJfdEtkdTYyOUpqTk54bTJudGpDNjF0eTFpVTU3NGlFM2FUY09sbEUyUE1rUm5yQ0pPRWNNQkNSV0ljVUFUQWNCN1NSWWNqZC1xUzgxeGVRUnkxalpULWE2QzVGX1ZVWTJaY3k3ZTlvaFg2VkxWTjdqZTNjREZQQlN0dDM0U05NSFBSSXVHOG5maUZsSWF0QjhJdkNUVWtPbUR0Vnh3?oc=5",
+          "title": "DOJ has monitored elections for decades. Here's why some state officials are concerned this year - PBS",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbmRNdmtJb19aZ1JzZkRrcXBSR2lYUUZhV0RCTHNYTFU5MHBoTXQ0TC1Gc2ExcWJJOGEweTN5eEdOUTR6MHFHMy1EOS1sQUt2NnpaQmxORmlsWE1XZ0VWMFBqd2d5b1dZU19qSWlpZHc5YUpzOGlDYndsLXZTYmNVSVJmQmtOX1RMV1VaZU1SZ2VoNlZrWFVCY2E1M3dkWng4WkUyUFc5VlI5MjA0QU9CQ2ZYeUpuWU8wQVdhdW1uREFacm14Z2V1X0llVm_SAdIBQVVfeXFMT21aZ1lnR3VITjdZVDNIdlh5LTAtb2lfamV0UHlHVDJ0REc3N3hTY1JJcnZVQmt4aFVfdGRCZGxJSEhlRGhjWEZkNEdTWjU3cjRBSmxXRktzNFVjcS12cFB1ZWpkOURzc3F4Z25YT0QyZ0JCOUdhT2lGV1VwTlRZYkdJaXBQaUR6RDM5Q2hLM1ZDaTdqYkZ0OTZOMU92Y3lkVno2c0w3d2JwS1hfYXBQTFY0TkRUbXdpanhMTnVBUGgzdW1YM3AyX1paOFJBbW5wQWVn?oc=5",
           "source": "PBS",
-          "pubDate": "Sat, 24 Oct 2026 15:09:20 GMT"
+          "pubDate": "Fri, 23 Oct 2026 20:16:57 GMT"
         }
       ],
       "error": null
@@ -583,76 +583,76 @@
       "feedUrl": null,
       "items": [
         {
-          "title": "Iran war updates: Houthis attack Aden, missile debris falls on Mecca - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdEQ3dDlXS3dlUDRVbThyWHBYODlFYVI0TzZwVmlVT1NGNTUxd2hpUlFtcndING95SUFTNGVZZzhoYUNvR0ZXRVF3dkdEMWEzYnAzdDZGQVA2bld1ODZ1WGxoS0dCQ1BwVjZJS2NtVmRWZ1drb3AzUlVYVnRNYno3WEhfWXpXV2xKWWhwV0MzRktUYVQwVHBHTzRkVTR2X2pXWE80Qkl6eDJsNHgxQVo2bF9XSTBMd2lVQUtz0gHAAUFVX3lxTE9vSTZXbnZFVVAwem5GaFpCNng3VVVYU19jOXFqN1ZoNWduY19UblA4aTB6WUt5UV9ZZ1cyRGNFRGh0WXBSdWpLX3FXLUN5NlFzZ0ZhYV9maUcxZC12cVNUZVRnYUxGNTZkT2lIc1B0aWdGdF9LeXlmNW80Y3ZmMno5ZGZObHRqcFM2anB0b1NPLTUyTTJUaWpLbkNYV3ZLUVdCaHlPNlVqNzRTa0VpeTJCaGtURnFqSzR3YkVLS0RENg?oc=5",
+          "title": "Iran war live: US ‘quagmire’ caused by ‘miscalculation’ – top negotiator - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRy1XR2xLRHBpdDFLWmZBY0Q0QW95SXpadWRTS1Z2dlFYUWtfaEFsNTBfTEloZXRuTFlyWUdkLU9FSF84VkNoMmx6UXZiTWhyNmI4WnZZVlgtWHhHcllTcGgtRlV0RGMxWnRvczBuMDFBRXhwdUUxYXNaZVdUbkN6VTZrY3JTd1VIR0JPTWItOXp1NDFBWjlRMGdQeW03aGlpc3JVWm1BTThmNGQzZHgzVHNMRXJwZjFGVEE4Rk14SUHSAcYBQVVfeXFMTzk5N2k2NXlJMUtfdW9EZXh4dU9sdk1YdTJNMWh1cnpER2ZqR2pXZ2xmVU5peWVGMnduRlpDeklHcXJLX0dUQ25jY1dpWGg3aXAwaWNIdmpKdzlHV3ZHLWxveThZNlVCRGx2Wkd0T1ViVUhZc20yUDFHX0t0SW4yYkxmeU8yV1RUeG50SmVoYXpLalpaLW1UMlBmeUdnT1YzdUxrbHZWYWhxSTFfMGNaTUxsTTBxV0lvSE9GYmtGNnM4SVpiYVpB?oc=5",
           "source": "Al Jazeera",
-          "pubDate": "Sat, 24 Oct 2026 10:43:35 GMT"
+          "pubDate": "Sun, 25 Oct 2026 11:54:57 GMT"
         },
         {
-          "title": "Live Updates: Iran warns that U.S. military not allowed in Gulf \"under any circumstance\" - CBS News",
+          "title": "Live Updates: Iran says potential new U.S. strikes won't change Tehran's position - CBS News",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZXdRdW1Db041UUN4dlYyNURUdmFWS0V0V1hCc0hnNVBZWlIxYk5Pdkg0Nks0Ri01UkRsM0NVR3VVTEVzc2psaWhpZDk1ZlRTTG0tcHgzcEZkTURsUDFoejN3MVl0NVBKZXNwU1ZVeDI0VWY5TEJ2M2dqSXBDcFpRTzRvSExKWEtVQlNzLUZINnZsT3phZ0xROHd3VXc?oc=5",
           "source": "CBS News",
-          "pubDate": "Sat, 24 Oct 2026 17:40:00 GMT"
+          "pubDate": "Sun, 25 Oct 2026 12:32:51 GMT"
         },
         {
-          "title": "Putin puts Trump ahead of Iran in bid to mediate war - Al-Monitor",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN0w3bVVBMUswRGNUYVJKQUF0VEFwa2Q4V0pyWmVobnhpbExzeXhvMHA3ak1UNkN6NVhpVUVISk01OHY4UkhlQUJLRlBVM3BSVGVHekJtTEwyc014UFdDTFRBVHZCeVVrM0JkYXB5c3RxLWpDT05NczE2OUZ5bjFBalFtTG9ieW5KQ3gyWVBRU1pYZw?oc=5",
-          "source": "\"Iran war\" - Google News",
-          "pubDate": "Sat, 24 Oct 2026 22:21:29 GMT"
+          "title": "Iran speaker says US 'entered quagmire' due to war miscalculations - Yeni Şafak English",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZGxQdWRGLU42UERpNi1XbllLVGhjeEFxRG9qaWFqSHIzSG9rN08zajhMUGM3cGNpeHljbGt3TlRSeFY0SlJYV01yWnFMQmZBbG81U1Y3ajFsQm9UYXBaQWoyR1lXMXVxSGFFNWdzSDU3ejZ3Tm0zR2ZoS3VMcnNZWU84YnIzNVhaQjJyTkpGNURMTTBNTjB6WmMzaGlaVTVxZmxONTVn?oc=5",
+          "source": "Yeni Şafak English",
+          "pubDate": "Sun, 25 Oct 2026 13:08:53 GMT"
         },
         {
-          "title": "The Iran war’s toxic impact on one of the planet’s most unique seas - WQOW",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQU1ZGb3o5aUdrMVJHSkYyNVZBVTlKM2lqZG41cXpqTktNeFFmcl8tSlF5RVdLWU9CbEJMY2E2RDR6aVFvWGc5LW92TXZtODNNMFBnWGRXM1o2Q2NtdVBrblJ2eEU1d25YdkFVTVlJdHgtRnkwVlR1UFN5cnp4NzZ0VERpSUJtMzZrYm8yWHB0UldoVkx3UGV5NmJqbmYzWEN3eWxfczVrNklIMF9maVA3aUJMV0QwSzEyVkJXYm91OXRzT3dCRnJpQkhfRjM0bWNnZkVaSmw5OEhYR2FoaVBGbE04VzNKZVA4OUdtQ1ZR?oc=5",
-          "source": "WQOW",
-          "pubDate": "Sat, 24 Oct 2026 23:00:00 GMT"
+          "title": "A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOenJjWWFLN0xjSXdjOHdmUFJ5ekx1M0FLLWR0dGxDc1p6X2xJbDAzM2Zia0lIZFhwdTBJOExfNnVseXd4M1RzUjRDV2MySDBTTTFuQTFKYmVrd2JEWTdOUG9BM3kzU24waU9zQlJMV0d3cFR1VXJrdVZzd1FITEV4Y3lMbHVOM1hZWlFnQlZKd3FvVDA?oc=5",
+          "source": "The New York Times",
+          "pubDate": "Sun, 25 Oct 2026 00:55:30 GMT"
+        },
+        {
+          "title": "Iran Update, October 24, 2026 - Institute for the Study of War",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUy1oVUkwV2F4LTdiOElJTjJ6UlFZcTNLZHpzS1Rob1dSRHo1V2FTNXY0QmdaWTNBWF9EYXlxQmpYcXM2dEpicU9taDdmWF8zUDZFSThidU10bVhsV19lZEV0YzZETTQybEYyelhqTk43YTBXWlB4eHRJeFRuTzB4NmlaVlg?oc=5",
+          "source": "Institute for the Study of War",
+          "pubDate": "Sun, 25 Oct 2026 02:46:19 GMT"
         },
         {
           "title": "Iran has ramped up efforts to target US personnel, intelligence memo warns - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSnBGckdpTkdaSnNZeFIyenI0MVVDMHd6R2ZDcTlUX3I4OWNNMlRjd0FTXzhCY09zakU1MWx2RzBpRW1QYTRxY2M3UWpBZHR3S1JlNjQ0WlIyRlh3ZnhNaVZ0OVcwU21YMjUyVVF0RXB0VXFLMWpGdEVtak1DUktTdUdLWmQyWGRFQ0xmb2Z3WG1nSHdfVUxlbUlsc2RJRmNmWVRHS1Qtd0RCVU92d2t1S19HbjlFVzdoREJONTRNYk1iZw?oc=5",
           "source": "Reuters",
-          "pubDate": "Sat, 24 Oct 2026 22:06:52 GMT"
+          "pubDate": "Sat, 24 Oct 2026 16:03:00 GMT"
         },
         {
-          "title": "Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYmtHSXQwRFhlWlZKbTU2TEhPODc5MERFTG9feGQwRUY1ZklES2JWS3UxTUxOelgxRExOSFdUWEJnVFFDX284OHNsZWxIUzBVRzdINlpRRVhIYlBTN3A4Q2JrYWFrZVZ0MEZGRXVXVXVKTW82dmgwRWROUHFXcVVPU0oxdkljc3lldHc?oc=5",
-          "source": "The New York Times",
-          "pubDate": "Sat, 24 Oct 2026 16:09:00 GMT"
+          "title": "How the Iran war is influencing voters in the U.S. and Israel - NPR",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS2tWNzJzT2ZBVEIwY09lQ2NvdkdvbWNZM18tQXcxWXhRSHZKc1cyNmxNN0MxVng2Y2xYTlZTbmJJUGx4aUxGYXp0Wkg2Vnc0ZnNOYjNmdklkc1VKc0VCWlBHcF9RU3RsQlQybGQ0U3VnUXVqWTBkX0ZqRElVTzZnZ3NSUDNPekJZWHM4Wjd5OVd2cVdsY2xObUI5NG02OUVvTzFLSTk3TjU?oc=5",
+          "source": "NPR",
+          "pubDate": "Sun, 25 Oct 2026 12:06:28 GMT"
         },
         {
-          "title": "Iranian plots to kill U.S. officials in Middle East have reached ‘advanced stages,’ intel memo warns - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN25tNE9Tdk1Fd1ZBaDFpZjBsWXVwMV9uZVJjdnEwY3AwS2JScVlNNmU3eDIyVVFUeFZORDFVTGV4UUFldTFwOVFzWVpoUFl1LUhseGZZTVdHeVJvOVVpMGNvRmxwSXE5OEV6cTJ6dnZiMTJnVkd4QXBYN3JRbm5FbllvR0plWFNPSnNGdWRDNjhERTZtYnloRDg1YTVXcUFZRm5aeXFGdm1WUk1FR3NoQ1V3d3JGU2V0dC1tQ1RscW0?oc=5",
-          "source": "NBC News",
-          "pubDate": "Sat, 24 Oct 2026 11:49:18 GMT"
+          "title": "Iran live updates: Saudi Arabia issues safety warnings for Riyadh, other regions - ABC News - Breaking News, Latest News and Videos",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYVFqc0lubVY2dlRqcFhLV0tWZy1fNG5HWXVLMVd2ZXVabUVkdHI0Y09wNXBxNzZRYWVsX0ZPbnJjRG9yckNHVnB3eS03OEJTZTdPU2hZZVpjZUYzX1dpT1dNdXl0eXJ2cjBpa0t3eUlSb3hGSE5IWk1ZcWlJNzZxSzVYdm8?oc=5",
+          "source": "Breaking News, Latest News and Videos",
+          "pubDate": "Sat, 24 Oct 2026 02:41:00 GMT"
         },
         {
-          "title": "Iran says won’t allow US warships to get close as Trump ponders new attacks - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbnhYekZtTGYtNUxRY1l0SkNlclVxV1JhVHJ2QUNzRFhRQW96Z0FWbXBSakNhblFEYk9kNHBibExfT0xFVFhLbUEzLWZpR0VNVC0tT2NlTTRIWmlaRThSTXN5OEF6d1ZiSEhGak11ck5zclJpYkRPODdJdFNqLXJTWjZiemlRSnZuOUV1MWY3eDZYMTBjaThzRDJaU3VVQnFqbFQ3bEt2enJEeHNUcm1nZTBnT1lXNXfSAbwBQVVfeXFMTzcyR081VVdqUVNRX05XQ0NxRFFPdm81M0NEV0hPcm9FYlZmTEJ4bTBPQUtjSjZvOEx3aGFWdGNDbHkyZzdoVDlVZzZyU1NrNkt4YkhBZGxZcm1vZ0tlWTB0T3lZbDdaX3dnSkZVdUpqc19KZnpWS3Vlc2tiN1JEQUNWZEVZYmV0ZWVyYXFENDU4a2FqU3ZWZGR5dFFreHl4VzVZellsU2hwQVcyZzBBTjl6SG9WQUpBNmprOXA?oc=5",
-          "source": "Al Jazeera",
-          "pubDate": "Sat, 24 Oct 2026 13:15:07 GMT"
+          "title": "Live - Araghchi says war would not alter Iran policy as Trump raises prospect of strike - Iran International",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiblkxNnVtVlJKZk9CWDVFRTZvY2F6bWZORmVtSkR4NVY4VzZQa3dPZy1KNE5EbUpvMWF3TDk0VEY5QnAzTmFWS3FjenBLRHdpU2UtMjVKZlphZl9tRkE?oc=5",
+          "source": "Iran International",
+          "pubDate": "Sun, 25 Oct 2026 12:20:57 GMT"
         },
         {
-          "title": "Barack Obama Slams Donald Trump, Pete Hegseth Over Iran War - Newsweek",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9qd21fSHR3RDBnbGpsNFpocFBFSk1kcHJoZ1dwMjJOM1dWT3Iza3BOeXJ5R1J1Rm4yM1R1Mi1Pci0wc0NMb0p3TThmMWFRczVHaWRyN0pjNEVqc0RwLUVlTmNHVHRPVkZCSEJDWEV5b2pDNG94Mkt4Ng?oc=5",
-          "source": "Newsweek",
-          "pubDate": "Sat, 24 Oct 2026 20:01:00 GMT"
+          "title": "Obama Attacks Trump Over Iran War While Campaigning For El-Sayed In Michigan - i24NEWS",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaURwUEsxRVFKdU13SzVsdmdiY0dnY2kxcmllOW1qYlRGTm50Z1dpME9tRjNRZUdRX2pnRC1wSGhfMUY5UWlLQ1gyNTh3VEVMLW4zLUxXOWN4S0hJcXU4el9uMExCU3ZvOENfS1cxeXpNajViNmFLdV9KQ0FYMjdrMU9OZW1WdUV0VEEwS1hLQzRGOTZOZ2FKbkVha0lRUjZ6eFJwcEhweDBWX2IxbUZBT2dsVS1WdnAzYUxtcXBWMkFLTU1wRWh6MlpYbnItaG9j?oc=5",
+          "source": "i24NEWS",
+          "pubDate": "Sun, 25 Oct 2026 05:57:00 GMT"
         },
         {
-          "title": "Obama unloads on Trump over the Iran war and mocks the president’s diplomatic strategy - Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZGRJZ1JlTjdXaV92ejRoMHF3MGRCWnpFejIwUlNVR0NZeWFteXZzUm10V2RmelBqdndBeE03NHc0XzlDbWlVZVZlZUl5UF9mTU4yWjVaTkJCOUwxMVFaa3RaZnpJZmFXMW9MRGs0UmRNbFNHV01tRkVGX0hITG9XOGdiU19VLV9zZms1WTdiWVBxZEE?oc=5",
-          "source": "Yahoo",
-          "pubDate": "Sat, 24 Oct 2026 22:13:39 GMT"
+          "title": "Trump Prepares for Iran Escalation After US, Israeli Elections - Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbS1tMzRuM2wzRGNDV0R5b3o5N3p0V1U1OVhreW01YXB6dWdmQlBCMS1Hb2FmQnJYYVZsSVJKNG5pVHFGN1pqWlJYUk13cC02OTR5RWpZczZ1c21KMjkyMmIxOXJOQ1VDZFg0V3pSTENZTi1DM1NDeGx1OHJBVVc4TjlyeG84ZUhTZ3NXVnVHZGZVaE9tVFFoSHVkUlJoeE5BMkJJVU9kOFNSUG05YVRtc09R?oc=5",
+          "source": "Bloomberg.com",
+          "pubDate": "Sun, 25 Oct 2026 10:51:03 GMT"
         },
         {
-          "title": "Obama Absolutely Shreds Trump for Iran Conflict: ‘Seven Months Later How’s that War Going?’ - Mediaite",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS21Ra21CWVJZd21DZlNjdUVqY09zTldUdllxbEdsNmhjZDkzel9WYzhpck01aVptQ2htY1FCQVRQT1pGMmQ5NGE5SURtd2pSdHBEaW5QeHBfQjlSZnU2UjJ1RmpFVE9QR3hDaW0tZ0xlWnZ1ZHJTNXlhNmVHeldJdFFjN05vOTJISE5IaVRVcU96VGNkd1pzRmoxeUw5bVpqREF4ai15S1hGdkZTLTYzRnVhcmU1S01Ua2tSYnhOTFc?oc=5",
-          "source": "Mediaite",
-          "pubDate": "Sat, 24 Oct 2026 20:31:00 GMT"
-        },
-        {
-          "title": "Iran's president calls for renewed US talks; Report: Hezbollah vows to stay out of another war - Ynetnews",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FSDF4V1ZKZDZkX0tCc0VUTXQ4NXF6dFhreEZvM1VuUXBzdF8taVNua2F4ZzBuNTdHY3VoVHV3MmtvLXFoLXdHdXBndVlDT2IwaWo0VnlWZw?oc=5",
-          "source": "Ynetnews",
-          "pubDate": "Sat, 24 Oct 2026 14:44:55 GMT"
+          "title": "Iran says 'nothing will be same' in region after war with US - Anadolu Ajansı",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdzN1T3hGZVFOX2R5NHFOS2dHNFNMQTE4elFDcHhYRlFucGU2RVpTS2JnYkhPSEJTSUVYNlRlRnM3c3RMWU9rOFY4enVDVXZEYzZBNjJ6Tl90bG5lek1TSng1dzVBd2NjM2dhLWFaMkR3OURMbWljUjF4eUJCYWZOQXFIT0dYWXFBR3h1a2lKVi02empqWGd6d05wYVhWdTlJZDUtVXVn?oc=5",
+          "source": "Anadolu Ajansı",
+          "pubDate": "Sun, 25 Oct 2026 12:21:13 GMT"
         }
       ],
       "error": null
@@ -665,76 +665,76 @@
       "feedUrl": null,
       "items": [
         {
-          "title": "How Long Will Russians Put Up With War? Here’s What They Told Us. - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObWs1SUdKS19URU9XZlFTcGdnQmVPVmxhbjE4NW9GNjU0RGFZdDRrUVpkS1Rqa202cC0yRkFUNWd6cGlWRWFGbE1leWFreGw0OGN1X25Tb2loS2RwNm0wZlFIZXFJeVJTZU5YR1hQZUlhOE5nTmZCVDN1MzNRaHFQMUcyNFRfdlFVYmc?oc=5",
-          "source": "The New York Times",
-          "pubDate": "Fri, 23 Oct 2026 09:26:55 GMT"
-        },
-        {
-          "title": "Ukraine war live: Elon Musk accuses Kyiv of breaching Starlink rules - The Independent",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM1RUQ01qNWUxTXY1S1BER1RFSzJ2bFFSUFdHbTF3Y3RvSHVHOWxZYzdzNy1qSUhJSEVHd2R3SWQ3YnVRc3AxY3VRVTJKaGJlR19SYnRyNVphcDJlSWxxSjFORndBUGZsc2o4NURVRG1RLTJ0TExvR296Z1ByQnNmemR0dE5yci1tRWo5NExjVUowVUpzallVMFZsbVNTc2pxNkFCUFdEWC05Tl9QR0JoNzB2MU9yczYyaXN0VDl2b2dQTGdq?oc=5",
-          "source": "The Independent",
-          "pubDate": "Sat, 24 Oct 2026 23:58:32 GMT"
-        },
-        {
           "title": "Ukraine war latest: Kyiv 'clarifies details' with Moscow - as Melania Trump credited with Oleshky ceasefire - Sky News",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNDVPaEpQWmIxMkZEYU9YMkxLWTRpOHlrMGloT3Q4VEtzQk9qaUI3bVpQZkJ0TUtDaVBZcWhKVnVxUVN6TmgwUTh4QXVXeHdqeDZ1XzhDU2VHQ2RhLTVBVWFtS2hoUzNzbU9Tejh3SEJXaFN3cXJrSnZsRnE2b2NZdnI3SUxlczRMZGMxb01haWhoV3JzNmlkNTdzOTRTb2NNZThvcS1HNTZoSERMV0lpUUdkRXNiN3lYQ2xON1AwMUx4cS1XMzBMOW1iNjQ?oc=5",
           "source": "Sky News",
           "pubDate": "Thu, 22 Oct 2026 17:00:00 GMT"
         },
         {
-          "title": "Rubio reveals theory on Russia's war against Ukraine ahead of next US peace push - The Kyiv Independent",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSkJjY2dPR2lGemx2WktRemU4a0U3aG0yeUFmbW55aVFiY09zbWpRMjJVT1VRV0Jfa1Z0bG9DVFZKZndkRlVMbmU0aDJUYUdPNTZ5Mk83a0llaE80d0NvX1VUOExTb0xIM0hVSTJQa1lsT0JtaHRjUUNmY1FRcVdSeGNHcGFZY1BhYzViVlpNNUhqbmpCZkthYlhqU1Q5c2VfT2M4YWxVMk1ncXRO?oc=5",
-          "source": "The Kyiv Independent",
-          "pubDate": "Sat, 24 Oct 2026 04:22:24 GMT"
-        },
-        {
-          "title": "U.S. must put pressure on Russia so Putin ends the war, Ukrainian official says - PBS",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWUVzVVl2dTQ3dDVuYXlMU0VzUjFZTF8yQlRNQWtTdkZadWIyVzNmc1o5LVhLb3VseGtpUkdOazNtX2FvV1pEcDBrQlNmb2dnUHdKM2VaNWhGZ0l4RWVIaDZRbjFZTnUtN0g0QXBWRmg0a2tEMHhMN2E3eE5leEE0TVE5TnR2MWdsa0pkc3RuSXN5NjB1VmpNNDM4X2RHbmJFZEc3OGlzSGFEdDQxNVVyMw?oc=5",
-          "source": "PBS",
-          "pubDate": "Mon, 19 Oct 2026 22:50:35 GMT"
-        },
-        {
-          "title": "Russian Offensive Campaign Assessment, October 23, 2026 - Institute for the Study of War",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSTRTXzBxWGxGUDF6ZExuUlZnQkctMjR4NEdZNmkwRTZ2amZXaDdwT1VWV3p0dUdjSTFzMkZmMnVqcklkME5qUjVlQ2liVmVQQkRXX0ZUSVR2Vl9LTDR3UEgxUDRFX3VvTkhhcFhBa0tDUFladlNPTUlqQTZUMjZzMEZlZHM0LWhsRXlDUnRqMXFMdXIwemxNOHBOUTY3OU9HMkdFdlRKUUdnTDA?oc=5",
+          "title": "Russian Offensive Campaign Assessment, October 24, 2026 - Institute for the Study of War",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbjVGQVlSYnI4d3kwaGJ1NHF2Ync0U1dlTHUySS02UV9XMHFoOEt1QTRTRHNnQjg0dDY3cldKVUxXSWJDRXFSb0VHTnZLeDlDeGZXQXpRMWhyU1V0VmE2RS1BWTg5WV9vbDNkbERON0IySWxnTEFYOHVuZFpyMHloWTcwUTdrTGlob3N0aTdQaXVWUFNzWEZna0hKbjJ5cVlmT1Z3UFJDSm03a3c?oc=5",
           "source": "Institute for the Study of War",
-          "pubDate": "Sat, 24 Oct 2026 03:20:02 GMT"
+          "pubDate": "Sun, 25 Oct 2026 02:46:19 GMT"
         },
         {
-          "title": "The rapid Ukraine war arms race means weapons makers can never truly consider a product finished - Business Insider",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbjk3RWVkZjBIOHJUc0dwb0VWRW1kTkxjR1VPUlpKZm5IYUNWRjJ5OVNWaWczeWpsbDNhRWViejBYTlN5cE1PUS1yX1ZiN2pUaXljRjgxbGI5azN0VnlBWUJxLUhzNlVpdUJJN1MtQW9va3JwdUpOWUtoMlF2dmRLenFWZkZrRzR6dDRfYU5ROXlLZnJJbzc4WnAtb0xjMHFrRm55RmhpakJTaWF5OWNZRTR0d1NEd1hGVUE?oc=5",
-          "source": "Business Insider",
-          "pubDate": "Sat, 24 Oct 2026 11:43:00 GMT"
-        },
-        {
-          "title": "Ukraine war briefing: Russian diesel tankers headed for North America, says Moscow, as US tries to revive peace talks - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYjdBbnA0NDM4dTBXQlhrTHlGRVFMRmttUFZsVGY3aHF5X3ZGZGRIN2RLRXJVVUtPNVB0ejFJRk5WQUx4NndCd1g0OVYzaVFJNE4zUTJlWWJKbThBQUZfZGUyYkp4MnAyWmUwSmx4bDVPVlRYTGxoZE1kLXdwU1JCZWpFUURtS0p4c2dyaF9RaS0yVThNbHRtZloydzBZZktBMUtHS0JZRXFkQlpyaFFoYUpMRkE3aDJZLWt0NE5WR09GcWV1eFJpbGk5eTRybmFVVlplbHRfWXZ6MHMtMjRuZnRNVnFQSGRCOXlCeVhYR0p0QQ?oc=5",
-          "source": "The Guardian",
-          "pubDate": "Sat, 24 Oct 2026 01:21:00 GMT"
-        },
-        {
-          "title": "Russia likely to harden posture on Japan at least until Ukraine war ends - Japan Today",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaVc3Ql8xV1NSR0dONkM2ZElxS3pIYzJIOHRlLUFkRzBfR3l3cFQyejBXcVJzcWV1Z1VmRmtwTXhhT0tTYTBsMk9FMHR0OGJQamRqZXRkRF92TTZqUXl0aEZTRWNwa2NWSmJZbWpZUC1kc2x1bTl5VE4yZk5pTkx3Y2xsdXFmX3NFLXRKcUJjTXJNR3pBU1YzdEFPTjRVeUdVdTFTTDlvc3MwTzhFZnV2X3FjOGZwQmRlRk1Z?oc=5",
-          "source": "Japan Today",
-          "pubDate": "Sat, 24 Oct 2026 21:15:00 GMT"
-        },
-        {
-          "title": "Ukraine says Starlink connection 'now stable' after network limits - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oMlotN1JyTm9MdGFZZlNrRU10SVhRbFFzb0l4S0F4NmJtV2lLcUhnclpWMWRhUjYwanp4elZSTl9TQmhUSnhpYjIzeXVyZ3hFZnd4bXRQVzBXNVk?oc=5",
-          "source": "BBC",
-          "pubDate": "Sat, 24 Oct 2026 12:12:40 GMT"
-        },
-        {
-          "title": "Kansas Sen. Roger Marshall says the Ukraine war, not the Iran war, has caused high diesel prices - Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORzgyaFNnTncwRHFVMGNWQS0tSjRGYWl6NEpRWmJGUGQyVUZmZGFHZkh4R2N0UVEtRm1mRHg2OTJsQXQ4aVo2UWhWVVU5b3V4R0V5MDc0NEFHemt0MzJoUmVpSjBXa3Zmam5MWVU3SHRBS2VsMlRySnNSeUNIOEJiOEthYlZjMHFJR3U2THkyMUhLQ3lW?oc=5",
-          "source": "Yahoo",
-          "pubDate": "Thu, 22 Oct 2026 02:39:00 GMT"
-        },
-        {
-          "title": "Trump says Musk restored Ukraine’s Starlink access amid Russia war - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWmZpbEx6YzBidHFXWVdHQVpwdV9yUWtDYUZhWGJuaWJfa1pGWC1rMzhvOE9Pa0hsQUhKaG4tZ2o5N3VjSHpaMEZQb0V4UnlxY3JNeko1VW5GRzd5Um5fYTVtOEFOcTZteVdLVklYTXRxZDJfSnV2TUdfckJxX05kNWVNaWxjRzlzUVNiTHZDMEVjNGRmYVZSUTFBQW4zWEhrSGxhXzF2RFNOSEnSAbABQVVfeXFMUGhDQk4zTElXU1dFcXNJcHVqN29NTkp4MURWOElJcUNCRHRRVnhrSFlVcVZ0bGVCT1poQXFlYzRkUEh3cjY5NkpZa1pFNzhXaWVEcFREVlV5YThseGxjQXdVRVJPc1hBdktsVmZheE5YTUVsdnZGMF8yVm0tajV3ZWVlTFVYVU1INGVIVWFVRWJwcEtjYzhFNlMweV8wUW50cEExODJhX2ptZTFWdE5hcUU?oc=5",
+          "title": "Bulgarians vote for president in shadow of Russia’s war on Ukraine - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWTBIcDhPZnhvMkN6U2ZGamdNTXVRczlFNk54SzVpcWJHZlFtQ2hUZHZWSDhnNC1ZQy1zbEJjUW12M3ZybjVES2hOVzZZSS1PQnE2UWNqNFd3RHZyZ1p2ZjR0OTRYY3JXOTVrOS13SkM0anYteGFqQ1NJei1TVEtSUlJRSmFQVFhHVTNWTl8xUjliaS1MVEhpNm9MSFk3RlM2U0EzMlVSZ2hSX1nSAbABQVVfeXFMTzVVRFl3TENUdERQVy1vMlhocFFYSEplaV9pSTlCSGx1Xzg4WnV5WkFoa3VSSXdUZVBsUFVVR2JCdzhoSkV4WkZ2Yzd1RmlXVS02aGpDa3BEUk1kaFk5eUg5eDVJa1RhRDJGSjhsamhhS250dkstV1pDU1RsVm9fS2ZicDBJRU9jZ296eWUtRnN2QnVGNWNBbDVfUWw3VjdITWdlMXR3X0RKY1dYeG5vbGY?oc=5",
           "source": "Al Jazeera",
-          "pubDate": "Fri, 23 Oct 2026 01:51:23 GMT"
+          "pubDate": "Sun, 25 Oct 2026 06:18:56 GMT"
+        },
+        {
+          "title": "Bulgaria heads to the polls for first round of presidential election - Euronews.com",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVmE5RXRsQUdtNzh1b2k1NTlURTdMNUYyOTVUN29EY1BmNWdwUW0tWW04c3R1RzJEWWJtemx4UEZFZ0hRb21mRnhNdHZ3TkRGTmlrSF8zSjNEdnI5c05pb0FXYlFUcUlWTDhJZm5hVm1xLUItWFJ5T3FCZEtUdjQ5b2h1WGx4cWRLc3B1anpKanpqYTZwVExrdEN1cmtFZ3oyeVo0emNQX1JSRjd6djhFLVBURGc0QmxQ?oc=5",
+          "source": "Euronews.com",
+          "pubDate": "Sun, 25 Oct 2026 10:59:15 GMT"
+        },
+        {
+          "title": "Bulgaria holds presidential elections amid divisions over Ukraine war - DW.com",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY2tLUWZrTVVxbXo2TFd3LVpRSXZkX3ZEY19JWHNQYjZKbV9mRlVleXRBRG9leTdCVUp3WWw2SE9nOFBtYzN0REd4T3oycXd3RjR5VGZQUGVfWGc5UnBWUGJxVkhiMFI4OGNIeUdrU2NodGFGWUxvS0w5b3NOb2ZHNnBOWWIxeEZKeXdoYzFYY3lXTWR3OTI1Ykx3Z0xHampQQW9ra9IBpAFBVV95cUxOMHdpeDdVZnVGZ3JfUU16bndWbV9yRmdWWi1mNmYtaU9BT3VXTGxZWV9xLW54OGRWV2FaZnlQMTZHZmRyMlpuQnZfOFB3SldZQkR0Z2piQjN4YnVOYVhsYnNrNXJZdHgtM2VpOE1zU3k1WDVVQUVqa09QLXMxU1YxX0ZFcjFLRzc0UkdLV0RCN1NyZHF1SS1SZ1lDX2pDTWRjZzkxUA?oc=5",
+          "source": "DW.com",
+          "pubDate": "Sun, 25 Oct 2026 07:22:52 GMT"
+        },
+        {
+          "title": "Ukraine war live: Elon Musk accuses Kyiv of breaching Starlink rules - The Independent",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM1RUQ01qNWUxTXY1S1BER1RFSzJ2bFFSUFdHbTF3Y3RvSHVHOWxZYzdzNy1qSUhJSEVHd2R3SWQ3YnVRc3AxY3VRVTJKaGJlR19SYnRyNVphcDJlSWxxSjFORndBUGZsc2o4NURVRG1RLTJ0TExvR296Z1ByQnNmemR0dE5yci1tRWo5NExjVUowVUpzallVMFZsbVNTc2pxNkFCUFdEWC05Tl9QR0JoNzB2MU9yczYyaXN0VDl2b2dQTGdq?oc=5",
+          "source": "The Independent",
+          "pubDate": "Sun, 25 Oct 2026 10:57:14 GMT"
+        },
+        {
+          "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wYU9INjVIeDlBUGVueHEwZlhEMlU0Xzl0bmdpS3MtdXF4aV9CbzVQWENkSVRrR3RDLU4ycVZqdlUzMFdUckc5anRFWmlhb3lnQmhfMjhMeFZtUjA?oc=5",
+          "source": "BBC",
+          "pubDate": "Sun, 25 Oct 2026 09:00:00 GMT"
+        },
+        {
+          "title": "Musk says he was behind Starlink speed restriction after service in Ukraine is restored - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOGd5SnEtSm9xemFDa0s3MnhQUjFKOHZmcUxxcHVJU01FWk5aWWEzQWJKaG1DUGlqMFVIWVJrWXA0NUx6NTVQblRkb2lUNXJSWWdrd3A5VlNuc1BqbWM1TEdCZ0pJaHUwdWFpa1g3MVFkODMzWEZuS21WaGpqSldLTEZqT2xReDFQY1I3NEV6ZEZWTl9Pb2gzbG13?oc=5",
+          "source": "AP News",
+          "pubDate": "Sat, 24 Oct 2026 20:16:00 GMT"
+        },
+        {
+          "title": "Melania Trump brokers a ceasefire deal in Russian-occupied Ukrainian city to get relief aid in - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMkNRM3hJTVJkUGxjNjB3QmhSd2FSb2JHZkZtTjVNdzNWeHJ4QkpwdEd0cWttQjg0ZmVSQUtCV0JHTFRCeTd3NGJITy1ybDRTQzB4ZkhEdDEtRkRhcUZrWHdONWJZZFlBbGV5YmhkbDh5LTlaZm9jelQ3Y2FWOEcxUlhLZE5yX2c4dVhSZlYyVDUtVllza2ZLLTVXQ2RCN093aGJlRmc4RU9jcHZROVRv?oc=5",
+          "source": "AP News",
+          "pubDate": "Sat, 24 Oct 2026 01:17:00 GMT"
+        },
+        {
+          "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster' - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HVXR4Q2ppWjg1UE14akpXVTFoRWtic1NBV3ZkbDdpaldLd0VjSmlRNFp6UGljVTRNOWpPVHlCdTVnYVYybFZsT2NFaldRN2JzbWF1bnlIMUJJamM?oc=5",
+          "source": "BBC",
+          "pubDate": "Sat, 24 Oct 2026 07:17:44 GMT"
+        },
+        {
+          "title": "Melania Trump’s Cynical New Ukraine War Scheme Threatens to Upstage Donald Trump - Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQR05mTm1mc3lKa3dSZkI0S2U1LWZjaVJTQXMzZEU4ZmFUM3BmY2ZqTThsbnFMRTFVMUhZNjhlcENXZDJNN09CQTRoOWtoZzRJdGNMR0ZpVl9ReWh1MHBBd0piZjVGd3hSTTh5dm5TTU5mYW5kR3pQakhzOHhLejY3bmxjTGNORk03SzZlUV9EeWY?oc=5",
+          "source": "Yahoo",
+          "pubDate": "Sat, 24 Oct 2026 02:26:00 GMT"
+        },
+        {
+          "title": "Ukraine’s Feeling of Moral Whiplash at the Hands of Trump - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zVHoyTW1BVDJmY2hJQlNqLU5xbXdWR3h2eWRZTzNaZ0VENDNnd0lZMm10UDE0X0puMEdyWFFjRUJ6UmlPQ2JOWU03aV9BY2NTS29VUTZtanFPbkM0TFBQWjUwYWdzLV91azRXTDFZN3M5SnpT?oc=5",
+          "source": "The New York Times",
+          "pubDate": "Sat, 24 Oct 2026 09:03:21 GMT"
         }
       ],
       "error": null
@@ -747,46 +747,58 @@
       "feedUrl": null,
       "items": [
         {
-          "title": "Obama hits campaign trail to stump for Democrats as midterm election nears - BBC",
+          "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections - BBC",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oN3NlRVJ0TWk4bW5vVHRUblM0c3JUS3pyZzVSLUcyNTBSa0dpZTl1aXpXbVlPeU9qT2t0S3JIdm9Jb2JzSWxRZVRObm4teDJqSEU1ZVFLRENZbEk?oc=5",
           "source": "BBC",
-          "pubDate": "Sat, 24 Oct 2026 21:12:55 GMT"
+          "pubDate": "Sun, 25 Oct 2026 02:27:15 GMT"
         },
         {
-          "title": "U.S. Pressures Mexico to Deliver a Security Win Ahead of Midterm Elections - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVEVFQmJseGNjZnVKUGtmRzlmdGRqdHA1Z1Bab1lyVzhEMF94WjN3dzgwR09TSUZ2SENNcmpDVlUyX3FPUkZCM0x2dlI5Q29oQnA5Y3RjU0R6ZHdkYVF1MmxHN01CWklzRHFFS2xqaVZNcEtHN25wRnR2UU5vb2h0cVdZdUNqSVVL?oc=5",
+          "title": "Why Is the U.S. Accusing Canada of Election Interference? - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb1Q5TDNCRXlSdjU3WjAzRndZM3RLYUdJVGZXbGlQdE1wdmxGaURtN1BjTVdLbUstUy01dXVqVWVNRFFFUjBHYzEyWkQ2M3hwQnNEVl9FN3ZPRTlwZFNybG4xelVZM3V4cVk2QXF3VjVITnhIY3A0cXRJaGZJWk1xOFJGcWVTQndNNFZZMlh1WnFsQzk1dXEtT1g1R0ZfSzV0?oc=5",
           "source": "The New York Times",
-          "pubDate": "Sat, 24 Oct 2026 09:03:03 GMT"
+          "pubDate": "Sat, 24 Oct 2026 16:02:21 GMT"
         },
         {
-          "title": "Live updates: Trump and Obama hit the trail for dueling rallies as they look to energize midterms voters - CNN",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN0pNTjhGN2U3VWN0SWFscy0zLWh5NnUzUHBDd1hVOG9QNHhUWHFGMUlkUS05ekhIb3k4Wkt6N2hqUl9ZWEJkaVF3QlVidDRFRjVqNXl2TEtIdmRTdFUyak9TV1dlLWpBUXQ5QV9oU2JiMGJzMl9CeFlVU0RMd0d6aA?oc=5",
+          "title": "Obama blasts Trump, Ramaswamy while midterm campaign barnstorming - Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd3ZVSWlyN0RNNVJuZE9veDlyRlFoa2ZPOUVNenA1a1Jsc0lCbUR5LXZubW1aNTM3VDFuY3J0c19nRzN6czVJaEZ0XzI4SGRFVGlIUDVoUjBXVS00dk1PUzZEX1FzbWVxVXBabzdHcW9aU3lMbzE4NlJUNVdrSVZNdjJFR1RTX1BUTG5wQXVkRUNWZERfdktPb3lR?oc=5",
+          "source": "Yahoo",
+          "pubDate": "Sun, 25 Oct 2026 14:24:58 GMT"
+        },
+        {
+          "title": "Economic woes transform the Midwest into a massive midterms battleground - CNN",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQUs4c1NWTFMwSHJQX2tDM3pCdTV5Y3hjQmpRRkpzOHh3cWEteUlZd2ZUemNjMWF2WEl5OGdObFpOZUF3QjdyR0l0UVBUOGZIR0ZXdDhQQWZpcmozOVUyS0RRc281Ym90aUhFQ1ViaXUzaHh4RVQ4bW9FSVMtNkx5U1NBMEhhU2Q3ck44Vg?oc=5",
           "source": "CNN",
-          "pubDate": "Sat, 24 Oct 2026 22:58:00 GMT"
+          "pubDate": "Sun, 25 Oct 2026 04:00:15 GMT"
+        },
+        {
+          "title": "Election 2026: How Democrats could win the House, how Republicans could hold on - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbXc0cHY0LWFXVjdaalpUUHlZUmlzYUdGbzZvSm1VUG15T2l5Q3VxOUlZUC13eEtnQTVXcy16RHRhNWQ3U3FMV2luc1dqbE5uVUZ0eW9xb0NlTXhDSnVwUjZpakNXTEQ5cUt4VU5TRTRyS1NhbmhMSUl1dF9JQnpGWk54MUJMTHVMam9BeV9TRzRDbjZxakVKaDNoSWt0U1F3RW1zeUdYNUpsTzItX1FqSDVRNA?oc=5",
+          "source": "NBC News",
+          "pubDate": "Sat, 24 Oct 2026 09:00:42 GMT"
+        },
+        {
+          "title": "‘Change is in the air’: Obama praises El-Sayed and attacks Trump at Michigan rally – as it happened - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMDQyQmJLQlNpcEhrVE4teUxyaVByQ18xV1YyZVRIdWt4VEN3dHFRaWQ0MlBfMEJ6Y0pBYm5meHFmeWVfaWVxc0xNUFVYb3FNdkhJajFsYmpEY3JXV1VGZEJScUd4UWNXU1dOTkNfMkl2Z3ViS1kyLXlNdUJ3UkNScUIxYjMzWUwwVEU0XzE1cHdSemxYZVVHTFUwR2p1WHFOX2FjWE82MUNzbUdhdTlr?oc=5",
+          "source": "The Guardian",
+          "pubDate": "Sat, 24 Oct 2026 23:53:19 GMT"
         },
         {
           "title": "Five takeaways from Trump's midterm campaign rallies - Reuters",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOWRrT1lOLWc2TVVFRWZhbENyYUE4ZVlBWHBLLXFHNHhjczlTellOcG9GdUpCaVNZNk9mMFdkSzJqMjdXcFhOSGJGWDJ5Njd6NDhOYkRzYzRzaF9UVE95X0IyR28xbHd2WW1VTXBCV1FrTDdwR092bm9jTHJlMm9acmEzQUJSQ1VaVFBiWW1SWWdwZ1Zna3c?oc=5",
           "source": "Reuters",
-          "pubDate": "Sat, 24 Oct 2026 17:41:12 GMT"
+          "pubDate": "Sat, 24 Oct 2026 10:06:00 GMT"
         },
         {
-          "title": "‘Change is in the air’: Obama praises El-Sayed and attacks Trump at Michigan rally – US politics live - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMDQyQmJLQlNpcEhrVE4teUxyaVByQ18xV1YyZVRIdWt4VEN3dHFRaWQ0MlBfMEJ6Y0pBYm5meHFmeWVfaWVxc0xNUFVYb3FNdkhJajFsYmpEY3JXV1VGZEJScUd4UWNXU1dOTkNfMkl2Z3ViS1kyLXlNdUJ3UkNScUIxYjMzWUwwVEU0XzE1cHdSemxYZVVHTFUwR2p1WHFOX2FjWE82MUNzbUdhdTlr?oc=5",
-          "source": "The Guardian",
-          "pubDate": "Sat, 24 Oct 2026 20:02:00 GMT"
+          "title": "Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNmpMTzVMV0M5WU04b2s2LW1QeWlLWVVSdnRJQ2xQeW9WeVdXVjZYVkVwVFgzWTd5U25HZHJ4VFFIb0xfZDBrOVNJYzVsWndCcmhfdEkycExMaVoxelNzcWtuTWhxdjFKWVZxeVhGemVZdi0wNjBaX1pwdWE0aTBOS1gtUlNUcjRwRXNzcXNkdnF6ZDlrTFBJejVCQ1kwUGRjQWQ2MTNHai10OUlhQ29TdFNn0gG3AUFVX3lxTE9zVTVQVDdCLWlial92eERzejVzYnlMSnRwdTRiOFd5WTZCcFE2VnVabkJYOFNwV0NQRl90a0R1ZllSc2NDUDdPLVd3bXBUV0dLcU01a0MzbVhNVUlHczgzUTlYOW95YkZFVVdFOW8zVmROUUN0alc1aTZzRnNuTUxZcHg1a1VTQktVYkNhSTBNMzZiampRSUFtbjBFaDBSZURlVDBiYnh4MjBBRDNuYlVNTnpPcVdJaw?oc=5",
+          "source": "Al Jazeera",
+          "pubDate": "Sun, 25 Oct 2026 08:51:07 GMT"
         },
         {
-          "title": "Russia steps up election influence efforts in final stretch of midterms - NPR",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNVhySDFjSFpxMVRpMTByb0g2X0RYNGVPRUsxa0VCd0F1bDlqUjRjMjVUWjVJa2RjTVlCT3VWallYX0tWYlJCZi11aDNYSzhzdi1ZaWxwU1JKQWpFQlBDU3RXRkFqTmNESUVVTzAxbTZEWkN2ZTFkb1E1S3J0Y3NXcHhIaktqdw?oc=5",
-          "source": "NPR",
-          "pubDate": "Fri, 23 Oct 2026 21:40:02 GMT"
-        },
-        {
-          "title": "Trump in Georgia, Michigan this weekend ahead of 2026 midterm elections - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ00wenlReXBCS29LaEZjOG9ibkJPOTlfRVlidFZGMTkwNzNIUDg3dXN1aUYtNk5QX0VLSUFpaXMyWmJ4TDR3T25FWlVodUdlMjlsZF9zcDVtMDFwYkE3QlJQRmRVMjlaM2FaWU5oaGJUX0gtWmZtRjJmQWpSc0FKTFJaU0h0ZnpvcWpXS1BLS1pZblZRNEd6OUFqaw?oc=5",
-          "source": "Fox News",
-          "pubDate": "Sat, 24 Oct 2026 22:05:59 GMT"
+          "title": "Former U.S. Vice President Kamala Harris blasts Trump in New Hampshire ahead of midterm elections - AP News",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTGFBTnRJVnlGRkgzaE0zeXB3RDRnLUFPR0FTTUdmUFEwUl9FX3ZZNkg1UFcwV0hKSzVFa1J3R2djOGhKSlFyM1FiRzR5ek9IUWFhZmhlRHdwQ0w0Z1JGRjVmZmVVSW54MkwzN1VKNWV3a1hHZ1ZKdTZ3cnhyQldPME9rMElsN2ZteGxwYjVUTXZLcXRFT19URWNmaUNUNW01UDgxa0lrWF9IUmVTejF2enlWN0pEMjkzT09aakhsdGlOcW41c01ueXFPZW5TUEZQWU41M0lRd2UzeXFMUHdNUTJfb1hXY2NGeFE?oc=5",
+          "source": "AP News",
+          "pubDate": "Sun, 25 Oct 2026 04:21:00 GMT"
         },
         {
           "title": "American embassies tighten security as Iran threat warnings intensify ahead of U.S. midterm elections - CNBC",
@@ -795,28 +807,16 @@
           "pubDate": "Sat, 24 Oct 2026 15:44:53 GMT"
         },
         {
-          "title": "Trump casts his midterm ballot early in Florida - PBS",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQclNDUVhjbU1GT2NoUUNQY2RKOGs0eU5FeDd0WWRJeGN2dGI1cUNCanNacXNwY2ZkZEQwU2JGRHdpbkZXQ1AwLU51aTlXTVVwNHotQXJMTGtna2I4VGt5dzc0NzVRbWQydElsUWljbGd0bUVPSDh5UnNiUWpxcmJSVlY0cGV4Y2psZy1vbEtB?oc=5",
-          "source": "PBS",
-          "pubDate": "Sat, 24 Oct 2026 21:29:15 GMT"
-        },
-        {
-          "title": "Has Vivek Ramaswamy’s attack ad against Amy Acton backfired? - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaVZjeExDU2Q0T0tmNmd0UVV5MUhjY21UT0VIa0NITkJsLWFmcjFFajJuZjd5dUJsdXd3VzBHcDNfa1pMSnVvczlxa001MFc3RW5GSmVaTk1JbGlyaFE0Yk1VSE5NQ0dFRkxGLTEyZUY4c1p1ZUdzRXV4TEJnYmRHMTBlQnpDOTRWZktVQjVzMHJyWDR6T2J2QjZRMHZLNDdxemfSAacBQVVfeXFMT2M0YUpoS1FsNWlZWHVGWFJQY1gtNGotU25WandwUjF0aVNDTjZFVW5ZOERpYVFsZGxiZnNYUDVPUC00dDYxeUtrUTB0aHVvZjNTY0dKSlg2VW5CTFZlSm9UT0VYbWdPQ2dFSnBRX2JTWW9vM0tHcVBEaVhQM2RtRERrNDRIMERFaU5NMW05eHhEZ0JybzNkYlo1eGRmZ0lFNDBfVF9JRkE?oc=5",
-          "source": "Al Jazeera",
-          "pubDate": "Sat, 24 Oct 2026 06:36:08 GMT"
-        },
-        {
-          "title": "Election Dispatches: Eyeing Return to Power, Democrats Are Crafting a Plan to Dismantle Trump’s Agenda - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IeTY1c1U5Sy0wanVaTEJvNUZUdFd4N21UV2ZKbDVuZFdrcllWTHRYUGoyWlhySUljZkVSRC1VTUVkRG1IOUxIUUcxMFh0V2FRRTc5UVpucU8zcVdDa25ob2pTWlVrd0g1SG9qS1ZEd1k0M3ZK?oc=5",
-          "source": "The New York Times",
-          "pubDate": "Sat, 24 Oct 2026 16:44:00 GMT"
-        },
-        {
           "title": "Midterms 2026: Congress Polls and More - NBC News",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qM2xEd3lHR1dpU2xwT1JLcDEyUXlVS0xaeGptQzlscXNJSHc1VVVXQnZpY2FfN0NYdlFLMGZfWW9SSDFLT3NQVEF5cDlKZUlaVGNmZW5VUlR6LXI1MGtGeHJZWU1icGs?oc=5",
           "source": "NBC News",
           "pubDate": "Fri, 23 Oct 2026 21:52:10 GMT"
+        },
+        {
+          "title": "What you need to know about the 2026 US midterm elections - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb25zakJSUXdaWnMxY0VpS2s4X2tGOGdVNGZwdHYzUGpzUVVhZzNsNjc5SUZ2aFRLUFhPbGNLYWE5dEtDN3piWl9MS1RibnFGcFlnNm00OWlZeWxZeVh2WnFyWDhfdE9yWDJtTGdsWFFYSk1lVWtQNGRMOWFtaHV2WkthSExabUNLeFRHaThYRWYwUTRpd1l5YVhhbw?oc=5",
+          "source": "Reuters",
+          "pubDate": "Fri, 23 Oct 2026 07:00:00 GMT"
         }
       ],
       "error": null
@@ -829,10 +829,16 @@
       "feedUrl": null,
       "items": [
         {
-          "title": "Best Polar Express Train Rides and Christmas Trains Near Chicago in 2026 - Mommy Poppins",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNnJUcW9hUTRERjlqY3VsSVU0cW9qRTUxcTB2LUpHdmRZREY2WWFzRVBFVHJGWk1TY2ptSmFvaE1VWlp4RlBpTWRXaGZvTk9qVTE1VWlfcjZEY3VVNk9YT3ZXeS1mdmoxekNQUUNLZTNyQ3JscTJlajlVLW9Wc1lteXFJSHpQZUJLT2F3?oc=5",
-          "source": "Mommy Poppins",
-          "pubDate": "Sun, 18 Oct 2026 07:00:00 GMT"
+          "title": "Trick-or-Treat, Trunk-or-Treat events in McHenry County - Shaw Local",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUWZKUi1Zd19Ec3VDYlZNdXBUQkJicGozaVlGQVIybzE4b1Y4ZUdCQnBkZlRyY2phUkpBVnJodTRsX0JQRkFhdzlxb3lhSlkxdlBBYXNLVEhKNkRZdWVvNFZSNllRMERma3pKWENVaGdVbjZoa0ZVMW1nNEZFTmdqdkQyaFBYY1BCQzlDSEJ6c3JUWUZOQVBkUU9VZmo1aTRiZWxn?oc=5",
+          "source": "Shaw Local",
+          "pubDate": "Thu, 22 Oct 2026 16:30:00 GMT"
+        },
+        {
+          "title": "Celebrate Halloween at these adults-only events in northern Illinois - Shaw Local",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdWx4VW95SHJ0cEp0OXRCODNVV0xXMW5PMjFLZUE5NU5sTzNHcFpHMDRqNTRqY295V3liMmhzNjZGVEdmdHlUMEhuZWc2aC1uQ09QR2w2QTV1cFM2MXB3bXNtem9PcEt5aFdmcWpvTS0wMVlTcWNBM1Mzb3hCOVd1R0JFRXVoMklwbmVCMXlnbURzdjFvaGE1TW15Rm9uNERjSmRVSGxFdXZORXNRWjF3cnZfY2Jhdw?oc=5",
+          "source": "Shaw Local",
+          "pubDate": "Mon, 19 Oct 2026 13:30:00 GMT"
         }
       ],
       "error": null
