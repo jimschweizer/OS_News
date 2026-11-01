@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T01:18:12.233Z",
+  "generatedAt": "2026-11-01T17:04:00.740Z",
   "topics": [
     {
       "id": "headlines",
@@ -7,81 +7,8 @@
       "category": "Headlines",
       "query": null,
       "feedUrl": null,
-      "items": [
-        {
-          "title": "2026 Elections Live Updates: Candidates Campaign in Battleground States on Final Weekend - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YR1owcUlLb3d1ajhFeWJacmU2aXAwV1g2Uk9aUjhtNFFNSlRSMXFxR2RCaWlIUWZ5M0w2M2kwODVndGNuSFdUangydkM0b0p5WERGOFY5QjZtSzNnYnhZTFd5NW1yZ2d6amJwMk9sdll6ZXdQeWc?oc=5",
-          "source": "The New York Times",
-          "pubDate": "Sun, 01 Nov 2026 01:13:13 GMT"
-        },
-        {
-          "title": "Virginia and D.C. sue to block construction of Trump arch - NPR",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9uUFZpekxGX1haSlJXNUMzU29KaUF1WTFzQm9wMGk3TlVCQklydzFxakRnV2xSZkk2dkFIQTF3aTNKVjhnTFY5dG5CLVJNeHJfUGIxcHFXQ3VDT19rcTVwUk5sTGx6aHUxVzFKZ2xmX0dON2lELTlFNmZGNA?oc=5",
-          "source": "NPR",
-          "pubDate": "Sat, 31 Oct 2026 22:48:51 GMT"
-        },
-        {
-          "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxZU9vVXZSbnhhckxtakdBUm90QXBOVWFQYnp1dnhGMzl1WjkxTkNyMWF0MXZhaGRRRmNPZzA4Z29UTDFpMlZzS3pRXzZUdkdyeEdNamEwR0RZeUE?oc=5",
-          "source": "BBC",
-          "pubDate": "Sat, 31 Oct 2026 17:53:35 GMT"
-        },
-        {
-          "title": "Judge dismisses Trump’s $10 billion defamation suit over Jeffrey Epstein birthday card story - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMUkxektEQ2ZqMGwwVGJpb1dEa1AzSnZCWDJXVGJ6dzJyNlAtQWJmb043N0JBbVpDdFBISHRaNnBjd0ZGQWZJcExncDY2ZkdnQTRqbjZfV3VPb0JiRmxjV3VWcjZIQmZweHZvYXBYdUVOLTYzbWUwUl9LV2xBUWRaMmRXcUt4RnhXWHFwOXNsdEdNU0YzOFZvYjBuUk9JRmRmcUdtaURUVk1Uc29pM2JtUThDSW8zaEh6dDdUbmhGbDk1ZE0?oc=5",
-          "source": "NBC News",
-          "pubDate": "Sat, 31 Oct 2026 21:09:34 GMT"
-        },
-        {
-          "title": "Iran's leader says response to attack would have no 'geographic limits,' and other Mideast news - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcC1sSkxtLWVVWVpCXzVQc1pIeHhrdnBEYkY1ZjZmQjQtZE9CdWNOdkFPalphUHVmWTJ0dk1NUUNtX2Y4RVJ1U0FQZ21BM1VkQTFUOU1IVHNRd2kwMGs4c0VqUG81X2hRbVlvU0NCOFRiYjR4TDdhajltTmRRazJBbUotYUs3Q3o0aEg4UDBONEhodw?oc=5",
-          "source": "AP News",
-          "pubDate": "Sat, 31 Oct 2026 21:25:00 GMT"
-        },
-        {
-          "title": "Hundreds of Thousands Join Another Round of Protests in France - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLVpZYzZlRmU2d3VWb1JHXzd4MThSUlRfVmt1NzVPVWhEWEcwOFN2dU9oT1hSMkFodG90UEdkdFNldU45Tkx0Q3c4N1U5U0kzWmpPRExqcEltempmN2hLUXZXUmJITHdvOVRQQU4xazFzVlp5MnZxeTRMYUVIek5aNi1pSWktUQ?oc=5",
-          "source": "The New York Times",
-          "pubDate": "Sat, 31 Oct 2026 21:00:33 GMT"
-        },
-        {
-          "title": "Judge orders Trump administration to stop threatening election officials with criminal charges - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbHZKXzBNZ1cxYks4SkZHTkdyY2FhaEdsNjJVN1hPTW00ejE1QlZ5c2wwbXRpeVdqLTFhWEV6WFZfLUQ3MHJPaWQ3aG5OVEF1QmxSVG0zY2hlSlkwNU9BTDVBRTJ1VlZIZ29LdThnZFBSVV9vekY5cUNkMHlQWGprMFlhM0dNanVnczdkVlNOdUpqckRKMmxrd1gwbi1tUTE2bTdjZ0RtSUk4V05MWmRTdmVGUkVwU2xFRWx1eGtXRHYyRnVERlE?oc=5",
-          "source": "NBC News",
-          "pubDate": "Sat, 31 Oct 2026 23:06:00 GMT"
-        },
-        {
-          "title": "Fairfield mass shooting: Pregnant woman killed, 6 others hurt at Spirit Halloween store - San Francisco Chronicle",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcC10Yzdtb0w4X0hKWjhHdFhrdzRzSllzbTRUd0o2T0p4Ym93aVh1ZnVGRFhJVW15TUNwODFscmhTM3BkQzdNVmhzQ2laZ29vbHhSa0FtbWt4aW5HUU9RU0ZKNE92ejI1dmZmcnBBNmR6eFBPZDJRY25mOGRDU2E0Uk82aHd4ZXl3b081blF1cC1SUnFuWFlBODI1RTQ?oc=5",
-          "source": "San Francisco Chronicle",
-          "pubDate": "Sat, 31 Oct 2026 22:46:18 GMT"
-        },
-        {
-          "title": "More than 50m Americans cast ballots in early voting with three days to go before midterms - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZRW5KXzBNUjlTZVEyeXRfM1R6MFltRXhuYlNCRnMtS19aN3ZmZlhad2VmOFBXaEQzdkhFaVBpWi1mUnVhNWFoVE1TdnNqc1BoSFpvRmp3Yy1YajAwS1o0aEp4NVA2WnIyajlTYlhEcFZPcTltNUt3Tg?oc=5",
-          "source": "The Guardian",
-          "pubDate": "Sat, 31 Oct 2026 16:13:35 GMT"
-        },
-        {
-          "title": "FBI visits Dan J. Sullivan donor in candidate’s hometown as Alaska Senate inquiry widens - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRV9KLUhEZ0cwNXhZaFZjbnNSVFdwZW5WdHp0NFZhYUtSNnpaNUVwd3h3TVd5eVBMNHIyNlBoRjFpeUMtaEtVTEYzcU5WMl9VTTZLY0xrYW5PRkNoc05sdU5QRHBCVUVXb0YyQ1ZUangwTHZLUWloaWRuOVVOLWVxbjh5UHhWZk5JTUtsRFY2MEFEV1pmT0J6UDNFWHNDQ3V2WVplcjA1UUo5S2NYalE?oc=5",
-          "source": "AP News",
-          "pubDate": "Sat, 31 Oct 2026 19:20:00 GMT"
-        },
-        {
-          "title": "Tusk defends overhaul of Poland’s constitutional court despite protests - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN2tCSVYwNXlmVktrRkpCNWM3UVVoRzVUWlhtVElmUllrbWlhZjIxcXV3MUNDTmVEM1lQLU9qWWtOOWNOaC1BYmN5RTdNMDY2dzJ0STYzNG1mQy1FS3ltbnliY0lKREtiVWNMWVN4NnJtYzlnek5qUFZfbFlSbzNXWUJHRjliVF9tbG51d0x0NjJuQlRpNjVzSWNFdXBLY0xqOTN4Ymo1LWRhV3ZqOFBuWGhaM0U1aVdXOVVz?oc=5",
-          "source": "The Guardian",
-          "pubDate": "Sat, 31 Oct 2026 22:57:00 GMT"
-        },
-        {
-          "title": "Thousands return to Lisbon square, press government to scrap rental bill - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQWVvNnVKTGlkcFRNcmpqWmZlaUNuVXJZU1p3bi1QRDdSbWtHQ082NmdqV3RwZlVobm50NE1JRVljYjc0WXlYdG44V2p1bFJVTTZPUUhxcXM4emlfV3pQdmFIeG9hVGZGZ09mOW05c05hTTFHYzgyWmhiUlhfc3FVNzFhWDFKXzJiRFlJZUdxQmV6SFZIb0RkSERTRklwamlkekYxZjZ5RDZMYWtyR2lRQ0J3eHQ?oc=5",
-          "source": "Reuters",
-          "pubDate": "Sat, 31 Oct 2026 21:22:49 GMT"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 503"
     },
     {
       "id": "ai-tech",
@@ -89,81 +16,8 @@
       "category": "Tech & Science",
       "query": "artificial intelligence technology",
       "feedUrl": null,
-      "items": [
-        {
-          "title": "In San Francisco’s A.I. Boom, a First Date Has Become an Interview - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNGVSMFZpNnEzZEFzNmN2NWptMnZMaW9UazBTWDBLcVJyVWpjR0ZDU04zdTZNM2Q4NHNoYi1iMkNfclBWY0lXb1RfNXYtUkIwOEhBQWQ5SlE5MVB4czZoa1c2akY2dXB1Zi1iRFVWV0kyZTFUVXc5cFFZR29xcmdWY0NWZ1QyUQ?oc=5",
-          "source": "The New York Times",
-          "pubDate": "Sat, 31 Oct 2026 09:00:54 GMT"
-        },
-        {
-          "title": "Technology governance scholar Gillian Hadfield on AI safety and security - Johns Hopkins University",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4weFJPWi1hQ3Y5UlZTakM4ODAzdU9jbWJhaEJVdk9NZU82UnM2QlQyZUxzWFg0QlRhUzJYVlplb1d1Sm1oZFU3aGVCY2hFb3BrSlc3akRra2dPYTc4UVNwMXJqVTV6WXEyMXFkdHM5dUNjV2s0TlE?oc=5",
-          "source": "Johns Hopkins University",
-          "pubDate": "Fri, 30 Oct 2026 00:14:25 GMT"
-        },
-        {
-          "title": "Cracks are emerging in the AI spending boom - TechCrunch",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN3RLejV2bml3REY1cnN2SUpGQV9VOEpKT2FDVUxhcEVESm5PNE1xdEZqTHJ6QUJIY2NIWGNOdXZVZmRXZFFfcko0X19lVE8yUTkwUlVfODdpV1FUTVdIQU9fQ1FaeW5RdENzZlIzUWhZQjJYY2htMlVBWjRseVQwM3hxRHE?oc=5",
-          "source": "TechCrunch",
-          "pubDate": "Fri, 30 Oct 2026 21:17:40 GMT"
-        },
-        {
-          "title": "US tech stocks see sharp falls as AI spending nears $1tn - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LRGZ0dDQ2aWVISHY4QklKd1JLZkRkRHhiRUNRWWhKbTdvTFo4TC0tNnI2cG01dGhBR3VzUjZlQVJPSWdOeG1Wc29fQ19qRWtlQkxqX3kyX0NFVlItb0E?oc=5",
-          "source": "BBC",
-          "pubDate": "Fri, 30 Oct 2026 14:50:37 GMT"
-        },
-        {
-          "title": "Analysis | Worried about a new wave of AI hacks? Take these steps right now. - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLTU3RC1zMk92Nzc4NnpGQW5ReE9mT3dFTTdobk1tSnZxUDNwX3Q1SHNuTFFGMXF5QWU4Y28yNHdEOGtuYjdFY3VwbkZWZm4xbEI5SzBIeFlnRU95RjJEY0VoRW1GRjdTRHdGalJHeUp5N3B1REJGWVZLNjhGVEphSG1VOVY2RGRqeTFSLXRrbzFaZ29xbHpqaEpWQkVVMVVob2JxUXo5b1otQlBZRXpaY3VR?oc=5",
-          "source": "The Washington Post",
-          "pubDate": "Thu, 29 Oct 2026 16:00:00 GMT"
-        },
-        {
-          "title": "AI’s real bottleneck is electricity. Who will pay for it? - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWFk0cW15cnpHMGtuQXRIV3hvY0dnTEV3emYyWGRNRXVndGI2T1hDcnVUVmxrUlB6WDhINk1WUHdQeDY4LXE3NnhCQ3gydjltRXcwTTRmWE91RFFRN0hlaExjLXRQODFQX1ZYV00yczM1ejk5Q2pvdGNkcUM4Y2FGb0ZTd3l1Y3VTSUNhRndSZ211SjJKM1pXaHhudzNOaEZwZVHSAacBQVVfeXFMTk00eFBoNjZMMjEwOWEzQVZPdDZ0TjQ3RWh1N3ptT3k2cW80ODFoSkQwNnllTDhpcEhHb2hETzZyWUs2TTlwMHZmQjE3MW1FYXl2VVd1REwyTlp5RUwtcWV0TWl2a3VCU1EwaFVBbmNjV1lwY1psang0OW1Pa1R5ekhnWU1MWnI2bXR2Z0FJQzhSQTVUUTI1bFdyOWlHdzlHT2d0UDNrS0U?oc=5",
-          "source": "Al Jazeera",
-          "pubDate": "Fri, 30 Oct 2026 07:18:17 GMT"
-        },
-        {
-          "title": "COMMENTARY: AI’s rewiring of US warfare may be only the beginning - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRkQ0Yk1sYXhtUVJUYmt6NzlmMTBMUmhURDNGbjVWTkctZF9wZ0dmZENrVUJhZHdpaWE5QVQyNDRRRTJWVjlDMzRhNER0eFQwRDIzeHpIN1d5OEhPT1RGUXZ5OE9NZ3pCREgzclV6VGFMMTNwc3R0bnVEUkpaRFRJSm8xU0FPYjdWbEZiTjVXN1ZwekJqcXd4emlndmZxMURwTTdpdFJwOFVLXzdxcXdwNXEzZmtTbnM?oc=5",
-          "source": "Reuters",
-          "pubDate": "Fri, 30 Oct 2026 09:11:13 GMT"
-        },
-        {
-          "title": "Vatican hosts dialogue on AI and human dignity - Vatican News",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWUhYYlNxeVYyNVNNVUV2U0hUSXlnZ0paSnFNVUZNWlVhQS02WnkwbTB6QWlRWl9SdUZOZnlFRHQxV1JHY2dOMUlGa1g3YkRKSlRWN21JQUxhUExWQWU4Qmg5VmkzV1hiTE43V21xM3Q3RGttUU5UVlA0QjhQLW40S1FUc25lcDh5eHBUV2d0YTdmVE8zZUlLaFU4YmxCVDR5YUJTWmZIOWNrQjV0a281TW9KNTFlUG91aDdWWnplT0RxVVk?oc=5",
-          "source": "Vatican News",
-          "pubDate": "Fri, 30 Oct 2026 15:05:08 GMT"
-        },
-        {
-          "title": "Credit where it’s due to AI for uncovering the PHP flaw – and discredit to the leaker | Letters - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbFRvTWM2UTdmckk0YXBIUTNxTHcwWTFVZHJRbVFJb0htRlJlQURCYUphTW5uUEtLTHBEVjZFQjVIUUVrRmpVd2hZaGJIeUoweWc5clU5UF9adTY1bUpQNXNQdW1nQlNLcmVMdE9tckJGaThWcnZfR2NzVnAxa2Rmb1Zld1FsbGloNkFKU1ZjYmtBWFludjU0VzdEZXp6eVl1NVdBUE9pX1FTRUVySEo0TnZUNkYwNzQzUVVjSGxwbkhDM3JVQ01rQ2tYRXhUUQ?oc=5",
-          "source": "The Guardian",
-          "pubDate": "Fri, 30 Oct 2026 17:11:00 GMT"
-        },
-        {
-          "title": "Could AI ever build itself? Scientists map the road to the 'last AI built by humans.' - Live Science",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX09fOVd0SzBzZ191UlluSnJ2SktGUi1sdXVOOFBiR3hJN0lnVVZtcDF2dlYxQnBnNkN5VVBzaWdadENxbndMb0x5YThKMFgxZEtFWVZiWkYybzFqXzMyR3hORzRDXzBBWE84RkRpNXVLV1h2aHlvMjJKWjR4a2NFTHRKMnpZU2FyT05rdDBJOWRscE54ZzdjOVR3NmJoX24wQVFoamFlcWpNV3FYdFI4ZTdVVzN0Z3NaUjlCSlBBRGc3Yk1sMTFla1dRa1ozVTdnMVIzWDZKSElYV1lT?oc=5",
-          "source": "Live Science",
-          "pubDate": "Fri, 30 Oct 2026 10:00:00 GMT"
-        },
-        {
-          "title": "Chelan considers rules for AI use, public records and data privacy - Lake Chelan Mirror",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVUpRQklKTXNJOWdCcWdHakRYa19GZm9aUnBmVmlqd05OZUZWemM1dGx4ZENIazV0WXNEY0x5MDlFUUtZVU9BbVJVODJ3WUZzSXI1US1OMTItbm55ZFc1S1llcWw5dFZYOGNEckl5N0hpY19jX0ZQUFZSc1lMSXRHbjRtY19pNV92YUtISll0UDc4VVl5ZUlVYVhzS0hXeTM4X1d3R3BDUHl1WGFpaFZMZW5n?oc=5",
-          "source": "Lake Chelan Mirror",
-          "pubDate": "Sat, 31 Oct 2026 21:48:35 GMT"
-        },
-        {
-          "title": "Super Intelligence - NASA (.gov)",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LNDdCUDJLUjJFbjJuNXNwbWgyMjFJRkg0a2MzR25XNFBWb1U2WUh6QWRNMXRWd1JqXy1RVzhhSTVIVlNCOWhCSGVzdFVOcUw1bnc?oc=5",
-          "source": "NASA (.gov)",
-          "pubDate": "Fri, 30 Oct 2026 15:34:50 GMT"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 503"
     },
     {
       "id": "quantum-computer",
@@ -171,81 +25,8 @@
       "category": "Tech & Science",
       "query": "quantum computer OR quantum computing",
       "feedUrl": null,
-      "items": [
-        {
-          "title": "Foxconn Aims to Become World’s Largest Quantum Computer Manufacturer - The Quantum Insider",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZno1YWJDODBvS0ZKTnRrdUxqYzlabDgwV3d2MjFVVllKVXNsMFZaUE1fdGp0TTB2RE1QWHlxSEhibW1va0JHSXBOOHpaNzBsTTE1Mk9lalRBX1ZQWnJyNDhZSkRNendKRUkyc1JsRFo0UlJPODFuT29QTzBjN3E1MGZiWXhHZTZNdWd4aG1mUXRZTFhTQ0g1STB1SFdMUUk3OVFaajVOTldBd2c4Q1E?oc=5",
-          "source": "The Quantum Insider",
-          "pubDate": "Fri, 30 Oct 2026 11:42:36 GMT"
-        },
-        {
-          "title": "Prediction: This Is the Quantum Computing Stock Most Likely to Still Be Standing in 2030 - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZV9rSkJ3OG5rSWVzNGtXenEzZ1RIWHhxOUNtMVhmdzFLdE8waW5UajNBVHlYclNwYzJIWlRhdHVDRTFpbFU0MkVBcW5OUnBtWHpfNzFDVWZIa2ZUVXZuRU9WSzY0VkZkTE5uVzZZQW9FVVVfc2NrZXRxU0JlQ3kzTXVqeENjeGZjZjdjcjJGbVM3T1pGejR3QQ?oc=5",
-          "source": "The Motley Fool",
-          "pubDate": "Fri, 30 Oct 2026 23:00:00 GMT"
-        },
-        {
-          "title": "Exclusive / Quantum computing company’s first breakthrough is in AI data centers - Semafor",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcW5tMVlHTlNDOUkxOFA3em9oczRoMHlHSVFJZXFSZkNvQURoYkV4N0FONkJCbUVwTkh0U2lGVGhQNWpYN1VpVXhFS3lKZTVhcDBrUDh0b2JJWXQyZFBGRkRYRE1tR19VMk8yeG1rYWpSaFE3YTFsWmNyZzZlQm1lNHREelVLUnBpX0lVV2V5SXJyZFlEYWxnUHphUWZxV0xERzlyMGs2TlZESUE1WkVj?oc=5",
-          "source": "Semafor",
-          "pubDate": "Wed, 28 Oct 2026 17:36:00 GMT"
-        },
-        {
-          "title": "3 Quantum Computing Stocks to Buy Before They Soar in 2027 - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYnExN3prRkhMMnA5NXBkRnNJTldfUG1rS19vN2xFQ0hrYi1qb0dCQ2x6WUVlbEtZUkNrUDJ0NnNvcUdtZWV5TWx3S0xBQTNMWnFDc2l3aDNKalV6MU1oMTBvc2NVUGJ3TlVSSnBQYWUtUmwyVHk1bWdIRGhPT2pzSzVjeGtCQmRsWUJMeDBNS3J6ejdreUdHUw?oc=5",
-          "source": "The Motley Fool",
-          "pubDate": "Thu, 29 Oct 2026 18:20:00 GMT"
-        },
-        {
-          "title": "Scientists overcome a hidden obstacle to more powerful quantum computers - Science Daily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03SVJvWGMwdU8tRkYzR3Nsalk5UnF4SDVHWE83N29HdzY2cklfb0hldU8tTVYxNXV4SlQtUFVSWEQ4SUlPUTV2QnNyWlJVVlh6azJKcFdwZWN5X1VpaW81SkVCUzZnYmZOQU40ZURNVQ?oc=5",
-          "source": "Science Daily",
-          "pubDate": "Mon, 26 Oct 2026 01:44:20 GMT"
-        },
-        {
-          "title": "Modular quantum computing takes shape with l-couplers - IBM",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNy1wZmxfNDFvaEVvUFpqQy1uMTh4OURMYllJT0luODJKelZvR0Q0YU5aOWhsUFNwNy1MbWFGNFFoXzF6bU5ySmtjbTZwWl9BY1cyRGpPMEV6TV9vM1M3clc2cm8xQmx0ZjcxTDRsVUZoRExfMGhxLTlMZDBUT2xHdHhyQlA?oc=5",
-          "source": "IBM",
-          "pubDate": "Tue, 27 Oct 2026 13:19:34 GMT"
-        },
-        {
-          "title": "Theoretical 30,000-qubit quantum machine threatens 6 million exposed bitcoin, researchers warn - CoinDesk",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeUplb0k5SFVvcUdGNXJ4N2pJLVBBcVM4YUo3YjJMVTZjdjlJN094cTNvUFlsZ1JXNWdnYmtRZUNnbTNWYjlNLUh0aXNpZEFDTndyYnR1TGtsVmhHUUpWNzN6N2ZRUUJaYVk3NDUtWHFkZmFfdWVXSXpRSy1UUlJFdkthbnRqek1PWXItd01FZVpqSDJHYWdFYjJHZE5WR2JYazJHOVZHbmdmQWJmTG1Ma1BnZ25VdFE?oc=5",
-          "source": "CoinDesk",
-          "pubDate": "Thu, 29 Oct 2026 13:55:42 GMT"
-        },
-        {
-          "title": "Los Alamos and QC Ware Model Correlated Iron Oxides Using Sample-Based Quantum Diagonalization on IBM Hardware - Quantum Computing Report",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWnkxTFhVRlVEamNCUVEtR08tcERYTXdRT3lOTkJ5WV9OSkVLVUlYQkt3TWMyYXBYaWxmZmJrNGJrODlCcmdwMFNjRTdrUnJYNXdwS2xya3ZIcTJYQ2xuQzZ1YW9fcTZzWGtfaGlTcmhuUERYMjB1dTA5SGVMZktFWHZURE02aWNBLU5Ecm9OZ3NmTjk1Sy1CblpLVF9MWWthNTRwdTZOb215ZUlhUUR3MXRRZVVEZ1ZtZjhpdE9XaVdUaFhmMkZ6aThpV2pFczZzNEZXSXZJZFJVSEpPZHRj0gHkAUFVX3lxTE51VUF4VUphdGxNTG4yQnA1Q3NsT2ZHYU1Ud3VwUHNVMThybk9JUTl0cGItMFJWenpUNFFRS3FmZThNQnJESkNwUk5ER3lVY0YxNmJOZjNnN3NCMDM0ZzhNLWJNRGdCeGZZUU5tVDVnUGx1VnVEMEdSdWlMdlBsdXBvU3FKOGExa016Wlh4eHo0bDlVeWFpbkJhVUdTNlViVDdOSnoxVUNGT3dXdFdCZEd0RGJIUFB1UU9naGdzdU1XSGRVS1R6Qm4wejlNTzNRSVZfU3ZRMDBqNE9uY2VlUklFU1lqcw?oc=5",
-          "source": "Quantum Computing Report",
-          "pubDate": "Sat, 31 Oct 2026 17:34:57 GMT"
-        },
-        {
-          "title": "Why Quantum Computing Risk Has Become A Board-Level Issue - Forbes",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcWhVSk1TbW9XZTNET2xtdUxtRGdUSlhyU0otb2pYSllkUnljOG9mZUF4WnRNU0xxSVVIMmVCUS1NYmRDYXNWMG9RLTVVZGR4TzFLRjRmUDNfcnRVS0RvbXpQU0hpS3dhakhzZGFTelNrZ2IyaDVXb1JhdmtyV1FBdWE1V1MtU2hwSEhYMGV1dFlCUXZRZGVyZWFuc1dQblMwNExDZF85RXo4OGw5N0E?oc=5",
-          "source": "Forbes",
-          "pubDate": "Fri, 30 Oct 2026 06:57:47 GMT"
-        },
-        {
-          "title": "Quantum algorithm targets wave simulations beyond the reach of supercomputers - Digital Journal",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQak9FQ0ZVTW9iQ241UnRGSmJUNVR1T0JuRGNRM3dGSjk3NzNILUQ1ZnBWSGdUMFNtZEY4QUQyZWxBamxIazR4VVVYOF9nc2FFeWRYN2U4UjdaVFYxcDhzVjRrWG9CX3dUdC1kNEtVSkxaSFJRMUh6TTE2TFZmVFhRZFRpcXNQeTZ3TlFVZFowZnFNQkRBNFJnTHRJTzFTZDY5QTJfUlVDSU1kNmM0bkNmSUM0UGQ3cmtp?oc=5",
-          "source": "Digital Journal",
-          "pubDate": "Sat, 31 Oct 2026 21:23:24 GMT"
-        },
-        {
-          "title": "Are These 3 Quantum Computing Stocks Worth Buying Before 2027? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN2Z6dkxnd0RwUk1QSDc5a0ZsRDdlbmlWTzR6UVdVWHZYNXZoZFNHbHRPMEZFQWNxekhWeUtLR09SWklKbkJoYU5ZWW1Ock1la2tTMkppT0FfMUlvLXhUcFNMSUdRWWQxYlN3QVhaSTdaN0ZXTVZBMl9hWDJfLWNrWGszVkpLa1o3aWNQV1RRVDF4UklVVnZxeHlRQXNsZw?oc=5",
-          "source": "Yahoo Finance",
-          "pubDate": "Sat, 31 Oct 2026 16:40:00 GMT"
-        },
-        {
-          "title": "Nobel duo makes sense of quantum’s ‘spooky’ world - University World News",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJUHFYVXY4eWcyMHpfVmNxd2F0R2s3TEt2ZU1xa0Z1cmh0R3JrSWtaamg3Wi15eFNkSndzRnFwdkNlQTRIaVVQZGtrNjdNZWFGWVBwSWc2b3JRbFN5OS1ydEI3RFdvZUZ0Y2xWYnNEaV9KWEZvZHFn?oc=5",
-          "source": "University World News",
-          "pubDate": "Sat, 31 Oct 2026 08:11:13 GMT"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 503"
     },
     {
       "id": "hacker-news",
@@ -255,10 +36,58 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "items": [
         {
+          "title": "Show HN: HackerBooks – HackerTube, but for books recommended on HN",
+          "link": "https://hackerbooks.org",
+          "source": "Hacker News",
+          "pubDate": "Sun, 01 Nov 2026 15:58:28 +0000"
+        },
+        {
+          "title": "Seoul Biosys Begins Production of Rare Earth-Free White Micro LEDs",
+          "link": "https://www.ajupress.com/view/20261028171670308",
+          "source": "Hacker News",
+          "pubDate": "Sun, 01 Nov 2026 16:23:26 +0000"
+        },
+        {
           "title": "HackerTube: YouTube built from videos recommended by HN",
           "link": "https://karpathy.bearblog.dev/hacker-tube/",
           "source": "Hacker News",
           "pubDate": "Sat, 31 Oct 2026 19:56:53 +0000"
+        },
+        {
+          "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
+          "link": "https://arxiv.org/abs/2610.39302",
+          "source": "Hacker News",
+          "pubDate": "Sun, 01 Nov 2026 13:24:49 +0000"
+        },
+        {
+          "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
+          "link": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
+          "source": "Hacker News",
+          "pubDate": "Sun, 01 Nov 2026 14:36:13 +0000"
+        },
+        {
+          "title": "Bidirectional Charging During Grid Outages",
+          "link": "https://www.jefftk.com/p/bidirectional-charging-during-grid-outages",
+          "source": "Hacker News",
+          "pubDate": "Sat, 31 Oct 2026 20:21:55 +0000"
+        },
+        {
+          "title": "Novellas with Groff",
+          "link": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
+          "source": "Hacker News",
+          "pubDate": "Sun, 01 Nov 2026 13:51:41 +0000"
+        },
+        {
+          "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+          "link": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+          "source": "Hacker News",
+          "pubDate": "Sun, 01 Nov 2026 14:34:43 +0000"
+        },
+        {
+          "title": "Copper – A minimal low-level programming language with OOP and generics",
+          "link": "https://tibleiz.net/copper/",
+          "source": "Hacker News",
+          "pubDate": "Fri, 30 Oct 2026 19:09:33 +0000"
         },
         {
           "title": "An Italian farmer found some unknown seeds in his attic and planted them",
@@ -267,64 +96,16 @@
           "pubDate": "Sat, 31 Oct 2026 22:41:06 +0000"
         },
         {
-          "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-          "link": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+          "title": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2",
+          "link": "https://kevs3d.co.uk/phoria2/",
           "source": "Hacker News",
-          "pubDate": "Sat, 31 Oct 2026 19:16:30 +0000"
+          "pubDate": "Sat, 31 Oct 2026 09:49:42 +0000"
         },
         {
-          "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-          "link": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+          "title": "One-minute frequency disturbances from synchronization in power systems",
+          "link": "https://www.nature.com/articles/s41560-026-02144-0",
           "source": "Hacker News",
-          "pubDate": "Sat, 31 Oct 2026 22:46:12 +0000"
-        },
-        {
-          "title": "Altoids Project",
-          "link": "https://uvdn7.github.io/altoids-project/",
-          "source": "Hacker News",
-          "pubDate": "Sat, 31 Oct 2026 22:54:55 +0000"
-        },
-        {
-          "title": "When electric cars were for women",
-          "link": "https://spectrum.ieee.org/early-electric-vehicles",
-          "source": "Hacker News",
-          "pubDate": "Sat, 31 Oct 2026 23:08:12 +0000"
-        },
-        {
-          "title": "It's the memory latency, stupid",
-          "link": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
-          "source": "Hacker News",
-          "pubDate": "Sat, 31 Oct 2026 18:38:16 +0000"
-        },
-        {
-          "title": "First response from the Project Suncatcher prototype satellite",
-          "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
-          "source": "Hacker News",
-          "pubDate": "Sat, 31 Oct 2026 03:54:00 +0000"
-        },
-        {
-          "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
-          "link": "https://piefed.world/post/1503394",
-          "source": "Hacker News",
-          "pubDate": "Sat, 31 Oct 2026 10:23:41 +0000"
-        },
-        {
-          "title": "Jepsen: ParticleDB 1.1.4",
-          "link": "https://jepsen.io/analyses/particledb-1.1.4",
-          "source": "Hacker News",
-          "pubDate": "Sat, 31 Oct 2026 13:39:52 +0000"
-        },
-        {
-          "title": "Surviving \"The Graduate\"",
-          "link": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
-          "source": "Hacker News",
-          "pubDate": "Sat, 31 Oct 2026 20:02:06 +0000"
-        },
-        {
-          "title": "The Duty of a Scholar",
-          "link": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
-          "source": "Hacker News",
-          "pubDate": "Sat, 31 Oct 2026 19:07:36 +0000"
+          "pubDate": "Sat, 31 Oct 2026 10:14:08 +0000"
         }
       ],
       "error": null
@@ -335,81 +116,8 @@
       "category": "Tech & Science",
       "query": "climate change",
       "feedUrl": null,
-      "items": [
-        {
-          "title": "William Nordhaus, Nobel laureate who integrated economics and climate change, devoted Yale citizen - YaleNews",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPalUtMDZtTzVZNWowYXRQLVh1TzVNc0VjNjJBQWxrZ0FjOEh4RjRET3cxdlJrRjNRUWlVaHdFbzViTHNPTnlYdDFaLVFvXzZ0anlxTXFVSl92dmlIVjZjc3ZGOVFSYU5ZMGNfdUh4VWlfd0lWWDIzcVdUczlzUDJKLWVEOGxuY0FJOUxMUUxaNjZaVVhzZUdVSUg2V1hMcm1hc2J1TXZxVXJXdUxwVlZ5a2ROVE02cU1LVk1NWXRn?oc=5",
-          "source": "YaleNews",
-          "pubDate": "Sat, 31 Oct 2026 09:00:06 GMT"
-        },
-        {
-          "title": "An 81-degree Halloween eve: When will the Triangle’s first freeze arrive? - WRAL",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSy1PNjNvZkNwVm4yRWc1ZUhjaHJmZnktN0xUMUlncTVvOVdTVllWTk9LZjE5SjRBZlBsQlRXbGhzZmNlRmVWTzlVMi1waUhaaUYxSzhaSkVPTXVFellSeURMZi0tYUpsOWx6b3NCWHJXbW1EbVB5RlVLM254RmxnMUttcHRTUkFxUnRwSy15MlBNdTRUekZfdzI2VXA5MFdqcmMxaFJKcTdrOF90eUE?oc=5",
-          "source": "WRAL",
-          "pubDate": "Fri, 30 Oct 2026 20:19:47 GMT"
-        },
-        {
-          "title": "Climate Change Is Teaching Us to Be Ready to Run - Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVTFWSjYzTlB0WGRmRXljRTZEMjhZYUpoRGVrRF9Icl9WRXlQcDVZVGlaV1FRci1hYjZCTzFXMkw2ZW9rU1hPcXE2eW1pRUQ2Y1VpSVhtSGxLS19vazJNWEROcVlCSGEwMHg4VkpTLURQV2l2Y3ZHSVM4Mk5EWWk1VXY0aUsyY2gzX090cjFwaW9ldF9DNUlQbWxSNTNiWjlHcmpDMm5BU0Q1TUhva24tRmRNM0NuUkU2bXJQYmtET0czdkE?oc=5",
-          "source": "Bloomberg.com",
-          "pubDate": "Fri, 30 Oct 2026 07:30:10 GMT"
-        },
-        {
-          "title": "How a Secret Vote by U.N. Scientists Legitimized Carbon Capture and Skewed Decades of Climate Policy - ProPublica",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdGdlYjR0bnBzVXFfSFBpbjNDVmY1YlU0S05yMzVSQlZCRmN4Y2liR29mSmZyQS1yYUZuLU1RdWNUUlkzVHhVNks2UGFBa05KbG5HUEItSnJCUWxzQjJpUHNvSHZNZDI3MmJiNUNoQzgxdktudzVnUjNEb0lUQVRIQUhTWUgwZmNvcFE?oc=5",
-          "source": "ProPublica",
-          "pubDate": "Fri, 30 Oct 2026 10:00:00 GMT"
-        },
-        {
-          "title": "Our climate models have a big, dangerous blind spot - MIT Technology Review",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdTBRY1hHa2ZZVWxKTnU0Y1dKRF8ydC1mQk9FUzRwSUp1bTVCUmNVWGhsQ3VPSEZDZlE4aUh4WHdieEZab0VWazNhakhObXR0SGhyTm1VMHBMbmIta0ZnYnhGWU1oT2tWQmJ4WUNuWjJXNVNfVU91Y1V4QkpSOGgwOUNkS07SAYoBQVVfeXFMTmgxdGFhcUxPajVxM3QtRXVzRUJfSHBHcEpBdWNfbW41ckF6ZTUwMFN0Q1RzMF9uUnRrUTY3Ml8yLWtDTFdEZFBFLUNaZzZuS0RUSkhXQlNTdTNPVk5LUURfS0l0ZzhmWW9VSnhhX1BoT21PTEVsaGdaT25wbVJ3MjNRWW1UX2hEWTln?oc=5",
-          "source": "MIT Technology Review",
-          "pubDate": "Thu, 29 Oct 2026 10:00:00 GMT"
-        },
-        {
-          "title": "Natural disasters, climate change increase threat from invasive species for Pacific islands - Big Island Now",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcFQxOEtHYmo0MVQ1a1d2dXNHd3ltalY2VE1ERmJpbjJPTlRrcF9PbzVBeUd0OXN0RGhKb0FVd0d3ekFTVzNMbTRJV0EwY2I3ZXpoVE80LVZRQUdpaGhoeklqcFYyZ3p3WmFZMjFMVkRueWhwY1cwaHpoenM5SEpQaGdCUjYxZ1RvY0lneGZVZTdHRHJSeFo1aGsyNUgxeEYyT1h2Vy15dUx5YmM2WDJrU0dJWmJ4T0N1MURZaVBUMHNpUVI5YVE?oc=5",
-          "source": "Big Island Now",
-          "pubDate": "Sat, 31 Oct 2026 15:00:00 GMT"
-        },
-        {
-          "title": "Massive sinkholes open up across Turkey as it struggles with drought and climate change - The Conversation",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa0twVTRGZFBOQUxWU0M3enJBOFZqalAzVWE0Vm1hbHhaU3lwVVdtU0JOOWRjVVZpRTZzOWR5VDNjREpjYnhtSTJOQnlKbk0wRk1HS1lsTUpwdE1yWTZZT1hDd2w3Y1FBYjFsbFhtTkV5UVIwZVpHMEtvTXNVdzhhUG1kckVIaUt6X1FFX1REaHFRcGdIdzh4RHpOYlZRUnIyRnlxd2lUeWtveXBBOUhscUE0Qlpid0ZCaXliWW5aSQ?oc=5",
-          "source": "The Conversation",
-          "pubDate": "Fri, 30 Oct 2026 13:13:12 GMT"
-        },
-        {
-          "title": "Scientists confirm global warming is accelerating faster than ever recorded - Science Daily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PX29pWUpRNUpiYXY3ZnVhSDFNdXpkU25pVUQxaU5ac1lldVVhUXVjWjh3b2NJd3I5aXpCOTFQeGFHcHVlVkZpa2IzSDZ2b2loRWJjRnhOTFZ1cC1neHdwa1hWaHphZ3llZWpHNXZObw?oc=5",
-          "source": "Science Daily",
-          "pubDate": "Fri, 30 Oct 2026 03:52:35 GMT"
-        },
-        {
-          "title": "Restraining order blocks probe into climate change claims from environmentalist groups - WCHS",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVHc0QnBfSGNDenl0QlByZXp5ZjhwSWdMQmhxYUJtUUFKZk1DYlprWFE4VTUwR0w4Tjg3TExUUE1WSGRldzlDYng3UGdGc0Y4NXZvcjMxUzJrblE3VVREUEJjTFNjdGwzYVZwTmdMdEo1ZWZKXzRnOHVRcFJDelg4TWM1dDJ1TFVxLVk3N1ptM3dOZHozN3NMUVZ1THh2d1N3a0RJZV80YlA4a2xlQ1FnR2U2Vmo2Vlk?oc=5",
-          "source": "WCHS",
-          "pubDate": "Fri, 30 Oct 2026 00:41:49 GMT"
-        },
-        {
-          "title": "Bjorn Lomborg: Climate change is a problem — not the end of the world - Financial Post",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUlk3UjhtbUVfcnpvUkNqM1dGdHRDbFFUeml1d0VXdjZma0Uyb1lXbFJQNnVVMmRYd1d4YmdsOWhQcF9Cc0l5T3ZGdVdEU1BUWTNNeGFzUGxwRVUzbUlocEJkcWdaTHFnWDZqeEdHV2N4Um00LVFHU09SdWJhMm9WaGk3SzRkV1hSNWF4XzZ5MWQtVkFTdHlTYlY0NXNXa1hoSmxqNk9LQ2R1T2M3cmJpZU5B?oc=5",
-          "source": "Financial Post",
-          "pubDate": "Sat, 31 Oct 2026 08:57:15 GMT"
-        },
-        {
-          "title": "Reversal of Antarctic Intermediate Water trends triggered by sea ice decline - Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02OUpUNTZrYmZkVnpHZGlmUEJJb0haT0pnc3daYmZKaC1lRkMwV3hlS0JrVHVaWUl4U1FRWUhqY09TcDdBOTdfZW9hWWR5bFc2VWVhby11elhiTmFLMmh3?oc=5",
-          "source": "Nature",
-          "pubDate": "Wed, 28 Oct 2026 10:10:14 GMT"
-        },
-        {
-          "title": "Climate change is a growing health emergency, Lancet Countdown warns - World Health Organization (WHO)",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNDYyZUV3WUpvSDRLNU5PY3V1a0ZTM2ZIVGpvRjRuaXF4dkNGU0RXb0wzYkFiWE91S3VfVUVZZ0c2amFaMG9oQ3MtSWpLbEtYZzE2ME9seEIxNVotVFV6Z0hHYUU2YVhRb2hlcVBpazB4Z1ozMHdwaS00dUx6SDRBckJJcVlac0RYWWFNRTdDNXY5ZWNVQmtsUGQwQ2FIa2pVRF9KNHlmYTNrWHlWVUE?oc=5",
-          "source": "World Health Organization (WHO)",
-          "pubDate": "Wed, 28 Oct 2026 08:04:17 GMT"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 503"
     },
     {
       "id": "prepping",
@@ -417,81 +125,8 @@
       "category": "Tech & Science",
       "query": "\"disaster preparedness\" OR \"emergency preparedness\" OR \"off-grid\" OR \"alternative energy\" OR preppers",
       "feedUrl": null,
-      "items": [
-        {
-          "title": "Texas ranch owner's off-grid solar plan hinges on keeping two camper AC units running - The Cool Down",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fNlFkZDhJVjZHeVdmaE4wQy0zTkZGLWhOWGM1Q0tRVXIyOE5ocmV5NW1tU2F5OGtORHBtakhKRmRHT3M3RG8xUlF3aFU5Nkl5QktYQ1c0TDRzX3NvTlhvckFJT2hGUTdDeVlUdl9mQ0xzYkhkQ0dxYzI1WQ?oc=5",
-          "source": "The Cool Down",
-          "pubDate": "Sat, 31 Oct 2026 23:13:00 GMT"
-        },
-        {
-          "title": "Staying Ready: Paducah Practices Emergency Preparedness Capabilities - Department of Energy (.gov)",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVzFzSER1d0lQT2tLVGl5VnoyWUhTRWNzenNQRFYtbTB5WVpFTUYzaDRSNEtYaXRvMXZ3c2VDZVNTaE5CQWNDd3N0OFZ0cE5iQWZ3UkRjeFlIZjh2STRqcnRNeHYtMHdJaTRzeElwdUZxOHJUV1pMbWJxT1FscG9lZ2Q5cU1SUEhlOVFkTkJGNUxIcmZYbm1wTW0tSzFZT1BHVGhibQ?oc=5",
-          "source": "Department of Energy (.gov)",
-          "pubDate": "Tue, 27 Oct 2026 17:13:33 GMT"
-        },
-        {
-          "title": "Government emergency preparedness case studies - IBM",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUXpsa0c5Y0s0eEJPQjJGaGVMbndnd0p5QXo1NWxCTGpFSHpKNWFWaVR2UDNzV09MRnlfU1FwOXdXMUVDQVZNNFdrWVA2S0thQ0pIRWNYX1NmamFkVkJydVNXbGE2MEowY3VnbGtUZ2FpOHlXRTVNUVpwMWhpQWZ0RFd5N3BUNGMxNzFOaVBUWk80Nl9tTFcyNkstM2l0ZjNNNFV3TXRmMXlWSXRmOUFOZmg2Zw?oc=5",
-          "source": "IBM",
-          "pubDate": "Fri, 30 Oct 2026 16:32:50 GMT"
-        },
-        {
-          "title": "As El Niño strengthens, IOM and EU support emergency preparedness in Ecuador's Manta - International Organization for Migration",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRnYxOUk4U3FhMTZNcXJUOGUtTFpBb3ZqdEF3UE1jWC1hU0RWRDl6MDVmb1pDaUI2c3FvcnpUMnlGcGQxY3JvdGJmLW1pNHRlWXNwaHppbEljX1FyWEtZbnc4bTFVQU9Zckw4OW1lNzhYR0pxV3huSFN0eHlISzEyVmtNVkVDMEd4b1QyX1U1VTE3d0VjM0kwMUllVDVLa0h1MjV2ZjZXZw?oc=5",
-          "source": "International Organization for Migration",
-          "pubDate": "Fri, 30 Oct 2026 06:18:59 GMT"
-        },
-        {
-          "title": "Why decaf coffee, alternative energy drinks are buzzing - Food Dive",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdldMaG16S3I4LURsdFJTd2pmTGNRU1d5UEZwNjM2cktLRXZMdFJ0Vi1sWlhCUV94dHJUcmMwb01SdzlRS2J1aC04dlhLdXp3eFo1MjJfX0JQV0dLbndhalN3YkFFSzNYaFlabkJxUU1hcmlhYnhKZmFyRXU4U3RvODVHdWFYLVJkZS1iRE1kYUoxSTl4TXdR?oc=5",
-          "source": "Food Dive",
-          "pubDate": "Thu, 29 Oct 2026 15:40:27 GMT"
-        },
-        {
-          "title": "Why Emergency Preparedness Must Be Measured by Performance, Not Paperwork - Homeland Security Today",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObXFrTWJjcnFiVGlNak5jcVROaHZJejNGeHNybnl4Skg2V28wcHJiLTNoUVFZVW8yMGU1M0JvNTFITllGTnN5bmphaUZnN2Ezc3pScDNOY0tmb1BsaXFZQ21fSmQ0bV9SZWJtbWNOUFQ0SnBIaF9tM0NDQU9iWE4zems5WXpjdW5BYmlWNGFScG5NS2h1LU16aXFtaHVCaFZqTENreE9tcXgzRUI2V2hJS2hpSGJlM1NOemRRMDBybkZ4Ym5lYUJUOFpYQnN5TXFQX3Y2emw0QQ?oc=5",
-          "source": "Homeland Security Today",
-          "pubDate": "Fri, 30 Oct 2026 07:04:27 GMT"
-        },
-        {
-          "title": "LSUA and LSU Eunice Expand 2+2 Pathways in Disaster Preparedness, Education, and Cybersecurity - Louisiana State University of Alexandria (LSUA)",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORy11eEU2ZS1YNjdCV2plSkR3N1BEVFVoX1Q2YmtmcUJMZEhpMTZRejI5Ynh5YWdsaXk2elM2LVJJbHFrT0QxXzdnc2RFb2luUks5bHVibEJjM2tXdU53NWttSGZyXzNKaVRXdnd1cklYMFVYbko2QmpNQUdYc212c3d6VlF5TGJfVFpaR2VDT0dvekc5WDF6YjgwT2ZXX204VHd0d0ZNVm1ZMzhRYWtsSHVQdTRuczQ?oc=5",
-          "source": "Louisiana State University of Alexandria (LSUA)",
-          "pubDate": "Sun, 25 Oct 2026 06:48:35 GMT"
-        },
-        {
-          "title": "Off-Grid Solar Is Now the Cheapest Power for Nearly 400 Million People - Crude Oil Prices Today | OilPrice.com",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVTItMXJoX0NUTkZ5TkRxcUJ0TWZORUxQdDlzdWhKSEpsa3ZOM2RXVW0wZWU3Z3hTUG1GS21lcmtKYmZrVTMwdnNQVXpZMVJhZm1GUWttaHBuM2QtSXJaaDItelpvZTl3enJtTk81X0lvbW9sMDR6bldOUkM0ekZLdlNEYkJnZTlMbVVlRVFtS2J3TTRUazVuTy0wNEVqRDdCMEpfWUprSVprVXgzNXFLaElGSm5HMjBpR1VaX0pyVmRiM19lTEFN0gHMAUFVX3lxTE0zd21sYW40Z1l0T2tBQlZVeHhBU05GVDh5SzlSQTZndzRCN1RSWHNXR21kY0JZcmxNUFdIR0JGSnJJc3NlVW9fTzBEUHFERm1RdWU1MTBLVURqZl9rN20xcmNQM1dVT1BJQ01CdGNKVjBqb052dHlSTmJ6SzVFaVhVTzdrelJ6VmlWR3V4bjhUZUlhZjAzRWZxb0ZyOWkxMU1oMWJZN1k2aFp1dkdqYkFRUjBIVTJVT3FtSnNBb0ZTVldoMDdZNC00N1I5Sg?oc=5",
-          "source": "Crude Oil Prices Today | OilPrice.com",
-          "pubDate": "Fri, 30 Oct 2026 00:00:00 GMT"
-        },
-        {
-          "title": "The blind spot in emergency preparedness - Peace Research Institute Oslo (PRIO)",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBqN0NOeGNIaFljRFN3WEtKdnU0dHhkNGVKTFVFYmdsaTNGSGVrb1JjZ2lyWjExWUJsRXJCVzhCU2VReFVUc2psajZB?oc=5",
-          "source": "Peace Research Institute Oslo (PRIO)",
-          "pubDate": "Thu, 29 Oct 2026 09:14:54 GMT"
-        },
-        {
-          "title": "Federal Disaster Preparedness Grants: $400M Available - GrantWatch",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVkVWMUhteDQ4OWRvemNvMW1aZnoya01LS1lUcXdYQXZiLWdSYkljVUppdnBxV2RMS3RoMFRiUWQtcHdOLXVqdGh4eUtuT3AyNnFSWldVdWZ0TWRoejFDdU9xZmI0QWw0TGJRUUJtQ09vdndhSkxXX01EN21OS2FOUHNPYVhnVHZkNzRhVGk1NnVNMXYza2ZycUJoYw?oc=5",
-          "source": "GrantWatch",
-          "pubDate": "Fri, 30 Oct 2026 15:05:19 GMT"
-        },
-        {
-          "title": "Forest of Dean prepper has 'enough food to last for 12 months' - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OZlR1VW5OWktIV2tzZEpia1RKdTlOaUVHVHNXTVZmd3JMcXdUZ1dQcjVtaFhRUXhoWnlZUENvQkc2ZUVJcktmWlQ5SVdNaU9MSU9qNF9XTjhlNUE?oc=5",
-          "source": "BBC",
-          "pubDate": "Tue, 27 Oct 2026 06:16:56 GMT"
-        },
-        {
-          "title": "How One Senior Community Is Building Emergency Preparedness Before Disaster Strikes - United Way Worldwide",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9BdHNMREc1dTdCTkxMM013ZXhKMGdEVlBFWUtteVNJRHM1bnJnNWhrYzJQdkRzUVJONGVYSjByOFdLVFFFcW1UVjdwLXI5UmVncUhHdzdzVkZlRXA2WkVCaFBYUlR2VDQ4T0NZcUxqdVFpY3lVcUl5V1N3?oc=5",
-          "source": "United Way Worldwide",
-          "pubDate": "Wed, 28 Oct 2026 18:34:38 GMT"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 503"
     },
     {
       "id": "us-politics",
@@ -499,81 +134,8 @@
       "category": "Politics & World",
       "query": "US politics",
       "feedUrl": null,
-      "items": [
-        {
-          "title": "Inside Democrats’ Secret Effort to Stack Alaska’s Ballot - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVXZoZnd5TWlac1BNQkoyZGw1UHR6RkphN3J4S3E2bkZXbFN4SFhKcWdGQkhyNXJfblNQWTJkbXBxeHZZSTBoa0RLc18xSnpxX3dJR1FiYm5hdTdER0FWVEJRRGg3T0Nwek41ZmJFX3ZFdUtjeV83T0YzUDVvN3BhZEU3d2hocWx5ZUZQdGx0SEx4Y1hu?oc=5",
-          "source": "The New York Times",
-          "pubDate": "Wed, 28 Oct 2026 14:37:47 GMT"
-        },
-        {
-          "title": "An Unpredictable President, a Grim White House: Trump Faces Down the Midterms - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQzJNZHdTZGhwMksxUnFLN1cxTXNhNXpBRHlPWkc2NGZrdWpDUElkb3Z2dTNVdjNYWDJmWV9Zem9zWjhsNmh4UFNiQTNHT09EWEVOdm1XT2VzOU82RDVTdGU1UFlDSFJ6TmdHa2t4bkstTUtYNDNEMFY1M3hKRUdWWGw0M1E2TzFQS0tN?oc=5",
-          "source": "The New York Times",
-          "pubDate": "Wed, 28 Oct 2026 23:17:30 GMT"
-        },
-        {
-          "title": "The staggering $446m Elon Musk has spent on the US midterms – visualized - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTXloR2JpTHpCdE9OMXBWS3FpcDBoUTUwOEdFd3lRQ3hxeng2MEl1MEdsM3QtU0NMTGNjbUNwZjNVZlpVVFJKbVdHRnptY0NrRGZrSEhHRGg1VmxZaDBNb2dnSndaTDJPZlRLeGYwRE1vM2hFbE1kWDdjVWZnbldNaGZjZ0F3RlZaSHJMVHRKMXBHNm9qdlR5QlNqX1U5MFhoa3NF?oc=5",
-          "source": "The Guardian",
-          "pubDate": "Sat, 31 Oct 2026 10:01:00 GMT"
-        },
-        {
-          "title": "2026 Democratic candidates throw Joe Biden under the bus on the border - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVmNHeElSeVpvWlRLMG95UlpLWU5GWmpMc3A4aTlUQVo0azNTNWFHNXdiVlZIQWhnS0NkZ083a192OThfdUVSOE1MbkZMTU1OWWdiTXNIVXp2U3AwMTVpdVhqVUVldW5wOWRpbnNuVFFIOFVoSUY1TlFESl80eWJqcExlUWJWa2hTMkxZTGJQQ1N2UkV0NEIxZ3ZaWlJ0TWJYQkVHMG1NSzZKTUhMMWF6SmtOdlMzbWNPVTFwRw?oc=5",
-          "source": "NBC News",
-          "pubDate": "Sat, 31 Oct 2026 09:00:40 GMT"
-        },
-        {
-          "title": "Voters Usually Ignore Corruption as an Issue. It Now Has Their Attention. - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB4NFJ0c0tYY0dVV05maTQzYi1VN3gweW05RXlYTTFyUTdoTHBScjN4ekVBVm14dHFXVXVnc0JvNTdxa2IwRlVrZnpHWTg5b0doY2Ffc1Exald3QUh0SDlEdEJ1X3h3VEppcG15dUZnU3huSDhmempEM1hxcw?oc=5",
-          "source": "The New York Times",
-          "pubDate": "Sat, 31 Oct 2026 09:00:44 GMT"
-        },
-        {
-          "title": "Days away from a national verdict on Trump 2.0, we check in with nine voters across the political spectrum - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeGhzSDlORFZkUWtiYjZrb1MzSklWc1JfcUxxemdUT1l1a2NpTWRUbkRvVjRIZkhtVVRDY0VXZjRiZGpsSmFkN3hnQzBaLWZTSGJPZWNfaTR2YXpiYWZ6MWtndHM1V2Z5Y3BaUks1X1QtLWo0RzR3aXBjeDhvVzZPRTRpaE9ldWhzS2szQldMVFFSWUFaSzJCU0g5aHR4MVlURXc3QThWTXgyOWkwb1BEWVlkOA?oc=5",
-          "source": "The Guardian",
-          "pubDate": "Sat, 31 Oct 2026 13:58:00 GMT"
-        },
-        {
-          "title": "Trump’s rally sprint had flavors of a farewell tour, MAGA crowds and an unexpected closing message - CNN",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1IOFFVaUF3a3VFUUQ2WXhFRUdMdzZIeWJfOHJNSVlBMHhqc3RyaXJ0UXdUb0dnVzFWQklBQW14OFBPSVhDMmNrNUoySkJPa2ZHMmNEZnMtSXdmXzhKQ29yUmJjcWRqQl90Zm56U1NxQnBlbjFBQUZVMw?oc=5",
-          "source": "CNN",
-          "pubDate": "Sat, 31 Oct 2026 16:00:15 GMT"
-        },
-        {
-          "title": "Republicans Are About to Find Out If Their Gerrymanders Backfired - Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcERRRkdBWUNCel9yLWsyTk9pc25oWlZZaElSLXBvVDViQ1lMblVUQ01xVFFKSDVPWUVLa0RKZ2xZUEpKQzJNVkl1eExlWWw5NzRpSlE2UzlOTXNUM2g3VDd1TWhVc09uQlB0aFRiWmRYR0pIdnUxM1BZMGhJYXdzLTc3QnUzdzNxdzJBYzFvZ0NaXzFOeTlmbDJuTTFRcktMbGV3aW5NTHhvdzRoMEdZMGZiREtQWUpqUHZtRFVR?oc=5",
-          "source": "Bloomberg.com",
-          "pubDate": "Fri, 30 Oct 2026 19:23:36 GMT"
-        },
-        {
-          "title": "California is a mess. So why are the Democrats still favourites to win? - The Times",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVGloQjd1M0RDUHFJak1td1NIQTRIWVVEdmZhMVhwclA5SnU5UGF0TkRVclRoN29NNWNqVzR0MlJveWhSX1dvZ0ZUTXBEZkpMaEJzSzcxdUN1ZmdGaGh2ZDNwRWhuUWdWbmlnbGxUZjlpbDdzWEc3c25xZm92ZFQ5dlNSa0R0X0t1eXdzLXRCLXJjN09jZ0ZMUGNWbXctN1c1WlU1QkZBYlRUQQ?oc=5",
-          "source": "The Times",
-          "pubDate": "Sat, 31 Oct 2026 11:59:37 GMT"
-        },
-        {
-          "title": "As Midterms Near, Top Law Firms That Capitulated to Trump Are on the Sidelines - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41Tm1hZ2s1aGlhanJPdjE1S0xNVk9jNVlBV2o5V0JYOEFWcGVfLTJvNzE5N0VKNDY0aHpHMjJVUzhBNU8xREs3N3VxcXdkSlpXSzJnR1hqV0VfQm5XeVkyRjBfZzJlSXAteWp0bzBnN3ZvNGdHS1hJdW9zdERiemc?oc=5",
-          "source": "The New York Times",
-          "pubDate": "Sat, 31 Oct 2026 09:02:24 GMT"
-        },
-        {
-          "title": "Graphika finds China-linked Spamouflage accounts posing as US voters on X - WSAV-TV",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN2xYMXhhNXV5MnhvZjhwajRWQXhybzBSc2NnT19BbHctdU4yNXM4MGpfXzBFMXdLZ0pPWHY1a0ZWWF9GVWtsZ2N6TFlXTEJXNTJxYk5zTXlNWER0b2dLa3ZrSkRVbTFXWWJoQnV3LXRnYlB0aDI0b09CdHpabWtmQ1dnRjlsMWwzUk5ZQmtpNGkwV3gxRnNCVmxEdjJjSDk5MHoyNm1MMVJRd1lWVk5laUFReXo4blRUMzJUWXBKaGlFQdIBxwFBVV95cUxQb3luM3c3Um1UaW43VjNPT0FYMTVHLVhzN2o5WFktSTU4SnZGdXM3MzlEN1pJSmVTRWp1SXoxcUtjUjhvOGt1bjRZc0FxZ25ROU9KQ0dZOEVBYVBEaVZfYlpFUmNUY3k2Z3BLZ2VNVElGYTdOWG0xQU52d0VnRHliNXowM2lGM2NVbUlQQmIwTngtb0RUVmd2WDFWazl3RkpFYWNJTkswY01qaUlxeWNUVjdPZnJmMlVDQy1RWVYtc252VVR3dkhF?oc=5",
-          "source": "\"US politics\" - Google News",
-          "pubDate": "Thu, 29 Oct 2026 23:04:18 GMT"
-        },
-        {
-          "title": "Susan Collins Is Always Keeping Score - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWU5OeGVrRzlnYkppcXgyUG1LWW1qYVg3cWxZdmFDc3J6Q3NxTENGUTVyVXFIUDREcVhUelo0bXROMXhXME94YU0xNjA5RFVMY1d3dEJnTlVsSkxqU2N5MHFyaTZ2SXRRN2FQcTAtLTcxRG1PR19jTzNFb01qV0tUblNuQzNHMzZBanpocnlpTlY?oc=5",
-          "source": "The New York Times",
-          "pubDate": "Sat, 31 Oct 2026 22:45:39 GMT"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 503"
     },
     {
       "id": "iran-war",
@@ -581,81 +143,8 @@
       "category": "Politics & World",
       "query": "Iran war",
       "feedUrl": null,
-      "items": [
-        {
-          "title": "Iran war updates: Tehran says US ‘shifted tone’ in Vance letter - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQelNIbUtVX3B2VzFuckxCZENUQmpfSHFxM1Z1dTcybmRkUmJfQjc5aXNWS2RUTzBYeTJhZWFETDgxOVZvb3VMdzVZM0FOamo0T08tUTQzSWtnQm85a2R2ZGI0bXNnRXB6VktrU3djS0xueTFvZjVDVVpzMHZIY2syYmdaNTVlVmFDUWEtY1lKSjR6NHB1UG9SQTRrdHhJSzBFX2FRMGFyLU84ekpwX0xEX2RwcV9pT1BzTGgtY1I0YUtTZ9IBxwFBVV95cUxQODNsX0VmMnZtcU5PTktTbWNsMVdlSnkzRmFQUUlaWF9IanFIVGpQMXJCYTdoR2U4N1F0Y3FZajRUMHViS2pPbk1UTGhidUhmTUE1Z2d0RExfelFwc2NJWGItMjN5MjJsWmZYUHpHbWhxdEZoVzBXT1VrRWthNnNoVzRwUWpkRFZtTFJXSUZKYjRQVGhMMF9XbUh1Y2F3LXJIS2xXRElUZVFJdk53YXc0b2g3MmpaNXZkUU9oSTFVTkNnUzkyZmJF?oc=5",
-          "source": "Al Jazeera",
-          "pubDate": "Sat, 31 Oct 2026 10:09:20 GMT"
-        },
-        {
-          "title": "Iran war live: Araghchi says talks under way on 2-day plan to reopen Hormuz - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTmNPcm9sUXBiVUpNblA3VG1YRWZvOTZEcGNIMWZ1VnJ4bjFHa2t5cDQ3SHEwaGo2NXctdG1WOURWMVhndkpjOTF0SHZVeEJsS3ZtVFpWeTlOYTlKbDk2RmIyQnAyOWVFd3QySU5STlFKNy1acHVoUUhQM3ZhRS1udFpENjlydVVPdEw1cGRBemN1cF95d25tbFZQWENSQmFZd2FtOHdScVg1YVhIa0JvTl9Ud3lsMW9YSFBNa1RTSHpTUdIBxwFBVV95cUxQX0tzMW11LUQxVDB0X2RYM2tWWVNma2ZOaWVyWjRjbnYzVGxVUmtyaXZzQnlUMW13bmtWM29OYlA3OGctRUJFSWZyVUFETkh5QXh1TXgzS28xck1jTDRaZm5lRE9RS0xua1I0Smd3a3pNUmE1anVab29RMC04VnhUMGFZdWktYURNR0hsRDBmZ1c2LTFfZU9ZbktUb3Zza2JZNXNqakltVzJsVXRidHhqNFlQOFl1bDZoZk9LLU9zdnIwUGotWUI4?oc=5",
-          "source": "Al Jazeera",
-          "pubDate": "Sun, 01 Nov 2026 00:11:40 GMT"
-        },
-        {
-          "title": "Live Updates: Iran's supreme leader warns U.S., Israel against new attacks - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOU84MUlJV2w4ZEtpaS1ndkJieWpObTZJUzloRl8yUV9DSE54RFkyTklLUm1RSzVwUVNzMWQtNWRMc0RpLTZJQVRieS1qbVNLRGpRbnpYa3NxLUczeDdYdzBQUEtJTVg0NUlEbHZOaGJfQ2plTHFvTmZ0d2ZkMFo2aXNGWXY4SzNVRncxYUMwWVk?oc=5",
-          "source": "CBS News",
-          "pubDate": "Sat, 31 Oct 2026 22:10:00 GMT"
-        },
-        {
-          "title": "Iran targeted US air defenses then hit aircraft and buildings on Mideast bases, AP analysis finds - ABC News - Breaking News, Latest News and Videos",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdFpESHlsUDhvV1BNVzFHQzlsRmRnY21OdFlaVFZpUmNmcGdZeHFGWXFSa3M0OFIyY1VRVmdiaERTOFZMS0dsTjdzZGtJaDgzSHNMSUx5NHQ0eEhVZ21QN2VEQ1hReF9iTXlNZ3hhRjROTWFBclA1SFk5YXJIU0pqTFpPVXhEMkFUMDI2Z0tlNHA2empobHN0b0Y4MNIBoAFBVV95cUxPaERoY3BuYjFOcHBDUnFyOVJYX0NCTmJwSVpTREpiQ01VWnJMZWZpYTBHM3Bqd2c0bU9GNWw5R080cVJtbDNNWHRteTFoTUJLMUdJelZjMV9OazVPRlZMMEs4TjExbk9LZEQxejlpTHBseHRHWkFHWllFZGlIOGxXeEhreWg5MUF6SjBPTjJqVHFEWkpUZ0JtMHoweVc2VzBm?oc=5",
-          "source": "Breaking News, Latest News and Videos",
-          "pubDate": "Sat, 31 Oct 2026 16:52:14 GMT"
-        },
-        {
-          "title": "How Iran Battered U.S. Bases and Caused Billions in Damage - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5mTE8zc3NEN2VwbWxOcTlrbmZaZEowSjAwU3V3MGozMDUtMTFPbjRYcEVveGRyNmRtMGd0ZmtMbkhQY2M4Szl5dWdHZWVRUzNzSW9fNXVoU1JNYlFNRkxJdWxuNjllVEZRRzhkRHBKMW9DaHZ5ejFPamJXTQ?oc=5",
-          "source": "WSJ",
-          "pubDate": "Sat, 31 Oct 2026 01:30:00 GMT"
-        },
-        {
-          "title": "Iranian strikes damage 24 US military sites, adding billions to war costs: WSJ - TRT World",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iTnh1al9feTF5YmVieTFHT1BfMnVvX2N1UTdZcklfbjA5YXdOcFZNdWtKMjV6REkxd1RqQXotMEZjNWliQkszSzloalhoU0JIX2xPZUJvdTQ?oc=5",
-          "source": "TRT World",
-          "pubDate": "Sat, 31 Oct 2026 17:07:40 GMT"
-        },
-        {
-          "title": "Trump Speaks With Netanyahu Amid Iran War Planning - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTXVVdEI0ek9aSVNEYWd5QjZ5dnRmcWE2MDJOT0FtNy1HNTQtUTJEb3N1czl2MVlpYmxUaTl5ZUVFQmEzRlRCUjE1anRXYVhjS2k2TFg0MWJSaWRDbnU1czhiR045am9EWjNpWk5qUWZoT0M2TWZ5OWJ3dEdOdXdENVI0UFVoR2lKS2tVNE15cXRNLTdNbUNrcUU2THMzZEV6ZTNCR1I0b3Qza3FkZmliaFpQYlV2VUJCejRZRlBsVXFZNktjSm1Gb3h3ODJCemF2UWc?oc=5",
-          "source": "WSJ",
-          "pubDate": "Fri, 30 Oct 2026 14:39:00 GMT"
-        },
-        {
-          "title": "Persian Gulf scrambling to prevent Iran war from again hitting its doorstep - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZk9yVldQN0UtWWZ0bUNEV000V2x1VldwVFhSNlRqX0pQNWVVYzUzTGpuQzZILWpFMDhYang0SXR5Rmlic1l2cUNBNWJPcVRxeWxadF9Kaktjc0FGSE9tX2JOM1FyZnBoZWFtdDdPUDhndzFyTUtLYTlPMEZ2QTVqU1RTSTN0a2pjTTR0Sk5ob1lueTFtYlhFQ2FjR0hlMk5DbFN0VE9LV2dodzItWjhoMHQyb3NFNGM?oc=5",
-          "source": "The Washington Post",
-          "pubDate": "Sun, 01 Nov 2026 00:03:41 GMT"
-        },
-        {
-          "title": "Qatari mediators held talks in Tehran aimed at restarting direct U.S.-Iran negotiations, source says - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiRHpqS0x5SmJQb3ZZSFpkMXZXS0lVdzl4NTdaWGltUWdRWFpOOU1CbGFXVFNZSnNiZlRyMC1YQ0hGb0NDQjdOSGRQQVJpS2ZqR3ZBLUFhTEhhNnVPUEp5QTlTY0dTTU1wUGlWc29uc1NLeDBS0gF6QVVfeXFMUG4zZG1qRkdIS3diX2R1Qkt2dTIxc2Y1R3E1MG4wSFBVcktzUmRfdXVVRmNTSm44ZjBIZ01fbWpCVF84LXpPd29RSjIzMmMxcVh0WlhUWld6N1RNRGEzTWtPcHhmWWczMEVNY2ktamdrdXd3QjYtZG5HLVE?oc=5",
-          "source": "CNBC",
-          "pubDate": "Sat, 31 Oct 2026 12:11:12 GMT"
-        },
-        {
-          "title": "Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOODBHZGo0TEhURWc2Rm9nLUJjaF9Hb09YLUpnU3JlTWJ0OHJKd3p0dFZEYWdpYUNPVlNJdFJoYXhGOVdOX29rdHhjQ2F0c2E2VjJRQndHcEtSY1JIdEFzTkJJd3RKX2lKYWxRMnRQYjZvVnpxNnJQTlBmUFY5TWMzZTJ4akRuS1pKNExQY2lCQTAzRVlWOG4wYnZRVV9tRWJQdDJKQ0owZVdZUS1ZQmZYbTlMR0xxbF9uZ3ZvWkRNNDJtX0JNclZhLQ?oc=5",
-          "source": "Reuters",
-          "pubDate": "Sat, 31 Oct 2026 20:00:36 GMT"
-        },
-        {
-          "title": "U.S. Oil Industry Earned Over $130 Billion in Profit During Iran War - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcFNiUjUzdFh6a1pRNzRJazBScGR1cVkxRDRqMnYwUFRleGRlWTZZYWdTRGRsVkZ6Y1NldWRNeHV5REJLc3VvR0h3UlRUcVY2Rl9jS3VxTXgxcnZ2Zjcta0tqSUtLRERVZ25xZ3pTN2V0Y0JDZDdOZVNDazBubGQtR2gwbDMwZ0QxeEYteGdXbEY1WlhubnFiWXZXQThWUFhXdkRxVQ?oc=5",
-          "source": "The New York Times",
-          "pubDate": "Fri, 30 Oct 2026 10:35:33 GMT"
-        },
-        {
-          "title": "Oil jumps 2%, settles at 6-month highs on fears of escalation in Iran - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWE5IUkRJTVJvTFE5SUdOdFFCM2tVN1lKcDI3ci01cjlleVVuXzB1SjI0MDhuWkhwakZFSzl3SGNUZk9uUUYwdHNfMGJOUXExaW1RdmRRVy1Cd0tHb3RqblJCQWczeXdORDVKbVMxMGFrbnVMM3FCY2h5Xzl6T0ZoeTBtbGdnbW9jdWF6VEtqNi14ZnlFaVVpb0xZcHlGTDhtM0ZmY2RYZ2Q?oc=5",
-          "source": "Reuters",
-          "pubDate": "Fri, 30 Oct 2026 15:38:34 GMT"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 503"
     },
     {
       "id": "ukraine-war",
@@ -663,81 +152,8 @@
       "category": "Politics & World",
       "query": "Ukraine war",
       "feedUrl": null,
-      "items": [
-        {
-          "title": "Ukraine war briefing: Moscow’s Lavrov snubbed at G20 in Atlanta - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZHhGSm5DM2JzWkpSOG4wNkUtVW1DTzh5WEEwMl90MHRBbnl4Q3VWY016TkRtN0ZCVFJ6QUJXbkhreWFFblZKVkk5a1k4Q3FEdFo3SFBISnRIMGJSNC1rNFNWaEt4QjZVY3hURHhWOUJCaWt0c2duSFY3MmhmLV9yUk5BeTRDQ1NuWXNoZW4zWE9yeXBadWxSQUl1T1VOVFVZWmhCdTJMNUJtRms?oc=5",
-          "source": "The Guardian",
-          "pubDate": "Sat, 31 Oct 2026 04:26:00 GMT"
-        },
-        {
-          "title": "Dead dolphins, naval mines: Russia-Ukraine war destroys the Black Sea - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUjdjS1B0RlBEQzJiUXZjY3dYTXZmM3lIbkNPN1FzMThuamhrbTVVRmxfUERJWmQwcFlmdk5xZEpzNjh6Mm5GcUU2SWR5Y3pjQW9NMkhPaHFkXzYwN0ZFUWZxY0Qwem1WazRmaVRxX1JzbUFGRzdzbFZjdkdaWkZRV0pIM1hRaVNrRElPWldFTVo3RUM2cjIzU05IMzhsRTZuMC1ERnpiQllubzE0RFHSAbMBQVVfeXFMUDN4R3NtS2pPUWJSYlVobWdXa3RISG1zemxJaEVzaTF4T1RGMGxLZ2k1ZWlvYkFFRlpRRTcxbm9Pc19VYkpVNVMybmdNblZHaDk4YTVHdzM2d0FrcDJJQ0RnQTlUeklUZ2VhaUxuNWlocHdlT3lUck5PV2dTR0x2cjhpcnozdGtBLXlOUHE3TURMeVZsQUlFVDNqY3pJaDduZzZoT1dNYzNuRFE3Z0RpaHJBeTA?oc=5",
-          "source": "Al Jazeera",
-          "pubDate": "Sat, 31 Oct 2026 08:32:56 GMT"
-        },
-        {
-          "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxZU9vVXZSbnhhckxtakdBUm90QXBOVWFQYnp1dnhGMzl1WjkxTkNyMWF0MXZhaGRRRmNPZzA4Z29UTDFpMlZzS3pRXzZUdkdyeEdNamEwR0RZeUE?oc=5",
-          "source": "BBC",
-          "pubDate": "Sat, 31 Oct 2026 17:53:35 GMT"
-        },
-        {
-          "title": "Evacuees from Russian-occupied Oleshky arrive in Ukraine via Belarus - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS0hkdi1qaE5icGxZQk93X2Fsb0x5dUJ0eDZOa25FNnFrSllCdnd3OXNzLUVGSjJLUk11T1p4dGhLYXQzRDF2NWdYdGs2bVJ1SkFDYWtLdy0xZE10OXV3NVBXQ0sxV1dsaHFJZ3R2MFFRZTd1M2t1T3k4ZTdheFJFNFZGTzFPd245NjF5UDJIc196T2hITVlHMlZ6RGtBWUk5cWhLSmg4Z2VCTC1vd0JKYThHUUFnNWfSAbwBQVVfeXFMTWg1ajBQQUdJVFpnY0k2dFhsVXFmNlh3d0JhVWRHYkhuVTlZU19ES3RjTHBjaF9XZ3lrNklYQTg4QmVMZXg1cU9sLTdvTGpiNU1XLU5OMThHRlpfNzEwWlZsWDNodXpBMmh2cDdLRUVnZ3hpVDRKT0pqR2F4Z0pRNW5ZdFNOQklMWXBzUU5LdmJ1SXdEd2M1RlpiUWpkMEMwZDNKcTh1S0F0anF0bnF6bnZGZVdLcmRiU19oeEg?oc=5",
-          "source": "Al Jazeera",
-          "pubDate": "Sat, 31 Oct 2026 23:06:42 GMT"
-        },
-        {
-          "title": "Starved residents of Russian-occupied Oleshky return to Ukraine during a rare local ceasefire - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWFpDMzF1UGlpLV9sdTZxWXRVLW04dWROZEtPTXE2V0JpNDM1c1pjOS1HbVlUNnd0THlRNnkzQTJfa1JxY3ZmR1llTHJTMnFpcll4SjN5TWdKMnY3VWRVWklVTkFxbkFJSEl5X3owR1FoU0RJZE9oUUJpTl9CUXpoV0k2al81eHpfWGNjclVrZU5lOXEyUnA4Y0JSd1dwVnR4LWVscXlza19fbF9nZmMwYlBITndMREZZTUlweF8tcTJSWDg?oc=5",
-          "source": "Reuters",
-          "pubDate": "Sat, 31 Oct 2026 16:26:58 GMT"
-        },
-        {
-          "title": "Russian Offensive Campaign Assessment, October 30, 2026 - Institute for the Study of War",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN1pubEVnTEZwRVFIUmJKWlpfYmp5eV9CcVUyaTFqcGozdkc3VERha1hMVHJVNllkcm5ob19uQ3VFRVFPUUtWY1NLTlltc0lkdDNxTTN3U1hycHBLb3FuLVRrQmkxZ3ZENmlySlBBcWstdXk1WHhyem5ua3p5Z21jNy1DaUlTNkRXOVdXanducE9UdlVoWjFIMWp5UjFja1I3aHgyRUtsdVljVDA?oc=5",
-          "source": "Institute for the Study of War",
-          "pubDate": "Sat, 31 Oct 2026 04:12:09 GMT"
-        },
-        {
-          "title": "Anxiety grips Russian men over fears Putin will launch a stealthy draft - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVHFtZFpSaEtXTW05S2hqY3RLYkF3Wngzc3ZXNEtpS1JXVk81QTVSd2drR2JEQjVkQmRPa0YtSFZPMl9VTHhCZEVBVWNDeTktcmZ5M2Q3b01vYVFYQVFRRXMwOGUxcHV3TXo5bzFfOUY0TnJhcmtvVzJZcjBpOTdoMGtqR3ljZHFKeE56cWtpb242dUNJbkgwY25wZS1HdXFXWGNPZzZHUjgwMXBNSEhmTGpOdnNzdw?oc=5",
-          "source": "NBC News",
-          "pubDate": "Sat, 31 Oct 2026 09:00:40 GMT"
-        },
-        {
-          "title": "Ukraine war latest: Oleshky evacuees cross border - and Zelenskyy says it's a lesson for the world - Sky News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQzdVMUhCRk90eFBxUFVrVnFwWjZvX0R2X3NLMTc5Uk5kZVpfc0hOVy1GRktFZXFMaS1fakZFR3FGd05YSjVFWmRNMjJuT0N3b1NrdTFyVU9faVdSTU0zakxJWE1Fb1pPdzhyRVZUeWlGQnhRMjUtUzZzYW0ydzFoR3VWNERsX2VZajNBejlwZktsb2dZZHhMUDl3?oc=5",
-          "source": "Sky News",
-          "pubDate": "Sat, 31 Oct 2026 08:44:00 GMT"
-        },
-        {
-          "title": "Ukraine pauses strikes on Russian refineries after pressure from Trump, WSJ reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTzRwZjRhSTRCWExya3Z3cXViLVE1MVRNT0hLOGlQUFBidEM4eVdBM0VkRWdKVU9pa1VDdTduV2F1X3dSMldRcVJ5RDY0UVItSFhTWWVYbzBraHZOZU12WU0xUmZCR1paTW9wRmV1bVdLTTZVX0tmUDdSbE16ZGtDNk1HWExsbEx6TG9QNkVGR0hBRDlscU1NaEVtRy1OaEI1RjRkaGxzSjhJMTVhOXpxcGl1TS1wWExHZ3c0QkFJMU1YLWhn?oc=5",
-          "source": "Reuters",
-          "pubDate": "Fri, 30 Oct 2026 00:28:00 GMT"
-        },
-        {
-          "title": "Elon Musk Shouldn’t Be Able To Turn Off Ukraine’s War - Forbes",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONjNLTEZ2N0s3cHQydGYydEFMYm9UYWlRZlFBX3Y4OTZWLVlSV3NrcUxIM0JWU0c5NTl5aWVTWndmR0J3YlV1dnB3U0dVa3VXUjRieGpJcW5GRWtFZDhkUVk1cDczdEMxTmlNSGJISjRpYi1EUFRtVGdqbFVJWXFLb2lUWHo3Mzh0WHpZQzJwdlFUSlZCWDVwOUgtTXNtTkZEa1A5d0stUFlJTHM?oc=5",
-          "source": "Forbes",
-          "pubDate": "Fri, 30 Oct 2026 11:00:00 GMT"
-        },
-        {
-          "title": "Ukraine's war robots keep soldiers out of danger, but humans still risk their lives to keep them running - Business Insider",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOHp6dTNQVHhzTGhwYmZsZnlFOVQ2ZC1XYXZXOTByTmhnVU9aTU5ZWEpiSGpNbU1UWndsUWN4a1psME5qZE9nbjUwVExNdlZmYm95TVVUcGFqWDJESDRCdnlVdEJqcTYtUkFlZUJ3TkFTeHFfTS1RRTJHMWljLU9HeUJJWDRVeGkyN3Y2bkpUaFFNWnZIMHQtQ21tZEFjaFBnUFh5Z205VlAzazA?oc=5",
-          "source": "Business Insider",
-          "pubDate": "Sat, 31 Oct 2026 11:13:00 GMT"
-        },
-        {
-          "title": "Ukraine-Russia war live: US says grain shortages ‘threatening the world’ - The Independent",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNME5BRTllRHZtVS1wdml0bmhtQS1DbktVaWd5eFhNdG9jUG9VVjE4WVh1SHVtWWRITl9Eb1FacmVTYUVfMDJHMWdhY0Vrc1pwazRPdWViWlV4U2FlUjVWNnhBMmpfMzZXYUxzU2FZVDVFcUVNWXJEazFxU1VvTlN0RE5GTzk5S245bVpDZGtIdGxiRE5QMDluR1MtamQ2T0xxVVVxVTJmLWhMUWl5ZUwwTlA1ZGNMRTR4RWc?oc=5",
-          "source": "The Independent",
-          "pubDate": "Sun, 01 Nov 2026 00:09:16 GMT"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 503"
     },
     {
       "id": "us-midterms",
@@ -745,81 +161,8 @@
       "category": "Politics & World",
       "query": "US midterm elections",
       "feedUrl": null,
-      "items": [
-        {
-          "title": "2026 Elections Live Updates: Candidates Campaign in Battleground States on Final Weekend - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YR1owcUlLb3d1ajhFeWJacmU2aXAwV1g2Uk9aUjhtNFFNSlRSMXFxR2RCaWlIUWZ5M0w2M2kwODVndGNuSFdUangydkM0b0p5WERGOFY5QjZtSzNnYnhZTFd5NW1yZ2d6amJwMk9sdll6ZXdQeWc?oc=5",
-          "source": "The New York Times",
-          "pubDate": "Sun, 01 Nov 2026 01:17:17 GMT"
-        },
-        {
-          "title": "Midterm Elections Live Updates: Michigan’s El-Sayed Spat Intensifies; Texas Early Voting Breaks Records - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RczlvZzdOcEVBeko0ZS1TRHQ5LThyMjljT255UVJEOW9ZRGdRQzJZclQ5ZjZjazFZVFNtbDhYZUxVMGxCVkhRcDJ6Zkl0QlhnbWdJdjNTYkZKT0VScmNDdk80VjRaNkh5UzZZ?oc=5",
-          "source": "WSJ",
-          "pubDate": "Sun, 01 Nov 2026 01:15:56 GMT"
-        },
-        {
-          "title": "Midterm elections latest: Rift grows between Democrats Abdul El-Sayed and Haley Stevens in Michigan - CNN",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZGpsZ3E5SFJsNTRsOEd6b1hJbENHSDdmWFMyU0FRTmZCN081OGlISVB1RnpScHFvRFdwZlRJalpqTl85SjRaRHJfYmhDWDI4aW5IQ2ZsUzA3dTc4a1JUVTNkNExCeGsxaDI2ZEhkT1dFWnBzU3pkTjgxcEpCcnprdw?oc=5",
-          "source": "CNN",
-          "pubDate": "Sun, 01 Nov 2026 00:52:00 GMT"
-        },
-        {
-          "title": "An Asian Stock Trader’s Guide Ahead of the US Midterm Elections - Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSGJVQUpHeVhPOGJOS3FhcUVUUm9sbUVxSHVRUEhmbGVOcmhZV2txRnJ0V3FRTGxEWG1kOWxvb1I4WUZxSmpsOFJFTlZSMG8xaU0tOFJHSWdSRFVrQXlEd3JYd0F1WXlYbzJZWVBhb19GNGNnMVlSWFUxbG1ublFsNThPR2hPTC1iUnhzQ1E4azB3cEFuazFWSkotSmh0WlFsTWI3Vm1kOXFvMl9ORE5Xc041N08?oc=5",
-          "source": "Bloomberg.com",
-          "pubDate": "Sun, 01 Nov 2026 00:00:00 GMT"
-        },
-        {
-          "title": "When to Expect Midterm Results in Each State on Election Night - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa2gwZDdxYmZHZTJiaGdNeUdtYTB3X3plbUxRQWxsS2h1WDVqb2lFZko3OUZZTGk0XzZycEFrdXJKZmtIZzRvVzVwa1VVVllmOW9ZQVpwclB3LUZ2bXN0dkZiZHNfQzVUQ0hNUmNVeEJLZTE2Q0Y3OV9Ba0k4Q2R1bEpFamdkWDdiX0hXRXhsUE5kdXgwLW50N0tBdXY?oc=5",
-          "source": "The New York Times",
-          "pubDate": "Sat, 31 Oct 2026 23:35:37 GMT"
-        },
-        {
-          "title": "How Trump and his allies seek to interfere in the US midterm elections - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUkl2NzcxQzJaWTM4S0NiaXAzNkw1QWdLd1ZPa19tOTloZWRFQVZSR1FqVzZ3SGY1QTdILUU2NkJZcVBmWG84bmdoZEd6eHVxQTF1LTN2WUY5dExBWmFGSExDUDRzOXY3ZlN0eXBsSnNIa2JwdkNBODJVZWlrRjZnd2VaZy1UblpOYkw2NzF4ZGNpS2hQWWJYOVp5TVlQbF9CSnh6aVdPN1A4Zw?oc=5",
-          "source": "The Guardian",
-          "pubDate": "Sat, 31 Oct 2026 15:00:00 GMT"
-        },
-        {
-          "title": "2026 Midterm Elections, Oct. 31 - Politico",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYlBPQmJVUFlGN0F2SDlHZk5lMEFzb3U1bkZXX191OVFWMlBYNTI1cEZmbm9GZ2tDSEFUaG5wVXVHLVMwNWVZWDh3S2ZteVJfbXp4NkNMWkVGV1VJcHZpMTR4N09fdUJtUUtmUTY2WlBHUmljanpXU0syblRLNzM1RnJKTHEybUl0TEVnTzlGUGtkVElq?oc=5",
-          "source": "Politico",
-          "pubDate": "Sat, 31 Oct 2026 22:00:49 GMT"
-        },
-        {
-          "title": "'The necktie is dead': How US midterm candidates are dressing for votes - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LTUlGZndfaUtiUU9CN1JzZU0zV2MweUc4a1NIVUtYck5mc0k0TzkxSlZJWlR2S191YWVfenFlNTEwYmFGUHNEazlzam9rYXZfMlhiTW9rQ29wVDQ?oc=5",
-          "source": "BBC",
-          "pubDate": "Sat, 31 Oct 2026 00:16:03 GMT"
-        },
-        {
-          "title": "2026 elections live updates: Trump takes part in online rallies as candidates make their final push - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTWpFZ3BiM2p3R2g2b29TZTNJSzdYUUNrbDVRU1VEeHljX2FsX1dHb0hyN0RTanlNU3R4NURaWk9BeVlMSW1kelY2YmtpdDJ6UXY4TGdWeXVaZ2ZmLVN3VVczX08yV005VUVPc1lRNkJWLWkwa1hMaTFUT2xLX0QzU2ZsbnhCRGdqZ0MyXzV3?oc=5",
-          "source": "CBS News",
-          "pubDate": "Sat, 31 Oct 2026 22:25:00 GMT"
-        },
-        {
-          "title": "Steve Bannon: Republicans will erupt in ‘civil war’ after midterm elections - Financial Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOXVMQjZUM2xKNklHbEtiU01DV3d6YWU0Qzl3S3A1WndBRm03MTBteTJSSWg5bG5Mci1Edjc2WmZPeWE2QmtEMW8wOUI3eHZxUkF3ejF6aGs0OFJvUnBuMGdrQVJnWGdMdk90ZXJmNmZydmZEZURlWHZmUEJaMDdoYWRlSW0?oc=5",
-          "source": "Financial Times",
-          "pubDate": "Sat, 31 Oct 2026 12:00:01 GMT"
-        },
-        {
-          "title": "Midterms 2026: Congress Polls and More - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qM2xEd3lHR1dpU2xwT1JLcDEyUXlVS0xaeGptQzlscXNJSHc1VVVXQnZpY2FfN0NYdlFLMGZfWW9SSDFLT3NQVEF5cDlKZUlaVGNmZW5VUlR6LXI1MGtGeHJZWU1icGs?oc=5",
-          "source": "NBC News",
-          "pubDate": "Sat, 31 Oct 2026 20:30:21 GMT"
-        },
-        {
-          "title": "When will we know 2026 midterm election results? It may take some time, but that's normal - PBS",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUTZnamdIek1pLVdlWUdONEhMM0dtcU1RRHctMEwxR3hOcjFudU9hRTk5ellBY19GRUZ1SUVUdmFicWt3cWJYM3h6Rm5QMnlUcHFxenR2UmpmeWkxbk5YY0ZaeG5XeDNaMTVsN3ZsaWdzUXlmdTBINnlZQXRPU3VzVVNWaU1Rdm0wWEVPeXg1dWhGSl9oRzlNYTVkWk5RZDFmN05Mcl9UaUF5NnNBMEp1bjlUYWhFRHNRVnZ5NGtQME5pQdIBxwFBVV95cUxOU1ZGT0Q0bW9ha0dpWm5QQ1J2UG85bEJqZDRHUGlmNUhDZ25lRkJnb3ZTaUpReENRTFNKQkhQdko2bGctX2RfS0lNMUhwQnRwamxhbkIzZzQ2MFl6TDc1RGRMUnFkdjNUSkZoSnVwYXd5ZHBPYnNBYTAtNnRfdDFyRTVKVFJsQXpFYWZVUC1OZE5BUlB1NEcyMjdrYldNNk44SnkwTHYyb0hNX0VQZkZvRjRlQ3lETTJiWFJwZFBQcF9vOWpkcVNF?oc=5",
-          "source": "PBS",
-          "pubDate": "Sat, 31 Oct 2026 17:02:17 GMT"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 503"
     },
     {
       "id": "fox-river-valley",
@@ -828,7 +171,7 @@
       "query": "Fox River Valley Illinois events",
       "feedUrl": null,
       "items": [],
-      "error": null
+      "error": "Status code 503"
     }
   ]
 }
