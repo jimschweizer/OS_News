@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T20:51:59.742Z",
+  "generatedAt": "2026-11-17T04:39:41.265Z",
   "topics": [
     {
       "id": "headlines",
@@ -7,81 +7,8 @@
       "category": "Headlines",
       "query": null,
       "feedUrl": null,
-      "items": [
-        {
-          "title": "Downdetector reports user issues at major US banks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMmhqb0E4Q3hTMkFoVnU5d2Ffby1IUFhtMEROZ2pRZ2xva3dxZTVabklKVnJhRk9XWmxxX0hfM2ZIV1JjQ01yNXJCLXpaaXZmTmV6QkkycXcwV1pNbF91OXptLTA1QjZVM1RhOTN5WHUwTFRtRmNlbkkxc2Nod1oydmFJeV9TZkZfdjBqb1l5TWJXeUVkRVZDdjNzbW10dW80?oc=5",
-          "source": "Reuters",
-          "pubDate": "Mon, 16 Nov 2026 20:01:10 GMT"
-        },
-        {
-          "title": "Xi, Trump and Putin to discuss ‘world peace’ at trilateral, says China - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ0gzblIyenMzSGVXY25JN0FOaVRMQUdRel8zODdzRWFHR0RkanFwSUxFM0huQ290WFVGTGlzci1xY2QwRk9Da09PbFhXQjJ3ZmNDdFI4ZFlEM21lU0ZtVU93aGd3Ri00ZFF6bkNQc09TUkRFVkU5Nmh1dnNDeG1vWkdFRk9jcTFmaTNmdk9MT2xGbjRUMzB5Ui00N3FqUGpSVDdZd2ppU2ZiS3hYdzNWLVVUbmUyWlVlQkE?oc=5",
-          "source": "The Guardian",
-          "pubDate": "Mon, 16 Nov 2026 13:51:00 GMT"
-        },
-        {
-          "title": "Lindsay Clancy retrial scheduled for March over the strangulation deaths of her three children - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRFZ0YldGUW5vNkRUcWx1U0UyUlV2SDdzMXF4NUFsbjY1Rl9IbVpIaE1KSTFZOFZQc0I1UkFfc3RWNUU5cm16WjFiRGt0WWJINTJXeE4xcUpsUkE0ZVZyblZEOG0xQU9SeDQ1MHNJUi0zSGtWTmVNRUJyeENxYjFsZzdJU0laS1RicnhSRU9DUjZ2RnRvYmY4NndMaUdFSzBxcnZRSW1sTDc3cl9L?oc=5",
-          "source": "NBC News",
-          "pubDate": "Mon, 16 Nov 2026 18:20:44 GMT"
-        },
-        {
-          "title": "Trump bristles at criticism over grounding of planes, blaming old tech and Biden for the problems - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbEt5Qmw1b2g3dmlvTmZ4ME9CeWt4RlBadWs3UTdNYkNJTExyX2JPRXJYZy04SndvUjFSUi1wZFdBM0IxdFpTbHI3Y1R6aU9yeExuRmJSU0lyT2d1TGlDWnFZYVI1ZlFnWE5ZM1Jxb1U3VURrVkhEaW1yeWxWNkVxVGlSb3VUY05CbkhabUc1ZGZWNkRWa2ZjTE5RTGI0T1Q4UWdBMjNn?oc=5",
-          "source": "AP News",
-          "pubDate": "Mon, 16 Nov 2026 15:04:00 GMT"
-        },
-        {
-          "title": "After one last Sunday, a beloved D.C. golf course is closed. For now. - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVGVDYzFGODVkMDRHVC13UDNJUU56LTNVcERac3gxN3VKNzF5WU50YldOd0NrVlFXV0ZuZkZLR1Jwb01HVUFaV0x4UXI2N1FoZmdkN2R2c1NJV3ViaUJGREt1ZXZ3emRsQkZYYmFiZ0xRaDJnbGNkbTVsenprUklGOHBIbnRma1AxT0VkV1dDY0ZQenFkWmZJWDlvc2FmSzE0anZEQzN0dm1MT0hIVkcyYXM4NA?oc=5",
-          "source": "The Washington Post",
-          "pubDate": "Mon, 16 Nov 2026 16:49:15 GMT"
-        },
-        {
-          "title": "Person Detained in Illinois Bomb Case, Official Says - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Ybm0yUzh2aERRd3J4VkdKcHpZOEZ3aFFKeVJZdDFpZ0JYVzhWVW9UbURIdl9JYzJYZk0wWnFVZnp2ZUpBaEVOZnBWYWJRSWVzMUxhcmJDSnZycXp6QmJGZzJWakF0dFNud2ozTlM2bkczMVZrZTJN?oc=5",
-          "source": "The New York Times",
-          "pubDate": "Mon, 16 Nov 2026 18:22:47 GMT"
-        },
-        {
-          "title": "International Students Are Turning Away From U.S. Universities - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZFp1aDc2RXdjb1UxcDlSX1J3WTUwWk4zY3YwaTh2Z0FiU1pDcTFzQjJsblNpbVBCdXUyMHpJVkhfSHYxbk12dFN0SzZmLW9IOFVyeGtEYndaS0ZydHpHWmZJTHFoQ0hOdUV6OUpvRDVQUWhVb2h4Nk5lc2Q2NHphVk5qYUUtWUZ5OFhTLTRkdlppZjZVWTNR?oc=5",
-          "source": "The New York Times",
-          "pubDate": "Mon, 16 Nov 2026 14:10:12 GMT"
-        },
-        {
-          "title": "Trump says he is not firing Lutnick - Politico",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRHJyQjNtQTZBdjk5UmRYVi1Fd1dFWmVDTTlNcXRuTEluS3M3VF9LU3BTbEx1WGNjN0xCT0xyZUZ5d0hNMmlyaTd5MF9hdDMzRDNEdHZ6UGNsVmRrMnZKWktBaXZYS1QzUTVPbFpGSm1kU3NxVi1nNkdtZ2Raa080aGduTzVuakxqZUhRdjhDaw?oc=5",
-          "source": "Politico",
-          "pubDate": "Mon, 16 Nov 2026 16:30:00 GMT"
-        },
-        {
-          "title": "Mamdani Disbands Controversial NYPD Protest Unit - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNXzRveVl1LUFDVFliMm9NU2huenhiQlRTbS1NQ2t1eTRPN0czZUJHZDNVNksyWldCZ3hwdDByS1U4c04yOTJNbG9FamJKblg0MHdfdXBRR0lQLTZRUFYzQVNWQnMwWEVCZ3FUR2lsZjFBeFVPQmpmMkJDdXdteDJrN3c3QW92VUxCcVJocmh4aw?oc=5",
-          "source": "WSJ",
-          "pubDate": "Mon, 16 Nov 2026 18:07:00 GMT"
-        },
-        {
-          "title": "Third US aircraft carrier arrives in the Middle East as Trump keeps options open in the Iran war - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYmZiWEcxLU9Xck9JR2h3VDIwa1VETmRCam5zQm1BWmhNcGhZS0pBdi1BZGRZLXhZT3VmUG5wYld2N1gydV8teDVFc0UtNVljakJ5Q1JNRkRUb0dqRDRfX0p4QVBGdkZRaWd3Y1J6aFdZWlZhVGt5LWxzcG9mRHVPYnBXZFFrSXVqYXkxd081YzdlNTN1T05yVTgwZUIzSUhQQWc?oc=5",
-          "source": "AP News",
-          "pubDate": "Mon, 16 Nov 2026 19:32:00 GMT"
-        },
-        {
-          "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow - NPR",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORjVjenZkdk1vNVNjSTR1UklRSHZCMGllZVR5N2lfRXo2MXg0MzBnQjBxekctUk5RZWJQaGRxYTRyekJvSzAzM0piT0I2dVhlcmVUalpyV2FxQVQtMVNLdGZpWjFBUUY4bGVBbldicWVnZ0MtWnNoQmhMYmVYWllHY3pHcUc4Zw?oc=5",
-          "source": "NPR",
-          "pubDate": "Mon, 16 Nov 2026 18:04:50 GMT"
-        },
-        {
-          "title": "Five EU countries unveil plans for Rwanda deportation hub - CNN",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1MUEtbnFPb2Z2azVZUzVNWkQ3RGdoNm9mRHI3Wnlsa19sOHJ4azJNa3dOUTlUemduWkFaLTR5LXNHZUpDd0diQmpCWE9nY2JmcTUwQXNsTEVuaWNCY01HY0dEUDUxMnpnRVNMVEZ4Y0tUZWZ2d3Z0VDF3?oc=5",
-          "source": "CNN",
-          "pubDate": "Mon, 16 Nov 2026 18:04:08 GMT"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 429"
     },
     {
       "id": "ai-tech",
@@ -89,81 +16,8 @@
       "category": "Tech & Science",
       "query": "artificial intelligence technology",
       "feedUrl": null,
-      "items": [
-        {
-          "title": "6 Technology Trends That Will Transform The World In The Next Decade - Forbes",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSjZRZ195ekFJSV9HQ2lrUl9aaDJaUUhYaHFfcDFFRE9TblNRNFFsZ183UWNjNHBtRkxDaUh6RENRQUdQd2k5V01rRExTLTR6Mm9rVDFiX1dPMDRrSW9NZ1dib2lOdXBVTHBQS1R2UHFCeW5yRElySk9nWDJWSjh1OVpzRUxNczl5S0FGNmdpTFVDTjlkaWVNQmRsWDlhMWdOOXBMcmNuRHFoQ21UZjVBVFo4X3VUNldsc1NXTmJR?oc=5",
-          "source": "Forbes",
-          "pubDate": "Sun, 15 Nov 2026 01:26:21 GMT"
-        },
-        {
-          "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout - NPR",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObWZfUU1JVEVmLVN3WGtNQi1GejRsTHFIeFBIamVtcDMzNGg0WV96R0VFSGF4ODYzYkZhQVVJWGFsT3pmT1RDZXFMUkJ0Z3pEdFYtVlZIOGRYM3pETGwwVEQwM1IyZlNBajJYOVdvLWc3MVdzVE9zN04tSDZoZGk0V21YSEpoWmE0SnNoMQ?oc=5",
-          "source": "NPR",
-          "pubDate": "Mon, 16 Nov 2026 18:49:26 GMT"
-        },
-        {
-          "title": "Trump administration moves to block China from indirect access to American AI tech - PBS",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSFFpN3hkMjdrVkkxalhuQ1pVNHAwUDZBVXN6SWdpWWVhV2FwT3ZVcHBYMEhjeFdpNnJOWWVVYzlZbkJjeW1ZUVNGX21PNURhTm5WRWZtOV9QNjlWWEJIVDNnR0hIdG9BU0dOaXNSS1BBRkc2Zm93RnBFRjBaa3FXSzNJcHp3RGNJMUJZM3lSaTA5QmRDQXZVZ09oUzNwT25OdWZKQVJCSnROUmJfenBkZm9LbjM5ZS1NWldJ0gHAAUFVX3lxTE10UEozWGFqZ0ZQU1NjMVdxdDF6MVdnWUliaXlTZFRqYXFwcEhnaTZZTUdTTFowUHBUUDlZaVN5VmFhRzlVVlNVMVRZTzVXQlJLQ1EyUHpTOEw4T1owZ2NCdWtncWNISWFTSVFMMlAxNG9kbVFocEtGXzZrTlExazNPT2J6OVZvVTlBOERsMndxeXNRMEhXa084UXZkTy1FSHFKWFJTMFBZRE0yTkQwX09WWV94MFFrWUVqWDNLc0dsdw?oc=5",
-          "source": "PBS",
-          "pubDate": "Mon, 16 Nov 2026 18:51:20 GMT"
-        },
-        {
-          "title": "US, Allies Agree to Guard AI Supply Chains From China, FT Says - Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYWdZazV1cGI2aFI0Ymdpb2hhRTU1Z3FjZ1hTdkZWVlRzT0Y4RzZnZXMzSXdPS2VEaFp4NGg2STQxdzhxQ2tGN1AxZzJQc3BkUjE4RnVoenRnM3dwN2t5TzV1dVpyUjAyd254NU1kM1ZSTTdoZkVnU3V3dUJxSE1LVFBiQWxWQzFkSHNIanRhQVRlU3ExV3MzYnpEeVhlZUZjbkRBZ1o4bVQ1YnlsdVl4TA?oc=5",
-          "source": "Bloomberg.com",
-          "pubDate": "Sun, 15 Nov 2026 20:16:10 GMT"
-        },
-        {
-          "title": "Anthropic Says Its Recursive Self-Improvement Alarm Has Been Triggered - Gizmodo",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOC13ZnQ0Z081WjhENnhPRy00T0xnQU03QVdzdS1VeWRDQWNNQmpvMEoxdmdBV1VWQTU5LUtJOXdmVXJBR3BYZGpyRDdvNTlYZUFmSURZNWpXc3MwUlc2bzhmOUtPMTlEN0V6RV9PUjRyMGpHQi1OMkdMdlFJSlNaRlowMnJZakNRRmdyQXdvMWd1QkI5TTZpWk1OMUppdmxRTDJr?oc=5",
-          "source": "Gizmodo",
-          "pubDate": "Mon, 16 Nov 2026 10:00:29 GMT"
-        },
-        {
-          "title": "Rising anti-AI movement forgets all the wonders, life-changing improvements technology has brought us - New York Post",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5qMjJfVEhhSFUtcUl4TWhmRlh4ejdWeGtDclBJZTNJamZ4M2tVYkFVb1NSM2NhZzJzcVFLZUx1aHR2Sll1X1RXcHFJelI0MVo0aFJXRkVxZmNKNUJXUE8yRW4yVm1iZkhFOTFBT0JvZzBpR0ZMN2l3?oc=5",
-          "source": "New York Post",
-          "pubDate": "Mon, 16 Nov 2026 03:29:00 GMT"
-        },
-        {
-          "title": "Building trustworthy AI by fencing it in, not predicting it - MIT Technology Review",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOV90MFIzTnhGbGxmWnZJcDNYeXp3SER2clV1MHQwOEtzQkZ0VkJ6LUFxdHB0OHhIUnA2SjlYaGx5YlBhV2ZqeVktcGZQQTY3cjhTUW05Ry1OSWkzbmZ2bjcyb2xjVlRGdHJqUFh6ZkVndzVXeHdVVTVtTWxvZ2NHQTVXa2xLdU5MaWkxZzZsSjlaUExtR0NuVmctSmx0QVpVM2JrZ1oxcHVmMW1IWm8xMdIBtgFBVV95cUxQYjgyMnlOQzRUSVJQSFdVUl9BallYUjRtTnFtWkFuSVIybHBGbGtmRjhlSTJVMzlmX195ZExjcExGampFeUxkeDZTYUZkYmtFWHYwbEZ2V1QtWUVFWGVTNm5xeGM1VUwzQTZyVlFQX0hoTDRJUGRIY3pOS0JCZlREcDZsYnNxVGgtSy1vOHdjSk0xdlRLNld0alVmS1VIb3NzR3o4dXdaSVZIaFJWanh2ai1Yd21CUQ?oc=5",
-          "source": "MIT Technology Review",
-          "pubDate": "Mon, 16 Nov 2026 16:04:28 GMT"
-        },
-        {
-          "title": "HLTH 2026: Suki unveils agentic OS to automate complex healthcare workflows - Fierce Healthcare",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbjJSYk9GUV92LXFSZDhwRUdsd1hIRC1VcWlGQjJfY0pPUG1JV1A2WmE1OUNyelBaR0dmXzd1c1RjV0pFZ19kWWFuZVc0UnMtVTJsVDZFMVpEa2lqaWl0UllsZVc0X1AxY040NE9oSEtxR1VJMVZSN0RkYTdlUFI4bnBKbWpJVUtmTDRFV0tqb1VGOVl2dUhSOWdoUQ?oc=5",
-          "source": "Fierce Healthcare",
-          "pubDate": "Mon, 16 Nov 2026 14:00:00 GMT"
-        },
-        {
-          "title": "How to Build an Artificial Intelligence Revolution for All - Time Magazine",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUDg4LXBrcXB5UEVHNFE0LTdYSXM0N21ia01nSWs0TnBxcmlvRUpWYjY5X0JTVE1zVEstWjJqR0pVbDhtaWdER0NzSDRDWjFyZzBzeG9xdGE0QmR1RjNUcWw2Yy15UEpnOVVybkc2Z21zYXZ2SktTZF9Ecm9KckNZZFVsZGtWMEJDQnI3QkFHYmRNRXhIajZDZWNDRQ?oc=5",
-          "source": "Time Magazine",
-          "pubDate": "Mon, 16 Nov 2026 13:30:06 GMT"
-        },
-        {
-          "title": "US and allies sign accord to protect AI supply chains from China - Financial Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeVM3Y2hkVkZKUTFFcUhkRUJlX3pWbFBGZlZ6QW1tMjJTUUZ5WUgtS0lWMmh5V3YweURabUtma0pDeTBNM0M1cTYtUkQwcDhrODFmM0RPdmoxYzNZYldpdmxKN0ROTVNmMFhOZ3dpVFpnQ2VSUkRyOWtnaG9udTNpbTdRemg?oc=5",
-          "source": "Financial Times",
-          "pubDate": "Sun, 15 Nov 2026 17:47:43 GMT"
-        },
-        {
-          "title": "AI Comes With Serious Risks. Are We Ready for Them? - Tufts Now",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NWnh2aTNYMk1KQlEzS2dGeXBfc0ZvSEM3V2VFazVZQUN5Rk5wNWlxNkFXQjMyd3FQWjJZSXV6NjlfWjc2LU5FckV2Tm5JcHR6TGhDNy1RVXZXVFJNX1BuOUJJOVZOT3BwREVLMGZGQWtRODRXSHlVNmVTczJ3dw?oc=5",
-          "source": "Tufts Now",
-          "pubDate": "Mon, 16 Nov 2026 12:00:00 GMT"
-        },
-        {
-          "title": "Before the Warning Becomes a Crisis: AI and Nuclear Decision-Making - Center for Arms Control and Non-Proliferation",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZWJhaXNNUnJwXzdVNkFtaVoxek9iV2p2ME5QLWtHOF9XaTl3NnFWT2dlU2hoMmpLemI1ZE9zbTVFMWhKRFFiay1RaDVreHNkVUlHVUtKdHc4V0o5Y1dJellSTGo1ZGs3dGZ3TU01ajhDNXk3SklTSm5CbkFlb2lIdHJQeVpvZFZrU05tQmdNN2VWTUFJM2FiY3NZdWw5dw?oc=5",
-          "source": "\"artificial intelligence technology\" - Google News",
-          "pubDate": "Mon, 16 Nov 2026 18:40:54 GMT"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 503"
     },
     {
       "id": "quantum-computer",
@@ -171,81 +25,8 @@
       "category": "Tech & Science",
       "query": "quantum computer OR quantum computing",
       "feedUrl": null,
-      "items": [
-        {
-          "title": "NVIDIA Announces Collaboration With IBM and Fermi National Accelerator Laboratory to Launch Quantum-Classical Codesign Platform, Plus Error-Correction Breakthrough to Advance Practical Quantum Computing - NVIDIA Newsroom",
-          "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNTVZQdUtmWUZoalpDUWVYQWNpdVV0MFdfM3FDWk4xTjFYQjRqZHBXN2hiSUlGR28ySjJPUEx0UUFGR3E1aGc0R1V0Y3R2c1RBVXRQMExSNUV2RVFIb3U2U2dsQm42eW0wTFppQVIxUVFVOVdpT2pabF9XVFl3NWczU1VTcUIzc1VmNC0wOUdfbVYxZGZHTFVIdWRCWklDOGpNeDg5akNBcUlsVEY5cE1KMnBSZG5ITGdrRDNHSjhwTi1DNVNrX1lwazZqUlB5WEJzMFAtQjRXNk1Jc1VKclRTNzcyV2ZGbEd6QUV6RU9ZWk9xV2FDU3ZDd2VBUVdHblBfMGFwUmZ5OGRtUzhTbGpTRFE4dHFvNnltTEZUNnJObHo5Ui1wOTUycDBTcGdDQzJOMVhRVG4yY1d0VUhZOVdNNnlKRDlyeWd5ZnR4VHRBNEhrWWZBMS1J?oc=5",
-          "source": "NVIDIA Newsroom",
-          "pubDate": "Mon, 16 Nov 2026 16:04:02 GMT"
-        },
-        {
-          "title": "IBM, Fermilab, and NVIDIA Announce Plans for New Co-Design Platform to Accelerate the Development of Next-Generation, Modular Quantum Computers - IBM Newsroom",
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNOFlIVDAtVVRvWUlMX1VGNFdiTThYLU9yS2s4LUdvNVlSQm1PMWFScmJXcmM5cm1zZlFjMWd1bGxGWXNVVHE2c1JjazhiQ3JJMmhrcy1LUndmRTVOWUV6NGZ2bnZVN1J3djJpbnJBVTItdm0wU1c4QUFiQnB0bHNaZGFGNVFENktXOWY1bGF0TXVwdGJMSDk0ZnFaLWVsc0pjd08wendtbHJWTXY1N1BfU2pBaU9vdGtmajZDTzFvdWplY3RhM0ZLWTkxR0M4UExScVR5U2NINzlFY3Myd3R4N1B2WVN1dFpqanhPbVp0X1pSYXFxWVBoX09WbXFjZkE5c1c0b3YtQ1d5REE?oc=5",
-          "source": "IBM Newsroom",
-          "pubDate": "Mon, 16 Nov 2026 16:01:21 GMT"
-        },
-        {
-          "title": "AI confirms a long-suspected limit on quantum computers’ advantages - New Scientist",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZlpfaG9XNFZKNjJyUHRSNWpITGJaXzVaS2szQUZBRmhlY3MtODYtT3ItNG9DcU5CaUhkX2E2ZG1fbVd1NldZN2wwZk14TkxnRTJpRngtMGJCbHE2UnVGNmVtYjFjRVk1ZTZzUXVvb2dSblFnOS1uaVd5OVFyMGVmZXZZbnJYRG9ybVNIdldWenpvcVM5LXNMTDJFcWpkWVo0TEZ0ZGFrLW1ZQlNBV3dWeURR?oc=5",
-          "source": "New Scientist",
-          "pubDate": "Thu, 12 Nov 2026 20:01:41 GMT"
-        },
-        {
-          "title": "Inside this quantum computer, memory vibrates like a guitar string - Science Daily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03TEktZC05TXlZbzBvekhPNm1NY2Fxc1M2UTE3LUZrUGVsOWNtazhYNTd3a1dsQnNSOVR6TGYwa0c3bDRkdF9mM0l4WXZEVzloSkJwRUNpRUlhcldvNFNwcDJEbHUtT1QzZ3lCVmFnQQ?oc=5",
-          "source": "Science Daily",
-          "pubDate": "Thu, 12 Nov 2026 02:36:50 GMT"
-        },
-        {
-          "title": "Research advances quantum computing that harnesses speed of light - Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BTFc0YTlxTl9qVXhnSmlVekFGSE4yT0tqbEVJblJPX3lESEloQ3Jud3BHQ0lHbVloazdwS1M4SWpLSGxDX25qMklYMEJCNVl5TENFVUFIaThqYzY1ZlNucWxfYldHalQ2d29CaDBn?oc=5",
-          "source": "Phys.org",
-          "pubDate": "Fri, 13 Nov 2026 03:40:01 GMT"
-        },
-        {
-          "title": "Researchers develop faster laser cooling for quantum computers - Cornell Chronicle",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbWJMcmdGeWZXN0Vrb2I0WlpHc2R6anVKN0R3Yk1OejZwX19YLVo2aV9DaDBESnNvcTAyYXZsSURlVnVnSEF5dUFGR2NxOFdaSFZWQzVpcDNUWXAzTUQySjlUTEQ1MkNpODFtTXlkZUVRcXk1ZXJQVmxqNXFOd0tCTFVYdU56MVY2d0dPTHdDSWJXTDlqbXdfR2Y3WURheG5Y?oc=5",
-          "source": "Cornell Chronicle",
-          "pubDate": "Thu, 12 Nov 2026 15:50:23 GMT"
-        },
-        {
-          "title": "SC26: IBM shows progress in bringing quantum & HPC together | IBM Quantum Computing Blog - IBM",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA2T1o1dERpY0R2Ynp1TURKTllycExRVEI5eEI4aXhhaTFvYVp1N056WGp6TEtxdmdnMEJnSkxubXV1a3hEUnJ1eEhZLWt3Zw?oc=5",
-          "source": "IBM",
-          "pubDate": "Mon, 16 Nov 2026 16:09:15 GMT"
-        },
-        {
-          "title": "Fermilab, IBM and NVIDIA plan modular quantum computing co-design platform to advance scientific discovery - Fermilab (.gov)",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNEE2M3l5cTZQdERnT1FwNVkzQ2JmYzZhVEJPdGRaYmItdEk3OXdIRXRXT0Z4bEJTOWl1OEwtVlBVTXNkUmVyODVKa3k4bV8yN0Z6Rm1VUlViY1hZVnV1Tk9BVzhYUm9NbDdrOWdCaXBJVl9wRlJaLWVOVlhNb05IYnJ4eGcwYkRrUE9KVGdZS3VTQ3JfQzM0aEZmRlZQSHc2aFRwaTBRRlYyOHhnWWZCajN3d3ZmQmstUHExX2t2MEplRXFMSFE2TE82SUpmN25zYWc?oc=5",
-          "source": "Fermilab (.gov)",
-          "pubDate": "Mon, 16 Nov 2026 16:00:24 GMT"
-        },
-        {
-          "title": "Quantum Computing’s Next Scaling Challenge Isn’t Just Qubits. It’s Power. - HPCwire",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPblpRY21YN0RGMUZKRGNoQkpJNDhzVkdJRlF1OUU0d044dnhJdnRsVXRYbUpJdmp3M0FHZEIxaVM4OFpzX0w2RkwxanFNYlNsVmpva3hwdTlvNjVWbVFMZDFka2NIYUF1YlAxcGhRZHZnTmd3RENLZk5IZ1ZjckxRdG9KZmstNWdXSUE1bzFEbmp2NTdpMlduZUtUdDdQYzZKaUVrUHk5NA?oc=5",
-          "source": "HPCwire",
-          "pubDate": "Mon, 16 Nov 2026 11:06:55 GMT"
-        },
-        {
-          "title": "Operate quantum computers like any other compute resource, not science experiments - Q-CTRL",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMnI0b1hwak5RQ1JIaS1MOWVYU2hSWUROYkhTdkp0MGVPN3VLQjhHTmlGVTFRdWx0OG5OWVhGeUtzQlp6MnY5TDFaWVFIei1FYkM3bDBtSXdyckNpTlN6WkpYTXVnamx5UkY2X3NrMDdxMEMtek5Rd3FLYVA3Nk9TMExJU1FHOG9MVXVoTFNsZE9hU284cmdvVFB3YzMtMklSX1dVNXg3cFI?oc=5",
-          "source": "\"quantum computer OR quantum computing\" - Google News",
-          "pubDate": "Mon, 16 Nov 2026 05:59:39 GMT"
-        },
-        {
-          "title": "IBM, NVIDIA and Fermilab Plan Modular Quantum Computing Platform - The Quantum Insider",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU0hOem1GNC03ZE5GbnJENml3QkRiMTUzZnY1UC1KVmhkb1k4S3dJV3Vvc3FZcTkySU9UOFpnN0Y0VUJBTkV4cnVYaDFVdWhfMFpwazRRZVNJQ1lLeWhUZGtSQWJ3VFZvZ3BGZFJzWnlYQ2I2X05rT2F6VWk2UlA1Qm5FQVZKLUo5cTZ0V2xRbFEzczJ2TEd0clNlbE8?oc=5",
-          "source": "The Quantum Insider",
-          "pubDate": "Mon, 16 Nov 2026 16:31:15 GMT"
-        },
-        {
-          "title": "One Interface, Every Scheduler: Alice & Bob and Quantum in HPC Workload Managers - Alice & Bob",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SYlNsWlVIdkl3My1Wb3FBeFktLVpPM2ZTLTdpZHhHYldjMzNqYUNPY2RhVDZJcEZuSnZna29KUlJhV0ZUemdCQ2UyV2pLMk9ETTIyUVQxcURpOV9yaGQxMVNtNU9Wb0JheUhJNGVubHdvUFZ1T3gxdQ?oc=5",
-          "source": "Alice & Bob",
-          "pubDate": "Mon, 16 Nov 2026 16:05:23 GMT"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 503"
     },
     {
       "id": "hacker-news",
@@ -255,22 +36,58 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "items": [
         {
-          "title": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
-          "link": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+          "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+          "link": "https://www.cs.cmu.edu/learn/",
           "source": "Hacker News",
-          "pubDate": "Mon, 16 Nov 2026 18:31:30 +0000"
+          "pubDate": "Mon, 16 Nov 2026 20:43:36 +0000"
         },
         {
-          "title": "Grazing sheep in fields with solar arrays",
-          "link": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+          "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+          "link": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
           "source": "Hacker News",
-          "pubDate": "Mon, 16 Nov 2026 17:27:46 +0000"
+          "pubDate": "Mon, 16 Nov 2026 22:58:20 +0000"
         },
         {
-          "title": "Jiff 1.0: A datetime library for Rust",
-          "link": "https://burntsushi.net/jiff/",
+          "title": "BugMeNot has closed",
+          "link": "https://www.bugmenot.com/",
           "source": "Hacker News",
-          "pubDate": "Mon, 16 Nov 2026 16:53:39 +0000"
+          "pubDate": "Mon, 16 Nov 2026 21:32:17 +0000"
+        },
+        {
+          "title": "Optimizely compromised, served malware on Zoom, GitLab",
+          "link": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+          "source": "Hacker News",
+          "pubDate": "Mon, 16 Nov 2026 23:00:34 +0000"
+        },
+        {
+          "title": "Running coding agents without handing them my credentials",
+          "link": "https://blog.antonio.cx/running-agents-with-lend",
+          "source": "Hacker News",
+          "pubDate": "Tue, 17 Nov 2026 01:18:56 +0000"
+        },
+        {
+          "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+          "link": "https://support.apple.com/en-us/149699",
+          "source": "Hacker News",
+          "pubDate": "Tue, 17 Nov 2026 02:17:04 +0000"
+        },
+        {
+          "title": "OpenCode Browse",
+          "link": "https://opencode.ai/product/browse",
+          "source": "Hacker News",
+          "pubDate": "Mon, 16 Nov 2026 21:20:37 +0000"
+        },
+        {
+          "title": "Chemistry is Actually Geometry",
+          "link": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
+          "source": "Hacker News",
+          "pubDate": "Mon, 16 Nov 2026 20:22:18 +0000"
+        },
+        {
+          "title": "Mem Is Shutting Down",
+          "link": "https://get.mem.ai/blog/mem-is-shutting-down",
+          "source": "Hacker News",
+          "pubDate": "Tue, 17 Nov 2026 02:13:41 +0000"
         },
         {
           "title": "Frame – 31.5\" color ePaper display",
@@ -279,52 +96,16 @@
           "pubDate": "Mon, 16 Nov 2026 16:23:22 +0000"
         },
         {
+          "title": "Jiff 1.0: A datetime library for Rust",
+          "link": "https://burntsushi.net/jiff/",
+          "source": "Hacker News",
+          "pubDate": "Mon, 16 Nov 2026 16:53:39 +0000"
+        },
+        {
           "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
           "link": "https://news.ycombinator.com/item?id=50522776",
           "source": "Hacker News",
           "pubDate": "Mon, 16 Nov 2026 20:29:48 +0000"
-        },
-        {
-          "title": "Squircles",
-          "link": "https://linebender.org/wiki/curves/squircle/",
-          "source": "Hacker News",
-          "pubDate": "Mon, 16 Nov 2026 07:55:10 +0000"
-        },
-        {
-          "title": "Aristotle Expands into Rust",
-          "link": "https://www.harmonic.fun/news/aristotle-rust-verification/",
-          "source": "Hacker News",
-          "pubDate": "Mon, 16 Nov 2026 17:34:41 +0000"
-        },
-        {
-          "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
-          "link": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
-          "source": "Hacker News",
-          "pubDate": "Mon, 16 Nov 2026 11:39:31 +0000"
-        },
-        {
-          "title": "Giant Roadside Attractions Face Mounting Costs and an Uncertain Future",
-          "link": "https://www.nytimes.com/2026/11/08/world/canada/roadside-attractions-giant-dinosaur.html",
-          "source": "Hacker News",
-          "pubDate": "Tue, 10 Nov 2026 18:03:14 +0000"
-        },
-        {
-          "title": "OpenAI: Strengthening the fight against online child sexual abuse",
-          "link": "https://openai.com/index/strengthening-online-child-safety/",
-          "source": "Hacker News",
-          "pubDate": "Mon, 16 Nov 2026 18:12:48 +0000"
-        },
-        {
-          "title": "Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself",
-          "link": "https://copyrightlately.com/michael-mann-heat-copyright-termination/",
-          "source": "Hacker News",
-          "pubDate": "Mon, 16 Nov 2026 17:52:23 +0000"
-        },
-        {
-          "title": "Software is breaking down at a systemic level",
-          "link": "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/",
-          "source": "Hacker News",
-          "pubDate": "Mon, 16 Nov 2026 18:17:17 +0000"
         }
       ],
       "error": null
@@ -335,81 +116,8 @@
       "category": "Tech & Science",
       "query": "climate change",
       "feedUrl": null,
-      "items": [
-        {
-          "title": "Big Oil, Climate Change, and a ‘Smoking Gun’ - Rolling Stone",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY1hxckhBbHJUeEVlVjlrQjl0YjZPbGxaRmlvLVpCdTU5YzVLcEFELWpSVDk4cjJFd3c3VXdtU1U4c19EVVhvbEh1SHZybTQ1Z3FCc1d1bDBrWnNCQ1M5VXFqSDZqOTVab2hFZVdPYXpyLTF3eXpuRlB6UllUaFp2Zk9jVVhvVnZ6U0pJWnNhVXJLYWRiZnlKVUJFU0NBdWNmYVltRDdhQUpwMmtxenZ3?oc=5",
-          "source": "Rolling Stone",
-          "pubDate": "Mon, 16 Nov 2026 11:00:00 GMT"
-        },
-        {
-          "title": "These birds fly 17,000 miles every year. Climate change could make it harder - NPR",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZzNNd0tqMmJpbE93SDZfRGJ1RE5YTEhrM1UtWUJUeEFvWFQ2aURIelBNNDlRRGszc1gzZzEwdW5qeTZESjVidUNxR1NZaDNJbE4xQjIxaHJhREQ2clFxM2lvN2Qzc3RWd29YcXpPY1B0ZDNuUGVfcXo0QTYtYWJxYUpPSFFONlQ5LVBrNWM4ajBzUQ?oc=5",
-          "source": "NPR",
-          "pubDate": "Mon, 16 Nov 2026 10:00:00 GMT"
-        },
-        {
-          "title": "Cop31 as it happened: draft climate deal calls for faster shift away from fossil fuels - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYXVBN1NONDl3WlNFcGhsLVJRZXRYcUpwQ1BlbHktMWhORUx6NHRjNWJjMWR2TUFBSU5iQ3BWZmczM3dzZkJ0UnJtMWJweWN4Vm1lWUYyUnBQNS1xdG9LSWMwanBMZWd2SWJ2VDdjOFZ5OGZGSUttTEMxcFRXUzJLU0xHY19LY3F1TktzcXJaaUNUVTNMYmNMZXhFX0RTbGhjNFZFRkJDY0JEa3FOcmdN?oc=5",
-          "source": "The Guardian",
-          "pubDate": "Mon, 16 Nov 2026 07:28:00 GMT"
-        },
-        {
-          "title": "AI Will Have to Destroy the Global Village to Save It - Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdUZid2hyV0NvS2U3eTlSeVpsNVRVblVQRUMzdUZXSlBkVjdTQ19OS3phMWpvNmo4VlU1OU5JeTRHdjM3Sk8wdEgzbE1iVC1ZVGJxc2trUWExYzBLbXpkcnVlZVEwUEdzci11Mm5lSGt6V2VOSUtkd2VBbTVaV2EwcUxzUC1LQnp2YTB1cVJTSWd5TFExcy1wS2ttMDVqNkJEMXg0WTFZa2xhU2c?oc=5",
-          "source": "Bloomberg.com",
-          "pubDate": "Mon, 16 Nov 2026 11:00:07 GMT"
-        },
-        {
-          "title": "US Democrats bring hope of climate comeback to COP31 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY0tybWxMT0d3VG5LdlhVYVRWSF9fcUFTVDNOcjFQM3hxdVpoRzRROTI5b0pCUGwtUzNqMFRvbkROQWFGMWRsX0RyaXhzcnZ6MmFERTVtZUJ4WXdDT0UwUW1xRFRQNkxabjUtOGVOak1rS2IydmgwcWNBVTBSVDM2RUdHakZ4Q3FqNDZrd0d4YmpLSVhFQXJvSGFtenpPZTZzcExlWXI2NHN6VUk?oc=5",
-          "source": "Reuters",
-          "pubDate": "Mon, 16 Nov 2026 16:42:50 GMT"
-        },
-        {
-          "title": "South Korea’s Celebrity Shark Raises Bigger Questions About Climate Change And Ocean Conservation - Forbes",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOaWNBOFRsRnlaT3NVbWpxcFduZ05mM2hWQlBaN1lWQjlsTlRPaE9XNTF4M3NwVlNYaWlZRTNiZTJjRWhXNkNic1F6TjcwNllPZ2J2T0FKd18zRzAzblpiS081a0JIX09uOWdOM1BKa08wMF9QcXRtdDRPeldueFVVMkVibzBOdWkwakJUTTFzVXV3WmpDd0lqeUdZbXJfYWdHMEZLc2tOVjNvRVNySHR5MGdLZ2pPaHBieWR0dTAtSVR0MWF2aVBmcUE0cDgwbGFLalM2R2pfTzNGWXJMYzNOLXJsaktnV04tUXVRSTF0UXYyUQ?oc=5",
-          "source": "Forbes",
-          "pubDate": "Sun, 15 Nov 2026 19:15:00 GMT"
-        },
-        {
-          "title": "Earth has surpassed global warming targets — what now? - Financial Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYklqZ0M4MTF5eE1ZUDk2NDQ2N25Ed2I5RDZtaE01dklkSkttX1JhN0Y2R1hWM3oxSU1kZV9RZkRjRHMteGNZYXI2TXg1aE1POVpRNlZ1RmdMUkp0YVhDYk9XSHpSaFBDdUZCcTdlMTRWN0xjSFFsUHpOQ3A0eUUyNnJaTW0?oc=5",
-          "source": "Financial Times",
-          "pubDate": "Mon, 16 Nov 2026 13:53:55 GMT"
-        },
-        {
-          "title": "Global Warming Approaches 1.5 Degrees in “Calamity for the World’s Ecosystems” - Democracy Now!",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NNVNURXlPNEMzVFpJVW1ib1pEcHl5TXh5bDJ6bmF6VDdWUGliNFRXWTd4WnZwYkw0bzFWNkVrVGl3eWVIVE5mVkp6WFJJdWRjQ1RNTWFHaFpoYTZjX0NrdldVWktxUQ?oc=5",
-          "source": "Democracy Now!",
-          "pubDate": "Mon, 16 Nov 2026 13:00:00 GMT"
-        },
-        {
-          "title": "'French Fractures': Public opinion increasingly links human activity to climate change - Le Monde.fr",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVXNBZzVyYXJZdFBBajN3THNGcHdxSTBjM2hQMGNzNU9ZN3hETEdlN0trem5EVWNWcVVsSWxmdXA1OWoteHM2dlViVFhiT3QxY2MyWTFyd1NKaXpMME5uZ1RPZVZkZWpSNi02anJrZU52R01QUUE4QnlKWHgzSXotWVdzWUdMcGo5ajExN3ZWa04xR0QxTkppUzJtSk1lWWpHazZYYVdGQzd3SmtyLUpIbHY4ZXBxNmxndl92TklJQ3lTUHM2UWFGU2hOZjRIbEM3M3pQOGozVldVTnA0OXl4X0pqaDJnY0U?oc=5",
-          "source": "Le Monde.fr",
-          "pubDate": "Mon, 16 Nov 2026 12:30:02 GMT"
-        },
-        {
-          "title": "Why Digger May Be the Best Climate Change Film Yet - Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM2g3QnN4VnYzUHRDU0xqaDNXSWVwd3N4amlDai1JMlBsbGpYVzhDT3RIS29NZ0wtbnJnREpNWm1fcjRHTTVxY2ZPcjZRQm1OUUVaZF9faExuLVpyQ1BGQk5OTFZGd2w3eGhSZ3hkM2YtRXkwVVVIZnc5XzRIR0pOTzFpaEFvMWJTalEyZ1B6X2FYY0tXSUR5clZ3?oc=5",
-          "source": "Yahoo",
-          "pubDate": "Mon, 16 Nov 2026 10:05:33 GMT"
-        },
-        {
-          "title": "Financing Dignified Planned Relocation in the Context of Climate Change - Center for Global Development",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRl9YN2xhbEdZa2tWV01PbmZWRG5iaVl0ZnJPazVZTXdpLUhOMTd1blgzblA1ODhUSzVLWmROMnJBb2pFSEZoT0hNOG9seVZvaDJDRWdta1VaR1VycGE3bjY2bGZ1aG10bUVIMVp2MEZXS1djak1KUWdPYTFZakcwaDQxUmpST3FUd2ZmUWhYNGg1YzA?oc=5",
-          "source": "Center for Global Development",
-          "pubDate": "Mon, 16 Nov 2026 17:54:54 GMT"
-        },
-        {
-          "title": "Why connectivity matters in a changing climate - World Wildlife Fund",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWVROT2I2eHoyYUZ2WEVoTVdOTnI1VENKSGJ4VWxjY3lnMVc0MXFKRDh4MS1pdGVpNUd0d2F1VFl4VU40d3pwcEFCMXoyUFN1WU4yT0ttUlBvRUl0UlV5NkotM3JTU2dxeGlhWjQ1N01ocGU3XzhBV1RZTVVGd0N0VXk3MzF1X2lXZGxnNm5PMElLTkw2dW8zdzBsVWExMmc?oc=5",
-          "source": "World Wildlife Fund",
-          "pubDate": "Mon, 16 Nov 2026 15:27:42 GMT"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 429"
     },
     {
       "id": "prepping",
@@ -426,81 +134,8 @@
       "category": "Politics & World",
       "query": "US politics",
       "feedUrl": null,
-      "items": [
-        {
-          "title": "From culture war to class war: US Democrats ditch woke politics - Financial Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeTJKWlVUanhjR2sxYWlkcFBTUUF3emVLWkV3ZktNY013X1p1MzRldTR0cWkyUUVMaF9CdHN4Q1lIV0dfZXB3UG9mbDNadUtLU2htVm53TmhXZUFLM3ZJV2swSzM0TzVDRS1pTWhZNGpBclNqa0pNSG1ibUFCVGFfVUp3Zm8?oc=5",
-          "source": "Financial Times",
-          "pubDate": "Sun, 15 Nov 2026 11:00:04 GMT"
-        },
-        {
-          "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQY3pTNXBzV1BYdXkyNTRpX2lpUkxhWmlUOFg1ZUtHQU56QlFsMHF6VTBTYTVmOTdKc3NFMzNPM0YyODA0OHVOUC1nc09FcERGQUUtZ3FIV2NmOWlEUHRHaDBrMS1yRVN5VnJWZXVxZkhpdGk3VmtIaHdEeTYwb2dGSFBqTzF0Z04zR2lDcGs0ODdRdkd6RmlBTWUtU1RWeXJJWEctNzlrWjZzWEdGcE1lbGlzZlR0aWZ0Y2Z3ZDFCT2NwejhMeHh3NlRqY0RsR0hEQ0N0Sl9SMDJ5RHhxTzQxaHdqMXA3QncwbkE?oc=5",
-          "source": "The Guardian",
-          "pubDate": "Mon, 16 Nov 2026 11:11:00 GMT"
-        },
-        {
-          "title": "U.S. attorney warns Sen. Elizabeth Warren against investigating Trump associates - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT1VQTG1hRDNYVFZZQ1pITkxUb1p6MVdYTkpKZjhRblI0NXBWT3F2ck9JVG9EWDBzNXZRbGpnRUVhRjd5S1phekl2T21QdVF6Wno1T3BHRTdPMG5BcVJmRTBkVVVEbjk5RDE3XzBmTlNKNmpNeWE2bjdCeUxVWDVKV05VbVZLNkV5WG9XNFRxdXUzZ3FscXlCRFJkN3BBNG5iUndpNjZ6a2pLaGF2ZFB1N1htUFJDUlZjcDh3YXl2dw?oc=5",
-          "source": "NBC News",
-          "pubDate": "Mon, 16 Nov 2026 16:54:00 GMT"
-        },
-        {
-          "title": "Live updates: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin - AP News",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5EZXJNaEVxdm9uQ0E1R09UT3FSaUtDblI2LVgxNVZWNGU3SjRVOUg1b2M3N2JpemtoOHllWTE4NnNuVk5Qd09iamZteGNra1pfNjRRY2JWSzhxRlRMUWFPbXB3OVV4eXBOeFJSR25TYjR1a3VOdlE?oc=5",
-          "source": "AP News",
-          "pubDate": "Mon, 16 Nov 2026 20:14:00 GMT"
-        },
-        {
-          "title": "Trump Kept Out of Sight as F.A.A. Issued Flight Ground Stop - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSWdETG85RE9IbWFnRl9RSUFLOG1DU1dwekRIR1doWGJhdVNEZUNldEFWN2czSnBEdzFjWlRvMmpaMTc3VDdncVNVOUw5bGJGMUdRcW9aUTczNEZfVmZGZEtnN1RUdnhJdVNPZDdVNlhjMS0xZlRNdGoxV3BFbHVDbDVlLUo5aFVZei1EUDg3MFVWbnhj?oc=5",
-          "source": "The New York Times",
-          "pubDate": "Sat, 14 Nov 2026 22:10:43 GMT"
-        },
-        {
-          "title": "Transportation secretary Sean Duffy blames prior presidents and Congress for flight stoppage - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPME5DNEdPT1FoZElNRGcxQjRUWTBBa3kwOVJVVzZxSktLR0xWc3VDSS01aWdSeTM3eTBveWkyRVlXN2ROampMWUxyd2tqc1ZvLXBYalp3Z3QyWHJRVlh2bVk2Y3FMcTZ6Uk9IbHFNaVdMaTltaE5rSzlsYlhwczV3SnBfb0ZlS0lURnN6S1hjek5tc2hvRjFrUC14dkRLOWtDZldibA?oc=5",
-          "source": "The Guardian",
-          "pubDate": "Mon, 16 Nov 2026 00:05:00 GMT"
-        },
-        {
-          "title": "Transportation head vows to find 'root cause' of ground stop. Trump breaks his silence on breakdown - PBS",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQlN2bms3WThwX1hyY1pvcjVBa0FJeUNjaWE5Mll0MzNRVTZKUHltaDZwZlVLb3RtSHc3VjZEQzVkd29NbXpGZjdRTEQ5MjRTU3VMRWRiNHVjOUk3cU9jaUNzeGF3VWVyUDF0LW45bEZ4anNYcVRYQTNHVVd2OXZiY0s5ZWtMbnZlVlAxb1NkUjFyaFZtMTEwOXNiclMyM0VUOHVvWThCQnpzM2kxM1I3Q0k2QTltY0hMakJja3J30gHDAUFVX3lxTFBVMmdTSjk0cS12a29lalFrWVVtSXVHWFFycV9SS00yMTJvUGNYbVNkS01BV2o3ajFuR01xTmQ0MVhTYUhITGdQb0NGQzh0YVpacGVpWWZkRDhEYk5ValFhSjgwbUtNM3hTbkNTVjM5ZEswT2hHakZkRmZwRF9LTjBtUUJnX0g5QkJ5Y1ZPVGdldnJObEVBeHFmVTUxbllBLTJQQlc0ZF8tVG1wNXdhTURtTnBnTDN2MDBlNWdVTU1VWnFHdw?oc=5",
-          "source": "PBS",
-          "pubDate": "Sun, 15 Nov 2026 16:32:43 GMT"
-        },
-        {
-          "title": "Army soldier files whistleblower complaint against the Pentagon over Iranian strike that killed 6 US service members - CNN",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaFBFb3pvaUNpbkFCQU1IOF9LNXJJYXVObXFnWEZfVUhXVHpkb3pmMlQyMlBid0dMTTBRNHVjODlnSEFGR0pxQmRFLWVaTlV5aUdtei1Yc3dIbjlKTlU3MDlfNFREUUR4WDlfOEl6WEwteHV6dGtjMWxtazR2QVpLQXF3?oc=5",
-          "source": "CNN",
-          "pubDate": "Mon, 16 Nov 2026 00:32:00 GMT"
-        },
-        {
-          "title": "3 things to expect in US politics after the 2026 midterms - The Hill",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSWh4ckgyaDZtb09ZWHRLLXBvLUlMdlpkQ0VNcm1HVXM0UkdiNlRnNlI5d2I5NF9EVkdsdHN0UlVjU1ljUGUzd2ZhN2lZcDFlSXoxLWFZa1FIQ3VyREx0bWswanNTSUs2Ukh4cFowcExlcW5PcHRjdGJlc01qYkFaN0JwbjTSAYoBQVVfeXFMT0dQVXhnY2VzeUJXT0l4QzhybzQ3eVhFNy00OUs3Nk43SXlKNGpUdjFCRGZKM1cyRGNYeVpJT05QbFJBX2JTcl9pOVl2UGk3LTFpVS0wTHV4R3FkVWV4QmFKbTJ4eFV5b3ViamhMc2lEV3pITGVBOUhnRkJGSDBHOGFvXzZiYnpMTEdR?oc=5",
-          "source": "The Hill",
-          "pubDate": "Mon, 16 Nov 2026 16:27:00 GMT"
-        },
-        {
-          "title": "Nvidia Fallout Looms Over Trump-Xi Meeting - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUnBicm1Jcmo3Ukx0dXNldVp4TmRXbkpvN0JIV2NaWE9VaFB5RGxqLTU1WFV2MGpSTXlzZ3A0ZHlZdG5pcHVjaWxJQl9idVJfSUZFVUp1RWJzTGphUzNDc0Z0S0xrNkFwdlZqbWl3dFRPM2MwYmdIVGpKVVhTR2wxT1AzVWlSUQ?oc=5",
-          "source": "The New York Times",
-          "pubDate": "Sun, 15 Nov 2026 21:44:40 GMT"
-        },
-        {
-          "title": "8 Takeaways From a Big Democratic Gathering in Denver: Democrats in Array - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUFl4VHRHOThuZ3I2NTR5d1d3NmR0d2NlRUdTczFoM05ueHNUT1B4OHpEVldyTlFkVHp4NXh3dGxmWVByZ0ViLVRIQjF2enNwdGFyNWYyRUd0NUhvRVl2WllpUjhMRWJOeWVsYzQ0bEh1UktxcTZ2ZEhSSWlPR3hIZHZIX3YzWmdXM0lDMHNNUkNHQQ?oc=5",
-          "source": "The New York Times",
-          "pubDate": "Sun, 15 Nov 2026 18:46:52 GMT"
-        },
-        {
-          "title": "Showdown looms between Trump and Democrats over air traffic control meltdown - CNN",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMFVNOGd2MkVjTl8xajBGZ3RyclN0T05Tc1M1cVNraXN3YmJrZHdzazVpdUowRlJCLWp4MlNhWUdmek9ZaF9aVThiTERSQnNSWGp1bU85eTdmLVA2bVl4ZkdGaUp5dzlMcHlhOW5wTlFnSGd6MmpXUXpvX3hyVlVUdzNvM2QySnNoS0E?oc=5",
-          "source": "CNN",
-          "pubDate": "Mon, 16 Nov 2026 05:00:15 GMT"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 503"
     },
     {
       "id": "iran-war",
@@ -509,7 +144,7 @@
       "query": "Iran war",
       "feedUrl": null,
       "items": [],
-      "error": "Status code 429"
+      "error": "Status code 503"
     },
     {
       "id": "ukraine-war",
@@ -526,81 +161,8 @@
       "category": "Politics & World",
       "query": "US midterm elections",
       "feedUrl": null,
-      "items": [
-        {
-          "title": "Lots of 2026 midterm races haven’t been called yet. Here’s where things stand right now. - Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUTRjb29BWW1ZUmxZRFUxUXFpV2gwUjltWDE1NTJnRnFRT3QxWGlTRlo0LUVmRkhWYmM4dGJmVG9pYnhwczZObWpESkxtMlg0Nl95MEp2YXRBT1JIb280cWwxU0trREt3VGZKSzNlYlNsMWpHZS11V21xRXRvTlA5ZEFQd2J0bEVWM3o3R3FjTTlfRFFMZS1zNXlhVmcwLThBeWtnOVI3YUdfb181TldqY3o4b1JuMHcxZ2RjMUMtRTBKaHhjcUp0bWdTcmFudU8y?oc=5",
-          "source": "Yahoo",
-          "pubDate": "Mon, 16 Nov 2026 15:00:46 GMT"
-        },
-        {
-          "title": "‘Were we too Maga or not Maga enough?’: Republicans reckon with Arizona wipeout - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOWFGVGNUaXRhbFNSeF9ZYlpCUHNIQ0loYUd0bE5UZ1VLUGNmc3F6MEdlVGVKUlRGZDNneWd2MlQ4ZDZETm1xS0hSY0JGX2YzQVloSnBzVTF4YTJDNW5mc25vT0FPQlRiQXlNUUtWM0tWWVliY3FrX3FIb3NFeEYzNVpTbjZPODJEYV90NXJSZw?oc=5",
-          "source": "The Guardian",
-          "pubDate": "Sun, 15 Nov 2026 12:03:00 GMT"
-        },
-        {
-          "title": "How Xi Sees a Weakened Trump - Foreign Policy",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc3J3blphRmpEbFlDYnN3cDFUb0lGa19ybVJtcG5ZRHowZEg5TDY1X21Tc3kwUFJtd19LWGhycjFyd2F1VWExRHJ4MXB0b0pmYS1qa2kwVW5fSWtmbFBic1l2V2FXYnNVOURDekg2dzUxMjV4QnlCNDAtand3SmV0YmFUWWVmU2h5YTFVd3ZHQ0NWSE9TVW5oVUhYRW9fN2lYVnBrMHB1Tk4?oc=5",
-          "source": "Foreign Policy",
-          "pubDate": "Mon, 16 Nov 2026 19:32:40 GMT"
-        },
-        {
-          "title": "Abdul El-Sayed’s victory is a blow to the politics of Islamophobia - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYUVDYU9NU295Wndsem54R0VDaERqY2NUTXhvUjFrSHJncmMtSy1xTmxZZWNnN1NvemdQUmVsLWZ4SC1JckZVbExtWlFRSkwxWkVuZzZTNXBVal9rd2NLWmFlSVNqbWFSZmpveXNGVU4zM1JzaHpKQ2h0MjBGUUFCYWhJVFRpM3R6bXdVQjJwSWo3TFJBb2YtNUtJSFRHM3VIVHZlSDBndF9uVWl1aWRwbNIBtgFBVV95cUxQRnQ1OE5aS3J1dl96OVdxOHg4U1VtaGFGdk1uNGwwWGZLOGtrNjdING5sd1JkQ29vLXR4Y014bkJCWG92aVhKLUk0UzFLOVZ3bEFQc2tVU0ZJd3M2anMxM2ZfNktadGpLWGdQM2xVQ3NaYmhrUHFPYVZfVGF3eGx0MVRWWlFWT0VMb1pndHBUb1BJa0lubkFqaV9XZGQtWW1SUUJPRWwwaGY5aVBPblVmVW5ISy04UQ?oc=5",
-          "source": "Al Jazeera",
-          "pubDate": "Mon, 16 Nov 2026 18:40:18 GMT"
-        },
-        {
-          "title": "US Democrats win final two Senate seats; Coalition likely to easily win Victorian election - The Conversation",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc3F3TXRhTENWQU5qVFZMd2pZbEJLckJfV05ZTlplQmV4dXFCdzhWdlhMMl9VMWhQbXpJaFR1WllzeWxaSzY1V05xOFRsakNwLUZCUE1jaG91Zzl3aUZSWF81TmlQT0FNNDlJaExZRVpMZTJqRzlpal9ZVG1faVZYRFhmQWozRkFHczVXTVZZYjJfOVJnNTI2OWtuRlNzcG1pQnphMTdwbWVPUEoxdXJBVmRKY2NJeG9Ld3kzM2xHYnkyZw?oc=5",
-          "source": "The Conversation",
-          "pubDate": "Sun, 15 Nov 2026 23:05:47 GMT"
-        },
-        {
-          "title": "Republican 2028 field takes shape after midterm drubbing - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWVVFemZtYVJhX3pLSHkwQUhWanhyT1YybzVwOS1XbU1feTNBM3NKcVdWUVp6YXZQb2ZGYTFPem9xcU5fdUJ6dy1WbVh5TUo3QlYxY0FmV1JORHM2dEpkSVlHMTB0MlB5bHl2cm9FY3NESUJuYmxQN1Z2UjN3ajB2M2dnWkVuVlNrRzAtaU1mNVFVZFBZZ2gzUU1wWHlJM0ZndDYw?oc=5",
-          "source": "Reuters",
-          "pubDate": "Mon, 16 Nov 2026 12:51:49 GMT"
-        },
-        {
-          "title": "Beneath the blue wave is a moral earthquake - The Hill",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVGF2T2ktZjFKcGZYc3A1WnV0OGMwVEpuU2MtQmVMR0tMcXpDLUd2MU4tdjlkd1NvZ0E3MnZXYUJiTXUxY21QdHk2eEtQYUhBZW1OQlYzWmtJTUNOMDFxZnBLaDVOMFNpbGxTZEl6R2RXX25ZelEyeGtOZWU2djFKRTBhUWktS1nSAYwBQVVfeXFMUHFGbHNfdmtBYUEwV2lKZkY5eU5rM0FYZmJsV3B5aWFnWDZYanVHakNJckpBZkg0Ulp3RTlDbExtWVp6ODA0Q1JXRGRMTlFWR1ZsaENwbVYwaGt0Z01QbzhGU2k1UFl4SThtbTRQb1JQLVhqdDRVdnJtdlpUOFlac2RBRlpha0tkVkduOWE?oc=5",
-          "source": "The Hill",
-          "pubDate": "Mon, 16 Nov 2026 13:00:00 GMT"
-        },
-        {
-          "title": "After Midterms Triumph, Democrats Look Quickly and Eagerly Ahead to 2028 - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdmV0cmNESE5UTm1YamMxX3F4SHhieGQzV2ktT2dWYUpaY0VNMVFJOHBiN3lYSHF4REFmenU4SmdwZUdDaE1TUnFDTnE3MUVKcE96eDhHRDNTOVNiQTdZR1EzbDF5Mmc0clhTSFBxNGM5R2d6R1pqQWx2Y1VRUENpN1BSTElWVmVXRFJocEplaU8wRE5y?oc=5",
-          "source": "The New York Times",
-          "pubDate": "Sun, 15 Nov 2026 10:01:00 GMT"
-        },
-        {
-          "title": "Trump's handpicked party chair faces a rebellion as midterm losses challenge president's grip on GOP - PBS",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNb2pLSGVXQ1pZUGxCcTNXbjRWUVZEOER6WHVsSER0ekwwOUpWQkNub0lyZjdjYk5fQklxeU1DWE9xaUV2V3N6cjRaOEhPbnpabjBoSjNFc1o4YU4xX0NqOGFaM1lyZTVKWWF5cDBLNF90ck1mTVhGaE9Ucm5INmRyUXJ0SU1zN1NrMGV4QlBHSVhsdWJMQ0JyOGdvM2FzR3gySzJNS20zc2pMX0ZpYUNsd2VHWEh0NHNXY1dUUW1fSVUwNHVndkhQSmhyVy1aMHdOUUHSAdcBQVVfeXFMTnM3WjFjLUhZZ25CSW8tTnliYkgzSUFrUGtId0pVd09uak5fN1Z5TkMzREdoWE1BNTItZEVONVpyTEVyb1h3VVJsQWhYUVpYbmNPdWpEdjNiOVk4Mm1MdmxyWndrRHlZY0VhZ0ZkcHpyY1VkS2JDU2dQdmpaeGxVZ2d2ZDRiQnVXaVpsWG9STWFGWUVlcld1NW9TVmFHYmJRWVYwdmhLaVFQSEhTZzFJdF92dHZveWpZeGdCM0NRWXVVR19UVTNmM0llczYxeWd4aGZGa25hcUU?oc=5",
-          "source": "PBS",
-          "pubDate": "Sun, 15 Nov 2026 22:43:07 GMT"
-        },
-        {
-          "title": "Midterm Elections Live Updates: Democrats Project Power as G.O.P. Reels in a Reordered Washington - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ3N3bFh4Q1JsM0lqczM5Q2l5Wmx1WG90Q0hBV1hZRDVmdmJUTFdBWDhySHI0RGlFV2dZeUhlRGR0UEtGdVZkUS15WDZ6eXlSRVJIVFV6eEo5ODBXY3h4S1JWQUoyb1N1dW9YQXFTUEM1dFNTTXRxOW1vcGRpUmhKbmNQWQ?oc=5",
-          "source": "The New York Times",
-          "pubDate": "Sat, 14 Nov 2026 08:00:00 GMT"
-        },
-        {
-          "title": "Post-Election Trade Outlook: Tariff Authority and Congressional Scrutiny - Holland & Knight",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNekhjeVlRM0psMkdMNk9MVzg3Tng3ZkhZWTBySWxlendaV01lZ1hFYkdWSUFDUk9HMU0waklHZGVXb0ZaLXF3RFpCb0JFTDBpd1JaT0pfY0FYeDdzNWZWYUdxeUl3Q1RYbWwyTjJaOHZDM2d6aC1pb08tTHpPdkdzV3VxRGZvNGtqelg0NTNHRDI2R3ZRaUVOMFVGamJ0UEw4QTdaeVo3aFZ4bFoyaXUzM0V1S1VZLVUt?oc=5",
-          "source": "Holland & Knight",
-          "pubDate": "Mon, 16 Nov 2026 19:59:25 GMT"
-        },
-        {
-          "title": "Forecasting the US Midterm Congressional Elections Without Poll Data - - Political Science Now",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeHU1dmxaYmNzbF9qbzBGRmFVM09aQVNPVVRQS1NwdlpoUS1xRDhYb2tTMWNKUzMwQ3BRUjd4VDMtMVN0cW5iMzkweGUxSFk5QXhMbF8xQzBZcmQ0eWVrb2FhS2trM3RPbXh4UFY5anp2SWtibXJDbU5VNkx1SDdPcERnUVRHdjZ1TVJBNmF1ZUhLUlhoQUlGVXZZaUZvdEtOaHk0?oc=5",
-          "source": "Political Science Now",
-          "pubDate": "Fri, 13 Nov 2026 15:32:42 GMT"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 503"
     },
     {
       "id": "fox-river-valley",
@@ -609,7 +171,7 @@
       "query": "Fox River Valley Illinois events",
       "feedUrl": null,
       "items": [],
-      "error": null
+      "error": "Status code 429"
     }
   ]
 }
